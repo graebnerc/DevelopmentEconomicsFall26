@@ -1,0 +1,631 @@
+---
+title: "📝 Session 10 Slide Outline: Sustainable Development, Environmental Limits, and Degrowth"
+date: "2026-11-27"
+date-modified: last-modified
+---
+
+## Detailed Slide Outline
+
+---
+
+### SLIDE 1: Title Slide
+
+**Session 10: Sustainable Development, Environmental Limits, and Degrowth**
+- Date
+- Course: Development Economics
+
+---
+
+### SLIDE 2: Today's Agenda
+
+1. The Development-Environment Nexus
+2. Doughnut Economics Framework
+3. **Interactive Exercise**: Mapping Development Pathways
+4. The Growth/Degrowth Controversy
+5. Synthesis: Connecting Across the Course
+
+---
+
+## PART 1: INTRODUCTION (10 minutes)
+
+### SLIDE 3: The Development-Environment Nexus
+**A Bidirectional Relationship**
+
+Two-way causality:
+
+- Environmental degradation → Development outcomes
+- Development activities → Environmental impacts
+
+**Key insight**: The relationship differs by development level and context
+
+---
+
+### SLIDE 4: Environmental Degradation Affects Development
+
+**Disproportionate impacts on developing countries:**
+
+- Climate change impacts (floods, droughts, sea-level rise)
+- Resource depletion (water scarcity, soil degradation, fisheries collapse)
+- Health costs (air pollution, water contamination)
+- Economic disruption (agricultural losses, disaster costs)
+
+**"Environmentalism of the Poor"** (Anguelovski & Martínez-Alier):
+
+- Poor communities often most dependent on environmental resources
+- Least able to adapt to environmental shocks
+- Different stakes in environmental protection than wealthy countries
+
+---
+
+### SLIDE 5: Development Activities Affect Environment
+**Multiple channels:**
+
+- **Scale effect**: More production → More resource use and pollution
+- **Composition effect**: Shift to industry → Different environmental footprint
+- **Technique effect**: New technologies → Potentially lower impact per unit
+
+**The Environmental Kuznets Curve hypothesis:**
+
+- Initial development increases pollution
+- Beyond certain income level, pollution decreases
+- But: Does this hold for all pollutants? For global environmental limits?
+
+---
+
+### SLIDE 6: Planetary Boundaries Framework
+**9 Earth System Processes** (Richardson et al., 2023)
+
+Visual showing the 9 boundaries:
+
+1. Climate change ❌
+2. Biosphere integrity ❌
+3. Land-system change ❌
+4. Freshwater use ❌
+5. Biogeochemical flows (N, P) ❌
+6. Novel entities (chemicals, plastics) ❌
+7. Ocean acidification ⚠️
+8. Atmospheric aerosol loading ?
+9. Stratospheric ozone depletion ✓
+
+**6 of 9 boundaries already transgressed**
+
+---
+
+### SLIDE 7: Implications for Development
+
+**The "safe operating space" for humanity is shrinking**
+
+Key questions this raises:
+
+- Can traditional development models continue?
+- Is there still "space" for development in the Global South?
+- What does "development" mean within planetary boundaries?
+- How do we balance social needs and ecological limits?
+
+---
+
+## PART 2: DOUGHNUT ECONOMICS (15 minutes)
+
+### SLIDE 8: The Doughnut Economics Framework
+**Kate Raworth's Visual Model**
+
+[Show the doughnut diagram]
+
+**Two boundaries:**
+
+- **Inner ring**: Social foundation (12 dimensions)
+- **Outer ring**: Ecological ceiling (9 planetary boundaries)
+
+**The goal**: Stay in the "safe and just space" between the two
+
+---
+
+### SLIDE 9: The Social Foundation
+**12 dimensions of human wellbeing** (connecting to capabilities approach, Session 3):
+
+- Food
+- Water
+- Health
+- Education
+- Income and work
+- Peace and justice
+- Political voice
+- Social equity
+- Gender equality
+- Housing
+- Networks
+- Energy
+
+**These are basic capabilities people need to achieve**
+
+---
+
+### SLIDE 10: The Ecological Ceiling
+**9 planetary boundaries** (connecting to Richardson et al.):
+
+- Climate change
+- Ocean acidification
+- Chemical pollution
+- Nitrogen & phosphorus loading
+- Freshwater withdrawals
+- Land conversion
+- Biodiversity loss
+- Air pollution
+- Ozone layer depletion
+
+**These are Earth system processes we cannot safely exceed**
+
+---
+
+### SLIDE 11: Where Do Countries Sit in the Doughnut?
+**Empirical findings** (Fanning & Raworth, 2025)
+
+[Show graph positioning countries]
+
+**Key observation**: No country currently achieves social foundation without transgressing planetary boundaries
+
+Examples:
+- **High-income countries**: Meet social needs but overshoot ecological ceiling
+- **Low-income countries**: Within ecological boundaries but fail social foundation
+- **The doughnut sweet spot**: Mostly empty
+
+---
+
+### SLIDE 12: Critical Questions About the Doughnut
+
+**1. Historical responsibility**
+- Who created current ecological overshoot?
+- Should boundaries be applied equally to all countries?
+
+**2. Power relations** (Anvaari's decolonial Marxist critique)
+- Does framework obscure structural inequalities?
+- Does it assume all countries can/should reach same position?
+- Missing: Colonial legacies, unequal exchange, global value chains
+
+**3. Operationalization**
+- How do we measure "fair shares" of ecological space?
+- Who decides the thresholds?
+- What policies would actually keep us in the doughnut?
+
+---
+
+### SLIDE 13: Doughnut Framework: Strengths and Limitations
+
+**Strengths:**
+- Intuitive visual communication
+- Integrates social and ecological dimensions
+- Connects to capabilities approach
+- Moves beyond GDP as sole metric
+
+**Limitations:**
+- May understate political economy barriers
+- Doesn't specify mechanisms for achieving balance
+- Risk of depoliticization (technical framing of political problems)
+- Limited attention to global power structures and historical responsibility
+
+---
+
+## PART 3: INTERACTIVE EXERCISE (20-25 minutes)
+
+### SLIDE 14: Interactive Exercise - Setup
+**Mapping Development Pathways**
+
+**Your task:**
+1. Analyze your assigned country's position (5 min individual)
+2. Discuss as group (7 min)
+3. Design a policy pathway (5 min)
+4. Prepare 2-minute presentation
+
+**Countries:**
+- Group 1: Germany
+- Group 2: Vietnam  
+- Group 3: Kenya
+- Group 4: Costa Rica
+- Group 5: Saudi Arabia
+
+[Distribute country fact sheets]
+
+---
+
+### SLIDE 15: Guiding Questions for Your Analysis
+
+**Current position:**
+- Where is your country in the doughnut? (Social foundation? Ecological overshoot?)
+- What are main environmental pressures?
+- What are main development priorities?
+
+**Policy pathway:**
+- Should your country pursue growth? Degrowth? Something else?
+- What specific policies would move toward the doughnut?
+- What are the main constraints? (Political, institutional, economic)
+
+**Context matters:**
+- How does your country's development level affect options?
+- How do global power structures constrain choices?
+
+---
+
+### SLIDE 16: [BLANK - For Group Presentations]
+**Group presentations and discussion**
+
+[10 minutes total - 2 minutes per group]
+
+---
+
+### SLIDE 17: Synthesis from Exercise
+**What we learned:**
+
+Key insights from presentations:
+- Different countries need different pathways
+- Development level matters for policy options
+- Historical responsibility vs. current capacity
+- Institutional and political constraints vary
+- Global structures shape national options
+
+**This context-dependency will be key for understanding the growth/degrowth debate**
+
+---
+
+## PART 4: THE GROWTH/DEGROWTH CONTROVERSY (30 minutes)
+
+### SLIDE 18: Framing the Debate
+**What are we actually debating?**
+
+**Important distinction** (Schmelzer, 2023):
+- **GDP critiques**: GDP is bad measure (we covered this in Session 2)
+- **Growth critiques**: Continuous GDP expansion is problematic
+
+**This session focuses on growth critiques**
+
+---
+
+### SLIDE 19: What is Degrowth?
+**According to Hickel (2020):**
+
+Degrowth means:
+- **In Global North**: Planned reduction of energy/material throughput
+- **Not**: Recession, austerity, or poverty
+- **Not**: Reduction of all economic activity equally
+- **Goal**: Reduce ecologically destructive production while maintaining/improving wellbeing
+
+**Key principle**: Selective degrowth in wealthy countries while enabling development in Global South
+
+**Note**: Significant heterogeneity within degrowth movement (Trainer's critique)
+
+---
+
+### SLIDE 20: The Alternative: Green Growth
+**The mainstream position:**
+
+**Core claim**: We can continue GDP growth while reducing environmental impact
+
+**Mechanism**: "Decoupling"
+- Technological innovation
+- Efficiency improvements
+- Shift to services and knowledge economy
+- Renewable energy transition
+- Circular economy
+
+**This relies on absolute decoupling: GDP ↑ while environmental impact ↓**
+
+---
+
+### SLIDE 21: The Decoupling Debate - Key Concepts
+
+**Relative decoupling**: Environmental impact per unit GDP decreases
+- Example: 5% GDP growth, 3% emissions growth = 2% relative decoupling
+- **Not sufficient** - total impact still increases
+
+**Absolute decoupling**: Total environmental impact decreases while GDP grows
+- Example: 5% GDP growth, -2% emissions = absolute decoupling
+- **This is what green growth requires**
+
+**The question**: Is absolute decoupling happening at sufficient rates?
+
+---
+
+### SLIDE 22: The Empirical Evidence on Decoupling
+
+**Historical trends:**
+- Relative decoupling: Common in many areas
+- Absolute decoupling: Rare and limited
+  - Some success for local pollutants in wealthy countries
+  - Little evidence for material throughput globally
+  - No evidence for absolute decoupling at global scale across multiple dimensions
+
+**Required rates for climate targets:**
+- Need ~7-10% annual reduction in emissions
+- Observed rates: At best 1-2% in few countries for limited time periods
+- **Gap between required and observed rates is enormous**
+
+---
+
+### SLIDE 23: The Hickel-Kallis Position (2020)
+**"Is Green Growth Possible?" - Their answer: No**
+
+**Their argument:**
+1. Historical evidence shows insufficient absolute decoupling
+2. Technological improvements get offset by scale increases (Jevons paradox)
+3. High-income countries show no evidence of absolute decoupling in material use
+4. Required rates of decoupling are unprecedented and implausible
+
+**Conclusion**: 
+- Continued growth in Global North is incompatible with climate goals
+- Need deliberate downscaling in wealthy countries
+- Enable development in Global South within ecological limits
+
+---
+
+### SLIDE 24: The Warlenius Critique (2023)
+**"What if Hickel and Kallis are right?"**
+
+**Warlenius accepts their pessimism about decoupling, then asks:**
+"What would degrowth have to look like to meet climate targets?"
+
+**His calculations:**
+- If decoupling is as limited as Hickel-Kallis claim
+- Meeting 1.5°C target requires 4-6% annual GDP reduction in wealthy countries
+- For 30+ years continuously
+- This is **unprecedented** peacetime economic contraction
+
+**His point**: This may be as politically unfeasible as green growth is technically unfeasible
+
+---
+
+### SLIDE 25: The Debate Continues
+**Jackson, Hickel & Kallis response (2024) + Warlenius rejoinder (2025)**
+
+**Hickel-Kallis response:**
+- Warlenius uses overly pessimistic assumptions
+- Degrowth doesn't mean GDP reduction alone - includes restructuring
+- Some decoupling is possible, just not enough for continued growth
+- Focus on wellbeing provisioning, not GDP
+
+**Warlenius rejoinder:**
+- His calculations follow from Hickel-Kallis's own empirical claims
+- Gap between what's ecologically necessary and politically feasible remains
+- Both green growth and degrowth face enormous implementation barriers
+
+**Unresolved tension between ecological necessity and political feasibility**
+
+---
+
+### SLIDE 26: Beyond the Technical Debate
+**This is fundamentally about political economy**
+
+**Why does growth imperative persist?** (Connecting to Session 5 on institutions)
+- Debt-based financial system requires growth
+- Employment depends on growth (in current system)
+- Political legitimacy tied to growth
+- Corporate profit models based on expansion
+- Power structures benefit from status quo
+
+**Both green growth and degrowth require:**
+- Massive institutional transformation
+- Redistribution of power and resources
+- International cooperation
+- Challenge to vested interests
+
+---
+
+### SLIDE 27: What Does "Growth" Measure Anyway?
+**Connecting back to Session 2**
+
+**Reminder**: GDP measures:
+- Market transactions
+- Not wellbeing, not sustainability
+- Can increase while actual welfare decreases
+
+**Implications for debate:**
+- Maybe GDP growth vs. degrowth is wrong framing?
+- Should we focus on wellbeing provisioning instead?
+- Can we restructure economies to meet needs without growth?
+
+**But**: GDP is deeply embedded in political and economic institutions
+
+---
+
+### SLIDE 28: The North-South Dimension
+**Who should degrow? Who should develop?**
+
+**Key differentiation:**
+- **Global North**: Ecological overshoot, high consumption levels
+  - Case for selective degrowth or post-growth
+  - Focus on sufficiency and redistribution
+  
+- **Global South**: Often within ecological boundaries but failing social foundation
+  - Need development in capabilities and material conditions
+  - But avoid replicating Northern consumption models
+
+**Historical responsibility matters:**
+- North created most cumulative emissions and environmental degradation
+- Colonial and post-colonial resource extraction
+- Unequal exchange continues
+
+---
+
+### SLIDE 29: Critical Synthesis of Growth/Degrowth Debate
+
+**False dichotomy?**
+- Not just "green growth" vs "degrowth"
+- Multiple pathways possible depending on context
+
+**Questions the debate reveals:**
+1. What do we want to grow/shrink? (Not all economic activity is equal)
+2. Growth/degrowth of what? (GDP vs. wellbeing vs. material throughput)
+3. Who decides? (Democratic participation vs. technocratic solutions)
+4. Who benefits/pays? (Distributional questions central)
+
+**Power and discourse:**
+- Who defines terms of debate?
+- Whose voices are centered/marginalized?
+- Connection to postcolonial critiques (Session 1)
+
+---
+
+## PART 5: SYNTHESIS & CONCLUSION (10 minutes)
+
+### SLIDE 30: Connecting Across the Course
+**How environmental limits challenge previous frameworks**
+
+**Session 2 (Measurement):**
+- If not GDP growth, what should we measure?
+- Doughnut framework offers alternative metrics
+- But measurement alone doesn't solve political economy problems
+
+**Session 3 (Capabilities Approach):**
+- Doughnut's social foundation ≈ basic capabilities
+- Environmental limits affect capability achievement
+- Need ecological capabilities framework?
+
+---
+
+### SLIDE 31: Connecting Across the Course (continued)
+
+**Session 4 (Growth Models):**
+- Solow model: Can technological progress overcome resource limits?
+- Assumption of infinite substitutability between capital and resources
+- Environmental economics challenges: Some resources have no substitutes
+- Ecological economics: Economy as subsystem of finite biosphere
+
+**Session 5 (Institutions):**
+- What institutions enable/prevent sustainable transitions?
+- Path dependencies and lock-ins
+- Power structures that maintain growth imperative
+- Need for institutional transformation
+
+---
+
+### SLIDE 32: Policy Dilemmas and Trade-offs
+**No easy answers**
+
+**Green growth pathway:**
+- **Advantages**: Politically easier, builds on existing institutions, less disruptive
+- **Challenges**: Insufficient evidence it works at required scale, time running out
+- **Risks**: Continued ecological overshoot while pursuing technological fixes
+
+**Degrowth pathway:**
+- **Advantages**: Directly addresses overconsumption, aligns means with ends
+- **Challenges**: Politically difficult, requires radical restructuring, implementation unclear
+- **Risks**: Economic disruption without careful management
+
+**Doughnut-guided approach:**
+- **Advantages**: Comprehensive framework, context-sensitive
+- **Challenges**: How to actually achieve it? Political economy barriers
+- **Risks**: Becomes aspirational diagram without transformative action
+
+---
+
+### SLIDE 33: What Would Different Policies Look Like?
+
+**Green growth approach:**
+- Massive investment in renewable energy and green technology
+- Carbon pricing and emissions trading
+- Circular economy policies
+- Energy efficiency standards
+- Maintain growth trajectory while reducing emissions intensity
+
+**Degrowth approach:**
+- Working time reduction
+- Universal basic services
+- Caps on resource extraction and emissions
+- Luxury taxes and progressive taxation
+- Democratic planning of production priorities
+
+**Context-specific approaches:**
+- Different policies for different countries (as our exercise showed)
+- Global North: Focus on sufficiency and redistribution
+- Global South: Sustainable development pathways
+- Requires international cooperation and transfer of resources/technology
+
+---
+
+### SLIDE 34: The Implementation Challenge
+**Political economy of transitions**
+
+**Who bears the costs?**
+- Workers in fossil fuel industries
+- Communities dependent on extractive industries
+- Consumers facing higher prices
+- Need for just transition policies
+
+**Who has power to block/enable change?**
+- Fossil fuel corporations and financial interests
+- Political institutions dependent on growth for legitimacy
+- International power structures
+- But also: Social movements, changing norms, crisis moments
+
+**Path dependencies:**
+- Infrastructure lock-ins (transport, energy, housing)
+- Institutional lock-ins (financial system, employment models)
+- Cognitive lock-ins (growth = progress equation)
+
+---
+
+### SLIDE 35: Key Takeaways
+
+1. **Development and environment are inseparably linked** - bidirectional causality
+
+2. **The doughnut framework** offers intuitive visualization of the challenge - but doesn't resolve political economy tensions
+
+3. **The growth/degrowth debate** reveals fundamental tensions between ecological necessity and political feasibility
+
+4. **Decoupling is insufficient** at observed rates - but required degrowth rates also pose enormous challenges
+
+5. **Context matters enormously** - different pathways for countries at different development levels
+
+6. **This is ultimately about power** - who decides, who benefits, who pays?
+
+7. **No perfect solutions exist** - only difficult choices with trade-offs
+
+---
+
+### SLIDE 36: Final Reflection
+**THE development challenge of our time**
+
+We face a **trilemma**:
+- Ecological sustainability
+- Social justice and development
+- Political feasibility
+
+**We cannot avoid choosing:**
+- Business as usual → ecological collapse
+- Green growth → unproven at required scale
+- Degrowth → unprecedented political challenge
+
+**The question is not which is perfect, but which direction to move**
+
+Different contexts require different strategies - but all require confronting power structures and transforming institutions
+
+---
+
+### SLIDE 37: Looking Ahead
+**Next session preview** [If applicable]
+
+**For further exploration:**
+- All readings on Moodle
+- Particularly recommended:
+  - Hickel-Warlenius debate for empirical details
+  - Anvaari for decolonial perspective
+  - Anguelovski & Martínez-Alier for environmentalism of the poor
+
+**Questions? Discussion?**
+
+---
+
+### SLIDE 38: References
+[List key references from reading list]
+
+Fanning, A. L. and Raworth, K. (2025) "Doughnut of social and planetary boundaries monitors a world out of balance," Nature.
+
+Hickel, J. (2020) "What does degrowth mean? A few points of clarification," Globalizations.
+
+Hickel, J. and Kallis, G. (2020) "Is Green Growth Possible?" New Political Economy.
+
+Richardson, K. et al. (2023) "Earth beyond six of nine planetary boundaries," Science Advances.
+
+Warlenius, R. H. (2023) "The limits to degrowth," Ecological Economics.
+
+[Additional references as needed]
+
+---

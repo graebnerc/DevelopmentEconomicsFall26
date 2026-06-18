@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -10,6 +10,9 @@
 
 <title>Tutorials – Development Economics</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -21,6 +24,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -31,21 +69,20 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../content/material/session_08.html" rel="prev">
+<link href="../content/material/s_12_Summary.html" rel="prev">
 <link href="../figures/icons/course_favicon.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-listing/list.min.js"></script>
 <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-d31696e011675b5e12e5633f027f3c8c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-7ed03afd9cad4b9a490e112b22b8940a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-55910784811878cbb546fa46ed5ddce3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -103,7 +140,7 @@ ul.task-list li input[type="checkbox"] {
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -145,8 +182,6 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Development Economics</span>
     </a>
@@ -176,10 +211,6 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-      <a href="../index.html" class="sidebar-logo-link">
-      </a>
-      </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -217,50 +248,68 @@ window.Quarto = {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/material/session_01.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Session 01</span></a>
+  <a href="../content/material/s_01_Intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Session 1: Introduction</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/material/session_02.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Session 02</span></a>
+  <a href="../content/material/s_02_Measuring.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Session 2: Measuring Development</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/material/session_03.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Session 03</span></a>
+  <a href="../content/material/s_03_HumanDev.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Session 3: Human Development</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/material/session_04.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Session 04</span></a>
+  <a href="../content/material/s_04_GrowthModels.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Session 4: Classical and Neoclassical Growth Models</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/material/session_05.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Session 05</span></a>
+  <a href="../content/material/s_05_Institutions1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Session 5: Institutional Economics I</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/material/session_06.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Session 06</span></a>
+  <a href="../content/material/s_06_Institutions2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Session 6: Institutional Economics II</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/material/session_07.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Session 07</span></a>
+  <a href="../content/material/s_07_Marxism.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Session 7: Marxist Theories</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/material/session_08.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Session 08</span></a>
+  <a href="../content/material/s_08_Dependency.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Session 8: Dependency Theory</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../content/material/s_09_Technology.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Session 9: Technology, Innovation &amp; Trade</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../content/material/s_10_Sustainability.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Session 10: Sustainable Development &amp; Degrowth</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../content/material/s_12_Summary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Session 12: Summary &amp; Open Questions</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -284,7 +333,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/material/index.html">🗓️ Material</a></li><li class="breadcrumb-item"><a href="../content/tutorials.html">💻 Tutorials</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Tutorials</h1>
+<div class="quarto-title-block"><div><h1 class="title">Tutorials</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Code</button></div></div>
 </div>
 
 
@@ -320,6 +369,8 @@ window.Quarto = {
 
 
 
+<!-- -->
+
 
 <div class="quarto-listing quarto-listing-container-table" id="listing-listing">
 <table class="quarto-listing-table table table-striped table-hover">
@@ -334,7 +385,7 @@ Title
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-listing-date-sort="1746828000000" data-listing-file-modified-sort="1756069825031" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="47" data-listing-word-count-sort="9377" data-listing-title-sort="1: Important measures of development" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="0" data-listing-date-sort="1746828000000" data-listing-file-modified-sort="1781775614279" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="47" data-listing-word-count-sort="9377" data-listing-title-sort="1: Important measures of development" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td>
 <a href="../content/tutorials/MeasuringDevelopment/index.html" class="title listing-title">1: Important measures of development</a>
@@ -342,7 +393,7 @@ Title
 
 </tr>
 
-<tr data-index="1" data-listing-date-sort="1762470000000" data-listing-file-modified-sort="1761859049577" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="23" data-listing-word-count-sort="4433" data-listing-title-sort="2: Measuring Institutions with the Worldwide Governance Indicators" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="1" data-listing-date-sort="1762470000000" data-listing-file-modified-sort="1781775614266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="23" data-listing-word-count-sort="4433" data-listing-title-sort="2: Measuring Institutions with the Worldwide Governance Indicators" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td>
 <a href="../content/tutorials/WGI/index.html" class="title listing-title">2: Measuring Institutions with the Worldwide Governance Indicators</a>
@@ -424,6 +475,57 @@ Title
         container: window.document.getElementById('quarto-embedded-source-code-modal')
       });
       clipboardModal.on('success', onCopySuccess);
+    }
+    const viewSource = window.document.getElementById('quarto-view-source') ||
+                       window.document.getElementById('quarto-code-tools-source');
+    if (viewSource) {
+      const sourceUrl = viewSource.getAttribute("data-quarto-source-url");
+      viewSource.addEventListener("click", function(e) {
+        if (sourceUrl) {
+          // rstudio viewer pane
+          if (/\bcapabilities=\b/.test(window.location)) {
+            window.open(sourceUrl);
+          } else {
+            window.location.href = sourceUrl;
+          }
+        } else {
+          const modal = new bootstrap.Modal(document.getElementById('quarto-embedded-source-code-modal'));
+          modal.show();
+        }
+        return false;
+      });
+    }
+    function toggleCodeHandler(show) {
+      return function(e) {
+        const detailsSrc = window.document.querySelectorAll(".cell > details > .sourceCode");
+        for (let i=0; i<detailsSrc.length; i++) {
+          const details = detailsSrc[i].parentElement;
+          if (show) {
+            details.open = true;
+          } else {
+            details.removeAttribute("open");
+          }
+        }
+        const cellCodeDivs = window.document.querySelectorAll(".cell > .sourceCode");
+        const fromCls = show ? "hidden" : "unhidden";
+        const toCls = show ? "unhidden" : "hidden";
+        for (let i=0; i<cellCodeDivs.length; i++) {
+          const codeDiv = cellCodeDivs[i];
+          if (codeDiv.classList.contains(fromCls)) {
+            codeDiv.classList.remove(fromCls);
+            codeDiv.classList.add(toCls);
+          } 
+        }
+        return false;
+      }
+    }
+    const hideAllCode = window.document.getElementById("quarto-hide-all-code");
+    if (hideAllCode) {
+      hideAllCode.addEventListener("click", toggleCodeHandler(false));
+    }
+    const showAllCode = window.document.getElementById("quarto-show-all-code");
+    if (showAllCode) {
+      showAllCode.addEventListener("click", toggleCodeHandler(true));
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
@@ -761,18 +863,35 @@ Title
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../content/material/session_08.html" class="pagination-link" aria-label="Session 08">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Session 08</span>
+      <a href="../content/material/s_12_Summary.html" class="pagination-link" aria-label="Session 12: Summary &amp; Open Questions">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Session 12: Summary &amp; Open Questions</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
   </div>
-</nav>
+</nav><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Source Code</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Tutorials"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">listing:</span><span class="co"> </span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">  contents: </span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co">    - tutorials</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co">  type: table # or `grid` or `default` or `table`; each type has its own set of yaml options to include</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co">  sort: "name asc"</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co">  categories: false # allows you to sort posts by assigned categories</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co">  sort-ui: false</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co">  filter-ui: false</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">  table-striped: true</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="co">  table-hover: true</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co">  fields: [title]</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>Here I provide short tutorials or descriptions of relevant topics.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
+</div></div></div></div></div>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright 2025, Claudius Gräbner-Radkowitsch</p>
+<p>Copyright 2026, Claudius Gräbner-Radkowitsch</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

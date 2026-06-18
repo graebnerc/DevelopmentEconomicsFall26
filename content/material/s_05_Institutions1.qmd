@@ -1,0 +1,57 @@
+---
+title: "🗓️ Session 5: Institutional Economics and Development I"
+date: "2026-10-23"
+date-modified: last-modified
+---
+
+## Abstract
+
+This session explores the "development puzzle" - why countries with similar geography, resources, and colonial heritage can have vastly different development outcomes. Institutional economics pretents to have found the answer! We examine two competing paradigms in institutional economics: Original Institutional Economics (OIE), with its evolutionary and critical approach, and New Institutional Economics (NIE), which integrates institutions into mainstream economic theory.
+
+## 🖥️ Lecture Slides
+
+Either click on the slide area below or click [here](slides/DevEcon26-L05_Institutions-I.pdf) to download the slides.
+
+```{=html}
+<div class="container" style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%;">
+<iframe src="slides/DevEcon26-L05_Institutions-I.pdf" style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;" allowfullscreen loading="lazy"></iframe>
+</div>
+```
+
+## 📚 Mandatory Reading
+
+- Hodgson [-@hodgson18]
+
+## 🏆 Further Readings
+
+- Hodgson [-@hodgson2006]
+  - Comprehensive discussion of the definition of an institution and its implications
+
+- Hodgson [-@hodgson04]
+  - Foundational text on the history and central elements of original institutional economics
+
+- Menard and Shirley [-@menard2014]
+  - Good overview over central tenets of new institutional economics
+
+## ✍️ Coursework
+
+::: {.callout-tip collapse="true"}
+## Optional Exercise
+
+Compare and contrast Original Institutional Economics (OIE) and New Institutional Economics (NIE) approaches. Focus on:
+
+- Different conceptions of actors (socially embedded vs. rational optimizer)
+- Views on institutional change (evolutionary vs. efficiency-driven)
+- Treatment of power and inequality
+- Policy implications of each approach
+
+Which approach do you find more convincing for understanding development challenges, and why? (400 words)
+
+:::
+
+If you have questions or problems, please post them in the [Moodle](https://elearning.uni-flensburg.de/moodle/course/view.php?id=16258) forum.
+
+## References
+
+::: {#refs}
+:::

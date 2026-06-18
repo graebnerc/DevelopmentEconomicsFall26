@@ -1,6 +1,6 @@
 project:
   type: "website"
-  title: "Development Economics (Fall 2025)"
+  title: "Development Economics (Fall 2026)"
   output-dir: _site
   render: # Add here all folders that should be rendered
     - "index.qmd"
@@ -29,34 +29,40 @@ website:
         text: "🏢 Getting Started"
       - section: "🗓️ Material"
         contents:
-         - href: content/material/index.qmd
-           text: Overview
-         - href: content/material/SeminarDescription.qmd
-           text: Seminar Description
-         - href: content/material/session_01.qmd
-           text: Session 01
-         - href: content/material/session_02.qmd
-           text: Session 02
-         - href: content/material/session_03.qmd
-           text: Session 03
-         - href: content/material/session_04.qmd
-           text: Session 04
-         - href: content/material/session_05.qmd
-           text: Session 05
-         - href: content/material/session_06.qmd
-           text: Session 06
-         - href: content/material/session_07.qmd
-           text: Session 07
-         - href: content/material/session_08.qmd
-           text: Session 08
-         - href: content/tutorials.qmd
-           text: "💻 Tutorials"
+          - href: content/material/index.qmd
+            text: Overview
+          - href: content/material/SeminarDescription.qmd
+            text: Seminar Description
+          - href: content/material/s_01_Intro.qmd
+            text: "Session 1: Introduction"
+          - href: content/material/s_02_Measuring.qmd
+            text: "Session 2: Measuring Development"
+          - href: content/material/s_03_HumanDev.qmd
+            text: "Session 3: Human Development"
+          - href: content/material/s_04_GrowthModels.qmd
+            text: "Session 4: Classical and Neoclassical Growth Models"
+          - href: content/material/s_05_Institutions1.qmd
+            text: "Session 5: Institutional Economics I"
+          - href: content/material/s_06_Institutions2.qmd
+            text: "Session 6: Institutional Economics II"
+          - href: content/material/s_07_Marxism.qmd
+            text: "Session 7: Marxist Theories"
+          - href: content/material/s_08_Dependency.qmd
+            text: "Session 8: Dependency Theory"
+          - href: content/material/s_09_Technology.qmd
+            text: "Session 9: Technology, Innovation & Trade"
+          - href: content/material/s_10_Sustainability.qmd
+            text: "Session 10: Sustainable Development & Degrowth"
+          - href: content/material/s_12_Summary.qmd
+            text: "Session 12: Summary & Open Questions"
+          - href: content/tutorials.qmd
+            text: "💻 Tutorials"
 
   navbar:
     background: primary
   page-footer:
     background: light
-    left: "Copyright 2025, Claudius Gräbner-Radkowitsch" 
+    left: "Copyright 2026, Claudius Gräbner-Radkowitsch"
 
 bibliography: references/references.bib
 csl: references/jepp.csl
@@ -75,11 +81,15 @@ format:
     email-obfuscation: javascript
     link-external-newwindow: true
     link-external-icon: false
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
 
     theme:
       light: 
-        - journal
-        - css/custom.scss # Change the default colour
+        - cosmo
+        - assets/styles/custom.scss # Change the default colour
     toc: true
 
 execute:

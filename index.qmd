@@ -1,6 +1,6 @@
 ---
 title: "Development Economics"
-subtitle: "Fall Semester 2025"
+subtitle: "Fall Semester 2026"
 ---
 
 # 📑 The course in brief
@@ -45,6 +45,6 @@ subtitle: "Fall Semester 2025"
 
 -----------------
 
-<a href=https://elearning.uni-flensburg.de/moodle/course/view.php?id=16258>
+<a href=https://elearning.uni-flensburg.de/moodle/course/view.php?id=TBD>
     <button class="button-61">The main course on moodle</button>
 </a>

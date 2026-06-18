@@ -1,0 +1,24 @@
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('.callout').forEach(function (callout, i) {
+    var header = callout.querySelector('.callout-header');
+    var body = callout.querySelector('.callout-body-container');
+    if (!header || !body || header.hasAttribute('data-bs-toggle')) return;
+
+    var id = 'callout-collapse-' + i;
+    body.id = id;
+    body.classList.add('collapse');
+
+    header.setAttribute('data-bs-toggle', 'collapse');
+    header.setAttribute('data-bs-target', '#' + id);
+    header.setAttribute('aria-expanded', 'false');
+    header.setAttribute('aria-controls', id);
+    header.style.cursor = 'pointer';
+
+    var btn = document.createElement('div');
+    btn.className = 'callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end';
+    btn.innerHTML = '<i class="callout-toggle"></i>';
+    header.appendChild(btn);
+  });
+});
+</script>

@@ -1,0 +1,20 @@
+---
+title: "🗓️ Session 9: Technology, Innovation, and Trade-Led Development"
+date: "2026-11-20"
+date-modified: last-modified
+---
+
+## Abstract
+
+*Placeholder — content to be developed from the draft in `s_09_TechGap.qmd`.*
+This session introduces the Neo-Schumpeterian and evolutionary economics
+perspective on development, with a focus on the technology gap literature as a
+bridge between the institutional and Marxist/dependency frameworks.
+
+## 🖥️ Lecture Slides
+
+*Slides to follow.*
+
+## 📚 Mandatory Reading
+
+*To be announced.*

@@ -1,6 +1,6 @@
 ---
 title: "Development Economics"
-subtitle: "Fall Semester 2025"
+subtitle: "Fall Semester 2026"
 format: html
 ---
 
@@ -18,7 +18,7 @@ format: html
 
 # 📍 Lecture
 
-- Fridays 09:15-10:45 in MAD (room 024)
+- Fridays 09:15-10:45 in MAD (room MAD 131)
 
 Please make sure to check out the most recent version of the seminar timetable. 
 The most recent version can be found [here](material/SeminarDescription.qmd).
@@ -30,12 +30,12 @@ reading lists [here](/content/material/).
 
 EUF students can
 register for the Moodle course
-[16258](https://elearning.uni-flensburg.de/moodle/course/view.php?id=16258) 
-using the password `DevEcon25`.
+[TBD](https://elearning.uni-flensburg.de/moodle/course/view.php?id=TBD) 
+using the password `DevEcon26`.
 
 # 💌 Contact and discussion
 
-For asking questions and starting discussions, please use the forum in [Moodle](https://elearning.uni-flensburg.de/moodle/course/view.php?id=16258).
+For asking questions and starting discussions, please use the forum in [Moodle](https://elearning.uni-flensburg.de/moodle/course/view.php?id=TBD).
 
 <!---
 # 💻 Class Groups

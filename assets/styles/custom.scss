@@ -1,0 +1,203 @@
+/*-- scss:defaults --*/
+
+// ===== EUF visual identity =====================================
+// Sanctioned web fonts: Open Sans (digital Hausschrift, p.36–37) for
+// text/headings, Space Mono (free, p.34–35) for code. FF Dax and
+// Spinoza Pro are commercial print faces and are not used on the web.
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap');
+
+// --- EUF colour palette (Visuelle Welt der EUF, p.26–27) ---
+$euf-blue:         #00395B;  // Kobaltblau / Hausfarbe (RAL 5013, Pantone 289)
+$euf-gray:         #6F6F6F;  // Staubgrau (RAL 7037) — citations, muted text
+$euf-red:          #E65032;  // secondary accent
+$euf-lightblue:    #69AACD;  // secondary accent
+$euf-green:        #5FB46E;  // secondary accent
+$euf-blue-wash:    #eaf0f4;  // very light blue surface for callouts/cards
+
+// --- Bootstrap / cosmo overrides ---
+$primary:          $euf-blue;
+$body-color:       #1a1a1a;
+$link-color:       $euf-blue;
+$link-hover-color: $euf-red;
+
+$body-font-family:     "Open Sans", -apple-system, BlinkMacSystemFont,
+  "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: $body-font-family;
+$headings-font-weight: 700;
+$headings-color:       $euf-blue;
+$font-family-monospace: "Space Mono", SFMono-Regular, Menlo, Monaco,
+  Consolas, "Liberation Mono", monospace;
+
+/*-- scss:rules --*/
+
+// ===== EUF brand styling =======================================
+
+// Navbar — Kobaltblau with white text, light-blue on hover/active
+.navbar {
+  background-color: $euf-blue !important;
+
+  .navbar-brand,
+  .navbar-title,
+  .nav-link {
+    color: #fff !important;
+  }
+
+  .nav-link:hover,
+  .nav-link:focus,
+  .nav-link.active {
+    color: $euf-lightblue !important;
+  }
+}
+
+// Footer — matching blue band
+.nav-footer {
+  background-color: $euf-blue;
+  border-top: 3px solid $euf-lightblue;
+  color: #fff;
+
+  a { color: #fff; }
+  a:hover { color: $euf-lightblue; }
+}
+
+// Headings in Hausfarbe blue; H1 gets a subtle brand underline
+h1, h2, h3, h4, h5, h6 {
+  color: $euf-blue;
+}
+
+h1.title,
+h1:not(.title) {
+  border-bottom: 2px solid $euf-lightblue;
+  padding-bottom: 0.3rem;
+}
+
+// Sidebar active item in brand blue
+.sidebar-navigation .sidebar-item .active,
+.sidebar-navigation .sidebar-item a:hover {
+  color: $euf-blue;
+}
+
+// Inline code / code blocks pick up Space Mono automatically via
+// $font-family-monospace; give inline code a faint blue wash.
+code:not(.sourceCode) {
+  color: $euf-blue;
+  background-color: $euf-blue-wash;
+}
+
+/* Resource library — list view toggle */
+#listing-resource-listing.list-mode {
+  .list.grid {
+    display: flex !important;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .g-col-1 {
+    width: 100%;
+  }
+
+  .quarto-grid-item.card {
+    flex-direction: row;
+    align-items: stretch;
+    height: auto !important;
+  }
+
+  .card-img-top {
+    width: 140px;
+    min-width: 140px;
+    flex-shrink: 0;
+    overflow: hidden;
+
+    img {
+      height: 100% !important;
+      width: 100%;
+      object-fit: cover;
+    }
+  }
+
+  .card-body.post-contents {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0.6rem 0.8rem;
+  }
+
+  .listing-title {
+    font-size: 1rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .listing-description {
+    font-size: 0.85rem;
+    margin-bottom: 0.25rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-attribution {
+    display: none;
+  }
+}
+
+/* ===== EUF-branded callouts ===================================
+   Quarto ships callouts in stock Bootstrap colours. The rules below
+   recolour the three types we use (note / tip / important) to the EUF
+   palette: border, header wash, body wash, and icon. !important is
+   required throughout because Quarto's defaults (e.g.
+   `.callout-note.callout` for the border,
+   `.callout-note.callout-style-default > .callout-header` for the
+   header) are more specific than a single-class selector. */
+
+// callout-note → EUF Kobaltblau. This also covers the MA/PhD
+// `.level-advanced` variant: level callouts read as blue notes, not
+// green tips.
+.callout-note {
+  border-left-color: $euf-blue !important;
+
+  > .callout-header {
+    background-color: $euf-blue-wash !important;
+  }
+
+  > .callout-body-container {
+    background-color: #f4f8fb !important;
+  }
+
+  .callout-icon::before {
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" style="fill: rgb(0, 57, 91)" class="bi bi-info-circle" viewBox="0 0 16 16"><path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/><path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/></svg>') !important;
+  }
+}
+
+// callout-tip → EUF green
+.callout-tip {
+  border-left-color: $euf-green !important;
+
+  > .callout-header {
+    background-color: #e3f3e6 !important;
+  }
+
+  > .callout-body-container {
+    background-color: #f3faf4 !important;
+  }
+
+  .callout-icon::before {
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" style="fill: rgb(95, 180, 110)" class="bi bi-lightbulb" viewBox="0 0 16 16"><path d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13a.5.5 0 0 1 0 1 .5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1 0-1 .5.5 0 0 1 0-1 .5.5 0 0 1-.46-.302l-.761-1.77a1.964 1.964 0 0 0-.453-.618A5.984 5.984 0 0 1 2 6zm6-5a5 5 0 0 0-3.479 8.592c.263.254.514.564.676.941L5.83 12h4.342l.632-1.467c.162-.377.413-.687.676-.941A5 5 0 0 0 8 1z"/></svg>') !important;
+  }
+}
+
+// callout-important → EUF red
+.callout-important {
+  border-left-color: $euf-red !important;
+
+  > .callout-header {
+    background-color: #fbe8e3 !important;
+  }
+
+  > .callout-body-container {
+    background-color: #fdf3f0 !important;
+  }
+
+  .callout-icon::before {
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" style="fill: rgb(230, 80, 50)" class="bi bi-exclamation-circle" viewBox="0 0 16 16"><path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/><path d="M7.002 11a1 1 0 1 1 2 0 1 1 0 0 1-2 0zM7.1 4.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995z"/></svg>') !important;
+  }
+}

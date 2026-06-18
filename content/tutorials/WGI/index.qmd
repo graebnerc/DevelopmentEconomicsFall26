@@ -5,7 +5,7 @@ date: '2025-11-07'
 
 # 1. Introduction
 
-How do we measure something as abstract as "institutions"? This fundamental challenge has puzzled economists and political scientists for decades. While we can observe the outcomes of institutional arrangements - economic growth, political stability, or corruption scandals - measuring the quality of institutions themselves is far more complex. Not only, but also because the definition of an institution differs across economic paradigms, as discussed in [this lecture](/content/material/session_05.qmd).
+How do we measure something as abstract as "institutions"? This fundamental challenge has puzzled economists and political scientists for decades. While we can observe the outcomes of institutional arrangements - economic growth, political stability, or corruption scandals - measuring the quality of institutions themselves is far more complex. Not only, but also because the definition of an institution differs across economic paradigms, as discussed in [this lecture](/content/material/s_05_Institutions1.qmd).
 
 The Worldwide Governance Indicators (WGI), developed by the World Bank, represent one of the most influential attempts to quantify institutional quality. Since 1996, the WGI have provided standardized measures of governance across more than 200 countries, influencing everything from aid allocation to academic research on development.
 

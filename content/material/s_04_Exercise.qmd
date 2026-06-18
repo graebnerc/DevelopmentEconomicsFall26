@@ -1,0 +1,65 @@
+---
+subtitle: "📊 Exercise: Testing the Solow Model's Convergence Prediction"
+title: "Session 4: Growth Models"
+date: "2026-10-09"
+date-modified: last-modified
+---
+
+## Overview
+
+One of the most striking predictions of the Solow-Swan model is **absolute convergence**: poor countries should grow faster than rich countries due to diminishing returns to capital, eventually leading all economies to the same income level.
+
+Your task is to test this prediction empirically using real-world data from the Penn World Tables.
+
+## What You Need
+
+### Required packages
+
+  - `haven` (for reading Stata files)
+  - `dplyr` (data manipulation)
+  - `ggplot2` (visualization)
+  - `tidyr` (data reshaping)
+  - `broom` (regression results)
+
+### Data Source
+
+- **Penn World Tables 11.0**: Download `pwt110.dta` from [https://www.rug.nl/ggdc/productivity/pwt/](https://www.rug.nl/ggdc/productivity/pwt/)
+- Save the file in your R working directory
+
+## The Convergence Test
+
+You will estimate this regression equation:
+
+$$\frac{1}{T} \ln\left(\frac{y_{i,t+T}}{y_{i,t}}\right) = \alpha + \beta \ln(y_{i,t}) + \epsilon_i$$
+
+**Interpretation**: 
+
+The crucial parameter to test is the *convergence parameter* $\beta$:
+
+- If $\beta < 0$: Countries with lower initial income grow faster $\rightarrow$ **Convergence**
+- If $\beta > 0$: Rich countries grow faster $\rightarrow$ **Divergence**
+
+Thus, the prediction of the Solow-Swan model is that $\beta$ is significantly smaller than zero.
+
+## Analysis Requirements
+
+There are different ways to test for convergence. In particular, you may vary the time horizon and the countries considered.
+
+We suggest you test convergence for:
+
+1. **Time Periods**:
+   - 1960-1990 (30 years)
+   - 1990-2022 (32 years)
+
+2. **Country Samples**:
+   - All countries with complete data (the Solow-Swan case)
+   - OECD countries only (the case of *conditional* convergence)
+
+What you should produce for every case:
+
+   - Regression results ($\beta$ coefficient, $p$-value, $R^2$)
+   - Scatter plots with trend lines
+   - Economic interpretation of findings
+
+This exercise demonstrates how theoretical predictions from growth models perform when confronted with empirical evidence - a crucial skill in development economics research.
+

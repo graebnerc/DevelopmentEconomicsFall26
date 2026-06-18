@@ -13,9 +13,18 @@ title: "Material overview"
 
 
 
-|   Session    | Topic                                                         |
-|:------------:|:--------------------------------------------------------------|
-|   [1](#s1)   | [ Foundations and Contested Definition](/content/material/session_01.qmd)        |
-|   [2](#s2)   | [ Measuring Development](/content/material/session_02.qmd)        |
+| Session | Topic                                                                                                  |
+|:-------:|:-------------------------------------------------------------------------------------------------------|
+|    1    | [Introduction and the meaning of 'development'](/content/material/s_01_Intro.qmd)                       |
+|    2    | [Measuring Development](/content/material/s_02_Measuring.qmd)                                               |
+|    3    | [Human Development and the Capabilities Approach](/content/material/s_03_HumanDev.qmd)                     |
+|    4    | [Classical and Neoclassical Growth Models](/content/material/s_04_GrowthModels.qmd)                            |
+|    5    | [Institutional Economics and Development I](/content/material/s_05_Institutions1.qmd)                           |
+|    6    | [Institutional Economics and Development II](/content/material/s_06_Institutions2.qmd)                          |
+|    7    | [Marxist Theories of Development](/content/material/s_07_Marxism.qmd)                                     |
+|    8    | [Dependency Theory](/content/material/s_08_Dependency.qmd)                                           |
+|    9    | [Technology, Innovation, and Trade-Led Development](/content/material/s_09_Technology.qmd)           |
+|   10    | [Sustainable Development, Environmental Limits, and Degrowth](/content/material/s_10_Sustainability.qmd)         |
+|   12    | [Summary and Open Questions](/content/material/s_12_Summary.qmd)                                     |
 
 

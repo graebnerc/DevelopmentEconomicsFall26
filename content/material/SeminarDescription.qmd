@@ -1,6 +1,6 @@
 ---
 title: "Development Economics"
-subtitle: "B.A. International Management - Fall Semester 2025/26"
+subtitle: "B.A. International Management - Fall Semester 2026/27"
 date: today
 format:
   html:
@@ -57,19 +57,19 @@ The lecture is an elective in the third or fifth semester. While there are no fo
 - **Credits:** 5 CP (150 total hours)
 - **Lecture Time:** 15 hours (10 × 1.5 hours)
 - **Self-Study:** 135 hours
-- **Location:** MAD, room 024
+- **Location:** MAD, room 131
 :::
 
 ::: {.column width="50%"}
 ### Course Resources
 
-- **Moodle Room:** [16258](https://elearning.uni-flensburg.de/moodle/course/view.php?id=16258) 
-- **Moodle Password:** `DevEcon25`
-- **Course homepage:** [developmenteconomics25fall.netlify.app](https://developmenteconomics25fall.netlify.app/)
+- **Moodle Room:** [TBD](https://elearning.uni-flensburg.de/moodle/course/view.php?id=TBD) 
+- **Moodle Password:** `DevEcon26`
+- **Course homepage:** [developmenteconomics-fall26.netlify.app](https://developmenteconomics-fall26.netlify.app/)
 
 ### Recommended Study Schedule
 
-- **Time Horizon:** September 12 - December 12
+- **Time Horizon:** September 18 - December 11
 - **Daily Study:** about 1.5 hours (7 days/week)
 - **Weekday Study:** about 2 hours (5 days/week)
 
@@ -82,29 +82,30 @@ The lecture is an elective in the third or fifth semester. While there are no fo
 ## Schedule and Logistics
 
 ::: {.callout-important}
-**Note:** This schedule is subject to change as the course progresses. Announcements will be made via [Moodle](https://elearning.uni-flensburg.de/moodle/course/view.php?id=16258). 
+**Note:** This schedule is subject to change as the course progresses. Announcements will be made via [Moodle](https://elearning.uni-flensburg.de/moodle/course/view.php?id=TBD). 
 The latest version of the syllabus will be made available here.
 :::
 
-| # | Week | Date   | Topic         |
-|---|------|--------|---------------|
-| 1 | 38   | 19.09. | Introduction and the meaning of 'development' |
-| 2 | 39   | 26.09. (digital) | Measuring development |
-|   | 40   | 03.10. | No lecture (Tag der deutschen Einheit) |
-| 3 | 41   | 10.10. | Human Development and the Capabilities Approach |
-| 4 | 42   | 17.10. (digital) | Classical and Neoclassical Growth Models |
-|   | 43   | 24.10. | No lecture (reading week) |
-|   | 44   | 31.10. | No lecture (Reformationstag) |
-| 5 | 45   | 07.11. | Institutional economics and Development I |
-| 6 | 46   | 14.11. | Institutional economics and Development II |
-| 7 | 48   | 28.11. | Marxist and Dependency Theories of Development |
-| 8 | 49   | 05.12. | Sustainable Development, Environmental Limits, and Degrowth |
-| 9 | 50   | 12.12. | Summary and open questions |
+| #  | Date        | Topic                                                        | Format    |
+|----|-------------|--------------------------------------------------------------|-----------|
+| 1  | 18.09.      | Introduction and the meaning of 'development'                | In-person |
+| 2  | 25.09.      | Measuring development                                        | In-person |
+| 3  | 02.10.      | Human Development and the Capabilities Approach              | In-person |
+| 4  | 09.10.      | Classical and Neoclassical Growth Models                     | Video     |
+|    | 16.10.      | *No lecture*                                                 |           |
+| 5  | 23.10.      | Institutional Economics and Development I                    | In-person |
+| 6  | 30.10.      | Institutional Economics and Development II                   | In-person |
+| 7  | 06.11.      | Marxist Theories of Development                              | In-person |
+| 8  | 13.11.      | Dependency Theory                                            | In-person |
+| 9  | 20.11.      | Technology, Innovation, and Trade-Led Development            | In-person |
+| 10 | 27.11.      | Sustainable Development, Environmental Limits, and Degrowth  | In-person |
+| 11 | 04.12.      | *Buffer / Exam Preparation*                                  | In-person |
+| 12 | 11.12.      | Summary and Open Questions                                   | In-person |
 
 ::: {.callout-warning}
 ### Exam Dates
-- **First Exam:** December 16, 2025, 10:00 – 12:00
-- **Second Exam:** February 26, 2026, 10:00 – 12:00
+- **First Exam:** December 14, 2026, 9:00 - 11:30, room OSL 449
+- **Second Exam:** February 22, 12:30 - 15:00, room OSL 449
 :::
 
 <!---
