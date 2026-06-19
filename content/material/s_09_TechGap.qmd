@@ -4,6 +4,12 @@ date: "2026-11-20"
 date-modified: last-modified
 ---
 
+## Comments
+
+- Shouldn't I introduce the product space and the theory of economic complexity?
+- Introduce the Harvard Atlas, and also add an exercise to learn about this great ressource
+- Good link to the innovation/capability accumulation aspect
+
 ## Session Overview
 
 This session introduces the Neo-Schumpeterian and evolutionary economics perspective

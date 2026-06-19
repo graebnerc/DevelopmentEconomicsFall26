@@ -1,6 +1,6 @@
 ---
 title: "Example solution: Contemporary Patterns of Exploitation"
-subtitle: "Session 7: Marxist and Dependency Theories of Development"
+subtitle: "Session 8: The Global Political Economy of Development"
 format:
   html: default
   pdf: default

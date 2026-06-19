@@ -96,7 +96,7 @@ The latest version of the syllabus will be made available here.
 | 5  | 23.10.      | Institutional Economics and Development I                    | In-person |
 | 6  | 30.10.      | Institutional Economics and Development II                   | In-person |
 | 7  | 06.11.      | Marxist Theories of Development                              | In-person |
-| 8  | 13.11.      | Dependency Theory                                            | In-person |
+| 8  | 13.11.      | The Global Political Economy of Development                  | In-person |
 | 9  | 20.11.      | Technology, Innovation, and Trade-Led Development            | In-person |
 | 10 | 27.11.      | Sustainable Development, Environmental Limits, and Degrowth  | In-person |
 | 11 | 04.12.      | *Buffer / Exam Preparation*                                  | In-person |
