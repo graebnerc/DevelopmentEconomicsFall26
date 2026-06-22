@@ -30,12 +30,12 @@ reading lists [here](/content/material/).
 
 EUF students can
 register for the Moodle course
-[TBD](https://elearning.uni-flensburg.de/moodle/course/view.php?id=TBD) 
+[here](https://elearning.uni-flensburg.de/moodle/course/view.php?id=17917)
 using the password `DevEcon26`.
 
 # 💌 Contact and discussion
 
-For asking questions and starting discussions, please use the forum in [Moodle](https://elearning.uni-flensburg.de/moodle/course/view.php?id=TBD).
+For asking questions and starting discussions, please use the forum in [Moodle](https://elearning.uni-flensburg.de/moodle/course/view.php?id=17917).
 
 <!---
 # 💻 Class Groups

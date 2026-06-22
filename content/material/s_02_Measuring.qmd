@@ -23,4 +23,4 @@ There are no slides for this lecture.
 ## ✍️ Coursework (optional)
 
 - Choose three countries and compare their level of development using 3 different measures discussed in the [tutorial](../tutorials/MeasuringDevelopment/index.qmd)
-- If you have questions or problems, please post them in the [Moodle](https://elearning.uni-flensburg.de/moodle/course/view.php?id=16258)  forum
+- If you have questions or problems, please post them in the [Moodle](https://elearning.uni-flensburg.de/moodle/course/view.php?id=17917)  forum

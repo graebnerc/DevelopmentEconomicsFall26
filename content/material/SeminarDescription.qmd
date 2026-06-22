@@ -63,7 +63,7 @@ The lecture is an elective in the third or fifth semester. While there are no fo
 ::: {.column width="50%"}
 ### Course Resources
 
-- **Moodle Room:** [TBD](https://elearning.uni-flensburg.de/moodle/course/view.php?id=TBD) 
+- **Moodle Room:** [Link](https://elearning.uni-flensburg.de/moodle/course/view.php?id=17917)
 - **Moodle Password:** `DevEcon26`
 - **Course homepage:** [developmenteconomics-fall26.netlify.app](https://developmenteconomics-fall26.netlify.app/)
 
@@ -82,7 +82,7 @@ The lecture is an elective in the third or fifth semester. While there are no fo
 ## Schedule and Logistics
 
 ::: {.callout-important}
-**Note:** This schedule is subject to change as the course progresses. Announcements will be made via [Moodle](https://elearning.uni-flensburg.de/moodle/course/view.php?id=TBD). 
+**Note:** This schedule is subject to change as the course progresses. Announcements will be made via [Moodle](https://elearning.uni-flensburg.de/moodle/course/view.php?id=17917). 
 The latest version of the syllabus will be made available here.
 :::
 
@@ -97,7 +97,7 @@ The latest version of the syllabus will be made available here.
 | 6  | 30.10.      | Institutional Economics and Development II                   | In-person |
 | 7  | 06.11.      | Marxist Theories of Development                              | In-person |
 | 8  | 13.11.      | The Global Political Economy of Development                  | In-person |
-| 9  | 20.11.      | Technology, Innovation, and Trade-Led Development            | In-person |
+| 9  | 20.11.      | Technology Gaps, Innovation Systems, and Economic Complexity | In-person |
 | 10 | 27.11.      | Sustainable Development, Environmental Limits, and Degrowth  | In-person |
 | 11 | 04.12.      | *Buffer / Exam Preparation*                                  | In-person |
 | 12 | 11.12.      | Summary and Open Questions                                   | In-person |

@@ -45,6 +45,6 @@ subtitle: "Fall Semester 2026"
 
 -----------------
 
-<a href=https://elearning.uni-flensburg.de/moodle/course/view.php?id=TBD>
+<a href=https://elearning.uni-flensburg.de/moodle/course/view.php?id=17917>
     <button class="button-61">The main course on moodle</button>
 </a>
