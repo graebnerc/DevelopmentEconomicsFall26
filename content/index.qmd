@@ -33,6 +33,8 @@ register for the Moodle course
 [here](https://elearning.uni-flensburg.de/moodle/course/view.php?id=17917)
 using the password `DevEcon26`.
 
+Mandatory readings are available for download via the Moodle course.
+
 # 💌 Contact and discussion
 
 For asking questions and starting discussions, please use the forum in [Moodle](https://elearning.uni-flensburg.de/moodle/course/view.php?id=17917).

@@ -6,15 +6,21 @@ date-modified: last-modified
 
 ## Abstract
 
-...
+## Abstract
+
+This session examines the relationship between economic development and the natural environment — a relationship that runs in both directions and that prior sessions in this course have largely bracketed. We begin by establishing that environmental degradation is not merely a side-effect of development but a structural constraint on it: poorer countries tend to be more vulnerable to climate impacts while contributing least to the stock of accumulated emissions. Joan Martínez-Alier's concept of the *Environmentalism of the Poor* challenges the dominant framing that positions environmental protection and poverty reduction as competing goals, arguing instead that for communities directly dependent on natural resources, the two are inseparable.
+
+The session's empirical core tackles a recurring theme of the course: the **theory-ladenness of measurement**. Using $CO_2$ emissions as a case study, we show how different operationalizations yield dramatically different rankings — and different political conclusions — regarding climate change responsability. Kate Raworth's **Doughnut Economics** framework is then introduced as a tool for visualising the double challenge: no country currently meets basic social needs without overshooting ecological boundaries. We assess both the framework's appeal and its limitations, including the risk of depoliticising what are fundamentally distributional conflicts.
+
+The session closes with the debate between **green growth** and **degrowth** as competing responses to this challenge. Working through a recent, high-profile academic debate^[See Hickel and Kallis [-@hickel2020], Warlenius [-@warlenius2023], Jackson et al. [-@jackson2024], and Warlenius [-@warlenius2025].], we examine what the IPAT identity implies about the feasibility and scale of GDP contraction required if decoupling rates are taken as historically fixed — and what follows if they are not. The session ends with an open discussion on a question that cannot be answered by data alone, but that you are now better equipped to argue about carefully: is economic growth a threat to, or potential savior of the environment.
 
 ## 🖥️ Lecture Slides
 
-Either click on the slide area below or click [here](slides/DevEcon26_L08_Environment.pdf) to download the slides.
+Either click on the slide area below or click [here](slides/DevEcon26-L10_Environment.pdf) to download the slides.
 
 ```{=html}
 <div class="container" style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%;">
-<iframe src="slides/DevEcon26_L08_Environment.pdf" style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;" allowfullscreen loading="lazy"></iframe>
+<iframe src="slides/DevEcon26-L10_Environment.pdf" style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;" allowfullscreen loading="lazy"></iframe>
 </div>
 ```
 
@@ -40,50 +46,102 @@ Either click on the slide area below or click [here](slides/DevEcon26_L08_Enviro
 Time-series data for the period 2000-2022 is available through the supplementary data of @fanning2025.
 :::
 
-## 🎯 Interactive and follow-up exercises
-
--   ...
-
-Both exercises contain elements to be done in class, as well as follow-up elements, which can help you to deepen to topics of this lecture.
-
-Below you also find two possible 'solutions', although it is entirely possible to come up with different assessments.
-
--   TBA
 
 ## 📚 Mandatory Reading
 
 **Read before the lecture:**
 
-- Very concise [video](https://youtu.be/kxQeb2PDz9M?feature=shared) by Kate Raworth introducing the ide of doughnut economics
+- Very concise [video](https://youtu.be/kxQeb2PDz9M?feature=shared) by Kate Raworth
+  introducing the idea of doughnut economics
 - Fanning and Raworth [-@fanning2025]
-  - A clear and recent introduction to the doughnut approach; I suggest to read it after watching the short video
-- Hickel[-@hickel2020a]
-  - Concise introduction to what is meant by 'degrowth' (for a crititical view, see further readings)
+  - A clear and recent introduction to the doughnut approach; read it after watching the
+    short video
+- Hickel [-@hickel2020a]
+  - Concise introduction to what is meant by 'degrowth' (for a critical view, see further
+    readings)
 
+---
 
 ## 🏆 Further Readings
 
+### 🌿 On Ecological Economics
+
+- Daly [-@daly2005]
+  - Accessible and foundational introduction to steady-state economics and the
+    'full world' thesis; argues the economy is a subsystem of a finite biosphere and
+    that growth beyond a certain scale becomes uneconomic. Free full text available at
+    [Scientific American](https://www.scientificamerican.com/article/economics-in-a-full-world/).
+- van den Bergh [-@vandenbergh2001]
+  - Short overview clarifying how ecological economics differs from conventional
+    environmental and resource economics, covering the growth debate, trade, and
+    methodological pluralism.
+
+### 🍩 On Doughnut Economics
+
+- O'Neill et al. [-@oneill2018]
+  - Empirically operationalises the 'safe and just space' framework across 150+ nations,
+    finding that no country currently meets basic social needs within sustainable resource
+    use. The precursor paper to Fanning and Raworth [-@fanning2025].
+- Fanning et al. [-@fanning2022]
+  - Extends O'Neill et al. [-@oneill2018] to analyse historical dynamics (1992–2015):
+    countries transgress biophysical boundaries faster than they achieve social thresholds.
+- Anvaari (2025): [The Doughnut and the Divide](https://developingeconomics.org/2025/08/05/the-doughnut-and-the-divide-can-norway-confront-its-imperial-mode-of-living/)
+  - A critical comment on the doughnut concept from a decolonial Marxist perspective.
+- Milanovic [-@milanovic2018]
+  - A sceptical review of Raworth's book, useful as a counterpoint.
+- Raworth [-@raworth2017]
+  - The book behind the framework; for those who want the full argument.
+
+### 🌍 On Environmentalism of the Poor
 
 - Anguelovski and Martínez-Alier [-@anguelovski2014]
-  - Nice introduction to the "environmentalism of the poor", clearly outlining the bidirectional relationship between well-being and environmental protection.
-- Trainer [-@trainer2021]
-  - A response to the Hickel [-@hickel2020a] reading, illustrating the heterogeneity of the degrowth movement.
+  - Introduction to the 'environmentalism of the poor', clearly outlining the
+    bidirectional relationship between well-being and environmental protection.
+    Reading this before the lecture would aid understanding of the first half.
+
+### 📉 On Degrowth
+
 - Schmelzer [-@schmelzer2023]
-  -  Clearly explains the distinction between growth critiques and GDP critiques.
-- Anvaari (2025): [The Doughnut and the Divide](https://developingeconomics.org/2025/08/05/the-doughnut-and-the-divide-can-norway-confront-its-imperial-mode-of-living/)
-  - A critical comment on the doughnut concept, written from a decolonial Marxist perspective.
+  - Clearly explains the distinction between growth critiques and GDP critiques, and
+    places degrowth in historical perspective.
+- Trainer [-@trainer2021]
+  - A response to Hickel [-@hickel2020a], illustrating the heterogeneity of the degrowth
+    movement.
+- Gräbner-Radkowitsch and Strunk [-@graebnerradkowitsch2023]
+  - Identifies and discusses two key challenges degrowth poses for the Global South:
+    structural trade dependencies and asymmetric adjustment costs.
+- Gräbner-Radkowitsch and Strunk [-@graebnerradkowitsch2026]
+  - Quantifies the short-term trade dependencies of the Global South on the North using
+    global input–output analysis; the empirical follow-up to the above.
+  - ⚠️ *Ahead of print; full citation details (volume, pages) to be confirmed on
+    publication.*
+
+### 🌐 On Planetary Boundaries
+
 - Richardson et al. [-@richardson2023]
-  - Description of the planetary boundary concept and its quantification; example for perspective of earth system sciences.
-  
-**An important controversy about degrowth:**
+  - Description of the planetary boundary concept and its quantification; six of nine
+    boundaries already transgressed. A key reference from earth system sciences.
+
+### ⚖️ An Important Controversy About Degrowth
 
 - Hickel and Kallis [-@hickel2020]
-  - The original argument about the infeasibility of continued growth because of limits to decoupling.
+  - The original argument about the infeasibility of continued growth because of limits
+    to decoupling.
 - Warlenius [-@warlenius2023]
-  - A critical comment that quantifies how much degrowth would be necessary to meet climate goals if there was the limit of decoupling described by degrowth scholars.
+  - Quantifies how much GDP contraction would be necessary to meet climate goals if
+    decoupling is as limited as Hickel and Kallis claim.
 - Jackson et al. [-@jackson2024] and Warlenius [-@warlenius2025]
-  - Two rejoinders to the previous two articles, each defending their respective position. 
+  - Two rejoinders defending their respective positions; together they illustrate why
+    this debate cannot be settled by data alone.
 
+---
+
+## 🗄️ Data
+
+- [ND-GAIN Country Index](https://gain.nd.edu/our-work/country-index/download-data/) — Notre Dame Global Adaptation Initiative. Country-level scores for climate vulnerability and readiness to adapt; the data underlying the vulnerability figure in this session.
+- [OWID CO₂ and Greenhouse Gas Emissions](https://github.com/owid/co2-data) — Our World in Data. Long-run annual data on CO₂ and GHG emissions by country (production-based, consumption-based, per capita, cumulative); the data underlying the emissions figures in this session.
+
+---
 
 ------------------------------------------------------------------------
 

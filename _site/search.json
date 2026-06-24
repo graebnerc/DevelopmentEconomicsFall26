@@ -996,7 +996,7 @@
     "href": "content/index.html",
     "title": "Development Economics",
     "section": "",
-    "text": "📍 Lecture\n\nFridays 09:15-10:45 in MAD (room MAD 131)\n\nPlease make sure to check out the most recent version of the seminar timetable. The most recent version can be found here.\n\n\n📂 Material\nYou find an overview about all lecture materials, such as slides and reading lists here.\nEUF students can register for the Moodle course here using the password DevEcon26.\n\n\n💌 Contact and discussion\nFor asking questions and starting discussions, please use the forum in Moodle.",
+    "text": "📍 Lecture\n\nFridays 09:15-10:45 in MAD (room MAD 131)\n\nPlease make sure to check out the most recent version of the seminar timetable. The most recent version can be found here.\n\n\n📂 Material\nYou find an overview about all lecture materials, such as slides and reading lists here.\nEUF students can register for the Moodle course here using the password DevEcon26.\nMandatory readings are available for download via the Moodle course.\n\n\n💌 Contact and discussion\nFor asking questions and starting discussions, please use the forum in Moodle.",
     "crumbs": [
       "🏢 Getting Started"
     ]
@@ -1657,22 +1657,11 @@
     ]
   },
   {
-    "objectID": "content/material/s_10_Sustainability.html",
-    "href": "content/material/s_10_Sustainability.html",
+    "objectID": "content/material/s_10_Sustainability.html#abstract-1",
+    "href": "content/material/s_10_Sustainability.html#abstract-1",
     "title": "🗓️ Session 10: Sustainable Development, Environmental Limits, and Degrowth",
-    "section": "",
-    "text": "…",
-    "crumbs": [
-      "🗓️ Material",
-      "Session 10: Sustainable Development & Degrowth"
-    ]
-  },
-  {
-    "objectID": "content/material/s_10_Sustainability.html#abstract",
-    "href": "content/material/s_10_Sustainability.html#abstract",
-    "title": "🗓️ Session 10: Sustainable Development, Environmental Limits, and Degrowth",
-    "section": "",
-    "text": "…",
+    "section": "Abstract",
+    "text": "Abstract\nThis session examines the relationship between economic development and the natural environment — a relationship that runs in both directions and that prior sessions in this course have largely bracketed. We begin by establishing that environmental degradation is not merely a side-effect of development but a structural constraint on it: poorer countries tend to be more vulnerable to climate impacts while contributing least to the stock of accumulated emissions. Joan Martínez-Alier’s concept of the Environmentalism of the Poor challenges the dominant framing that positions environmental protection and poverty reduction as competing goals, arguing instead that for communities directly dependent on natural resources, the two are inseparable.\nThe session’s empirical core tackles a recurring theme of the course: the theory-ladenness of measurement. Using \\(CO_2\\) emissions as a case study, we show how different operationalizations yield dramatically different rankings — and different political conclusions — regarding climate change responsability. Kate Raworth’s Doughnut Economics framework is then introduced as a tool for visualising the double challenge: no country currently meets basic social needs without overshooting ecological boundaries. We assess both the framework’s appeal and its limitations, including the risk of depoliticising what are fundamentally distributional conflicts.\nThe session closes with the debate between green growth and degrowth as competing responses to this challenge. Working through a recent, high-profile academic debate1, we examine what the IPAT identity implies about the feasibility and scale of GDP contraction required if decoupling rates are taken as historically fixed — and what follows if they are not. The session ends with an open discussion on a question that cannot be answered by data alone, but that you are now better equipped to argue about carefully: is economic growth a threat to, or potential savior of the environment.",
     "crumbs": [
       "🗓️ Material",
       "Session 10: Sustainable Development & Degrowth"
@@ -1690,22 +1679,11 @@
     ]
   },
   {
-    "objectID": "content/material/s_10_Sustainability.html#interactive-and-follow-up-exercises",
-    "href": "content/material/s_10_Sustainability.html#interactive-and-follow-up-exercises",
-    "title": "🗓️ Session 10: Sustainable Development, Environmental Limits, and Degrowth",
-    "section": "🎯 Interactive and follow-up exercises",
-    "text": "🎯 Interactive and follow-up exercises\n\n…\n\nBoth exercises contain elements to be done in class, as well as follow-up elements, which can help you to deepen to topics of this lecture.\nBelow you also find two possible ‘solutions’, although it is entirely possible to come up with different assessments.\n\nTBA",
-    "crumbs": [
-      "🗓️ Material",
-      "Session 10: Sustainable Development & Degrowth"
-    ]
-  },
-  {
     "objectID": "content/material/s_10_Sustainability.html#mandatory-reading",
     "href": "content/material/s_10_Sustainability.html#mandatory-reading",
     "title": "🗓️ Session 10: Sustainable Development, Environmental Limits, and Degrowth",
     "section": "📚 Mandatory Reading",
-    "text": "📚 Mandatory Reading\nRead before the lecture:\n\nVery concise video by Kate Raworth introducing the ide of doughnut economics\nFanning and Raworth (2025)\n\nA clear and recent introduction to the doughnut approach; I suggest to read it after watching the short video\n\nHickel(2020)\n\nConcise introduction to what is meant by ‘degrowth’ (for a crititical view, see further readings)",
+    "text": "📚 Mandatory Reading\nRead before the lecture:\n\nVery concise video by Kate Raworth introducing the idea of doughnut economics\nFanning and Raworth (2025)\n\nA clear and recent introduction to the doughnut approach; read it after watching the short video\n\nHickel (2020)\n\nConcise introduction to what is meant by ‘degrowth’ (for a critical view, see further readings)",
     "crumbs": [
       "🗓️ Material",
       "Session 10: Sustainable Development & Degrowth"
@@ -1716,7 +1694,18 @@
     "href": "content/material/s_10_Sustainability.html#further-readings",
     "title": "🗓️ Session 10: Sustainable Development, Environmental Limits, and Degrowth",
     "section": "🏆 Further Readings",
-    "text": "🏆 Further Readings\n\nAnguelovski and Martínez-Alier (2014)\n\nNice introduction to the “environmentalism of the poor”, clearly outlining the bidirectional relationship between well-being and environmental protection.\n\nTrainer (2021)\n\nA response to the Hickel (2020) reading, illustrating the heterogeneity of the degrowth movement.\n\nSchmelzer (2023)\n\nClearly explains the distinction between growth critiques and GDP critiques.\n\nAnvaari (2025): The Doughnut and the Divide\n\nA critical comment on the doughnut concept, written from a decolonial Marxist perspective.\n\nRichardson et al. (2023)\n\nDescription of the planetary boundary concept and its quantification; example for perspective of earth system sciences.\n\n\nAn important controversy about degrowth:\n\nHickel and Kallis (2020)\n\nThe original argument about the infeasibility of continued growth because of limits to decoupling.\n\nWarlenius (2023)\n\nA critical comment that quantifies how much degrowth would be necessary to meet climate goals if there was the limit of decoupling described by degrowth scholars.\n\nJackson et al. (2024) and Warlenius (2025)\n\nTwo rejoinders to the previous two articles, each defending their respective position.\n\n\n\nIf you have questions or problems, please post them in the Moodle forum.",
+    "text": "🏆 Further Readings\n\n🌿 On Ecological Economics\n\nDaly (2005)\n\nAccessible and foundational introduction to steady-state economics and the ‘full world’ thesis; argues the economy is a subsystem of a finite biosphere and that growth beyond a certain scale becomes uneconomic. Free full text available at Scientific American.\n\nvan den Bergh (2001)\n\nShort overview clarifying how ecological economics differs from conventional environmental and resource economics, covering the growth debate, trade, and methodological pluralism.\n\n\n\n\n🍩 On Doughnut Economics\n\nO’Neill et al. (2018)\n\nEmpirically operationalises the ‘safe and just space’ framework across 150+ nations, finding that no country currently meets basic social needs within sustainable resource use. The precursor paper to Fanning and Raworth (2025).\n\nFanning et al. (2022)\n\nExtends O’Neill et al. (2018) to analyse historical dynamics (1992–2015): countries transgress biophysical boundaries faster than they achieve social thresholds.\n\nAnvaari (2025): The Doughnut and the Divide\n\nA critical comment on the doughnut concept from a decolonial Marxist perspective.\n\nMilanovic (2018)\n\nA sceptical review of Raworth’s book, useful as a counterpoint.\n\nRaworth (2017)\n\nThe book behind the framework; for those who want the full argument.\n\n\n\n\n🌍 On Environmentalism of the Poor\n\nAnguelovski and Martínez-Alier (2014)\n\nIntroduction to the ‘environmentalism of the poor’, clearly outlining the bidirectional relationship between well-being and environmental protection. Reading this before the lecture would aid understanding of the first half.\n\n\n\n\n📉 On Degrowth\n\nSchmelzer (2023)\n\nClearly explains the distinction between growth critiques and GDP critiques, and places degrowth in historical perspective.\n\nTrainer (2021)\n\nA response to Hickel (2020), illustrating the heterogeneity of the degrowth movement.\n\nGräbner-Radkowitsch and Strunk (2023)\n\nIdentifies and discusses two key challenges degrowth poses for the Global South: structural trade dependencies and asymmetric adjustment costs.\n\nGräbner-Radkowitsch and Strunk (2026)\n\nQuantifies the short-term trade dependencies of the Global South on the North using global input–output analysis; the empirical follow-up to the above.\n⚠️ Ahead of print; full citation details (volume, pages) to be confirmed on publication.\n\n\n\n\n🌐 On Planetary Boundaries\n\nRichardson et al. (2023)\n\nDescription of the planetary boundary concept and its quantification; six of nine boundaries already transgressed. A key reference from earth system sciences.\n\n\n\n\n⚖️ An Important Controversy About Degrowth\n\nHickel and Kallis (2020)\n\nThe original argument about the infeasibility of continued growth because of limits to decoupling.\n\nWarlenius (2023)\n\nQuantifies how much GDP contraction would be necessary to meet climate goals if decoupling is as limited as Hickel and Kallis claim.\n\nJackson et al. (2024) and Warlenius (2025)\n\nTwo rejoinders defending their respective positions; together they illustrate why this debate cannot be settled by data alone.",
+    "crumbs": [
+      "🗓️ Material",
+      "Session 10: Sustainable Development & Degrowth"
+    ]
+  },
+  {
+    "objectID": "content/material/s_10_Sustainability.html#data",
+    "href": "content/material/s_10_Sustainability.html#data",
+    "title": "🗓️ Session 10: Sustainable Development, Environmental Limits, and Degrowth",
+    "section": "🗄️ Data",
+    "text": "🗄️ Data\n\nND-GAIN Country Index — Notre Dame Global Adaptation Initiative. Country-level scores for climate vulnerability and readiness to adapt; the data underlying the vulnerability figure in this session.\nOWID CO₂ and Greenhouse Gas Emissions — Our World in Data. Long-run annual data on CO₂ and GHG emissions by country (production-based, consumption-based, per capita, cumulative); the data underlying the emissions figures in this session.\n\n\n\nIf you have questions or problems, please post them in the Moodle forum.",
     "crumbs": [
       "🗓️ Material",
       "Session 10: Sustainable Development & Degrowth"
@@ -1727,7 +1716,18 @@
     "href": "content/material/s_10_Sustainability.html#references",
     "title": "🗓️ Session 10: Sustainable Development, Environmental Limits, and Degrowth",
     "section": "References",
-    "text": "References\n\n\nAnguelovski, I. and Martínez-Alier, J. (2014) “The ‘Environmentalism of the Poor’ revisited: Territory and place in disconnected glocal struggles,” Ecological Economics 102: 167–176.\n\n\nFanning, A. L. and Raworth, K. (2025) “Doughnut of social and planetary boundaries monitors a world out of balance,” Nature 646(8083): 47–56, doi:10.1038/s41586-025-09385-1.\n\n\nHickel, J. (2020) “What does degrowth mean? A few points of clarification,” Globalizations 1–7, doi:10.1080/14747731.2020.1812222.\n\n\nHickel, J. and Kallis, G. (2020) “Is Green Growth Possible?” New Political Economy 25(4): 469–486, doi:10.1080/13563467.2019.1598964.\n\n\nJackson, T., Hickel, J. and Kallis, G. (2024) “Confronting the dilemma of growth. A response to Warlenius (2023),” Ecological Economics 220: 108089, doi:10.1016/j.ecolecon.2023.108089.\n\n\nRichardson, K. et al. (2023) “Earth beyond six of nine planetary boundaries,” Science Advances 9(37): eadh2458, doi:10.1126/sciadv.adh2458.\n\n\nSchmelzer, M. (2023) “From Luddites to limits? Towards a systematization of growth critiques in historical perspective,” Globalizations 20(3): 447–464, doi:10.1080/14747731.2022.2106044.\n\n\nTrainer, T. (2021) “What does Degrowth mean? Some comments on Jason Hickel’s ‘A few points of clarification’,” Globalizations 1–5, doi:10.1080/14747731.2020.1860621.\n\n\nWarlenius, R. H. (2023) “The limits to degrowth: Economic and climatic consequences of pessimist assumptions on decoupling,” Ecological Economics 213: 107937, doi:10.1016/j.ecolecon.2023.107937.\n\n\nWarlenius, R. H. (2025) “Decoupling pessimism and the dilemma of growth. A reply to Jackson et al (2024),” Ecological Economics 232: 108580, doi:10.1016/j.ecolecon.2025.108580.",
+    "text": "References\n\n\nAnguelovski, I. and Martínez-Alier, J. (2014) “The ‘Environmentalism of the Poor’ revisited: Territory and place in disconnected glocal struggles,” Ecological Economics 102: 167–176.\n\n\nBergh, J. C. J. M. van den (2001) “Ecological economics: Themes, approaches, and differences with environmental economics,” Regional Environmental Change 2(1): 13–23.\n\n\nDaly, H. E. (2005) “Economics in a full world,” Scientific American 293(3): 100–107.\n\n\nFanning, A. L., O’Neill, D. W., Hickel, J. and Roux, N. (2022) “The social shortfall and ecological overshoot of nations,” Nature Sustainability 5(1): 26–36.\n\n\nFanning, A. L. and Raworth, K. (2025) “Doughnut of social and planetary boundaries monitors a world out of balance,” Nature 646(8083): 47–56, doi:10.1038/s41586-025-09385-1.\n\n\nGräbner-Radkowitsch, C. and Strunk, B. (2023) “Degrowth and the global south: The twin problem of global dependencies,” Ecological Economics 213: 107946.\n\n\nGräbner-Radkowitsch, C. and Strunk, B. (2026) “Short-term trade dependencies of the global south as an obstacle to degrowth? Quantifying the twin challenge of global dependencies,” New Global Studies.\n\n\nHickel, J. (2020) “What does degrowth mean? A few points of clarification,” Globalizations 1–7, doi:10.1080/14747731.2020.1812222.\n\n\nHickel, J. and Kallis, G. (2020) “Is Green Growth Possible?” New Political Economy 25(4): 469–486, doi:10.1080/13563467.2019.1598964.\n\n\nJackson, T., Hickel, J. and Kallis, G. (2024) “Confronting the dilemma of growth. A response to Warlenius (2023),” Ecological Economics 220: 108089, doi:10.1016/j.ecolecon.2023.108089.\n\n\nMilanovic, B. (2018) Review of Doughnut Economics, available at https://braveneweurope.com/doughnut-economics-seven-ways-to-think-like-a-21st-century-economist-by-kate-raworth.\n\n\nO’Neill, D. W., Fanning, A. L., Lamb, W. F. and Steinberger, J. K. (2018) “A good life for all within planetary boundaries,” Nature Sustainability 1(2): 88–95.\n\n\nRaworth, K. (2017) Doughnut economics: Seven ways to think like a 21st-century economist, White River Junction, VT: Chelsea Green Publishing.\n\n\nRichardson, K. et al. (2023) “Earth beyond six of nine planetary boundaries,” Science Advances 9(37): eadh2458, doi:10.1126/sciadv.adh2458.\n\n\nSchmelzer, M. (2023) “From Luddites to limits? Towards a systematization of growth critiques in historical perspective,” Globalizations 20(3): 447–464, doi:10.1080/14747731.2022.2106044.\n\n\nTrainer, T. (2021) “What does Degrowth mean? Some comments on Jason Hickel’s ‘A few points of clarification’,” Globalizations 1–5, doi:10.1080/14747731.2020.1860621.\n\n\nWarlenius, R. H. (2023) “The limits to degrowth: Economic and climatic consequences of pessimist assumptions on decoupling,” Ecological Economics 213: 107937, doi:10.1016/j.ecolecon.2023.107937.\n\n\nWarlenius, R. H. (2025) “Decoupling pessimism and the dilemma of growth. A reply to Jackson et al (2024),” Ecological Economics 232: 108580, doi:10.1016/j.ecolecon.2025.108580.",
+    "crumbs": [
+      "🗓️ Material",
+      "Session 10: Sustainable Development & Degrowth"
+    ]
+  },
+  {
+    "objectID": "content/material/s_10_Sustainability.html#footnotes",
+    "href": "content/material/s_10_Sustainability.html#footnotes",
+    "title": "🗓️ Session 10: Sustainable Development, Environmental Limits, and Degrowth",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSee Hickel and Kallis (2020), Warlenius (2023), Jackson et al. (2024), and Warlenius (2025).↩︎",
     "crumbs": [
       "🗓️ Material",
       "Session 10: Sustainable Development & Degrowth"

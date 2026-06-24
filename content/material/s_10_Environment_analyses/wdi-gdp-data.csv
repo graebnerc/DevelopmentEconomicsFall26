@@ -1,0 +1,1065 @@
+country,iso2c,iso3c,year,status,lastupdated,gdp,pop,region,capital,longitude,latitude,income,lending
+Afghanistan,AF,AFG,2021,,2026-04-08,85767546197.7544,40000412,South Asia,Kabul,69.1761,34.5228,Low income,IDA
+Afghanistan,AF,AFG,2020,,2026-04-08,108208794210.783,39068979,South Asia,Kabul,69.1761,34.5228,Low income,IDA
+Afghanistan,AF,AFG,2023,,2026-04-08,82238478027.9442,41454761,South Asia,Kabul,69.1761,34.5228,Low income,IDA
+Afghanistan,AF,AFG,2022,,2026-04-08,80415503801.351,40578842,South Asia,Kabul,69.1761,34.5228,Low income,IDA
+Africa Eastern and Southern,ZH,AFE,2023,,2026-04-08,3065001503618.01,750491370,Aggregates,,,,Aggregates,Aggregates
+Africa Eastern and Southern,ZH,AFE,2020,,2026-04-08,2763153389078.75,694446100,Aggregates,,,,Aggregates,Aggregates
+Africa Eastern and Southern,ZH,AFE,2022,,2026-04-08,3005225945888.27,731821393,Aggregates,,,,Aggregates,Aggregates
+Africa Eastern and Southern,ZH,AFE,2021,,2026-04-08,2892377395366.33,713090928,Aggregates,,,,Aggregates,Aggregates
+Africa Western and Central,ZI,AFW,2020,,2026-04-08,2699279277268.24,474569351,Aggregates,,,,Aggregates,Aggregates
+Africa Western and Central,ZI,AFW,2023,,2026-04-08,2992691790513.14,509398589,Aggregates,,,,Aggregates,Aggregates
+Africa Western and Central,ZI,AFW,2022,,2026-04-08,2887915960379.89,497387180,Aggregates,,,,Aggregates,Aggregates
+Africa Western and Central,ZI,AFW,2021,,2026-04-08,2765360719691.51,485920997,Aggregates,,,,Aggregates,Aggregates
+Albania,AL,ALB,2022,,2026-04-08,47534459372.723,2451636,Europe & Central Asia,Tirane,19.8172,41.3317,Upper middle income,IBRD
+Albania,AL,ALB,2023,,2026-04-08,49443166215.7366,2414095,Europe & Central Asia,Tirane,19.8172,41.3317,Upper middle income,IBRD
+Albania,AL,ALB,2021,,2026-04-08,45345712251.0862,2489762,Europe & Central Asia,Tirane,19.8172,41.3317,Upper middle income,IBRD
+Albania,AL,ALB,2020,,2026-04-08,41613185841.6268,2528480,Europe & Central Asia,Tirane,19.8172,41.3317,Upper middle income,IBRD
+Algeria,DZ,DZA,2021,,2026-04-08,648895630480.26,44761099,Middle East & North Africa,Algiers,3.05097,36.7397,Upper middle income,IBRD
+Algeria,DZ,DZA,2022,,2026-04-08,672255873183.709,45477389,Middle East & North Africa,Algiers,3.05097,36.7397,Upper middle income,IBRD
+Algeria,DZ,DZA,2020,,2026-04-08,625140299119.911,44042091,Middle East & North Africa,Algiers,3.05097,36.7397,Upper middle income,IBRD
+Algeria,DZ,DZA,2023,,2026-04-08,699818363984.642,46164219,Middle East & North Africa,Algiers,3.05097,36.7397,Upper middle income,IBRD
+American Samoa,AS,ASM,2023,,2026-04-08,NA,47521,East Asia & Pacific,Pago Pago,-170.691,-14.2846,High income,Not classified
+American Samoa,AS,ASM,2022,,2026-04-08,NA,48342,East Asia & Pacific,Pago Pago,-170.691,-14.2846,High income,Not classified
+American Samoa,AS,ASM,2021,,2026-04-08,NA,49225,East Asia & Pacific,Pago Pago,-170.691,-14.2846,High income,Not classified
+American Samoa,AS,ASM,2020,,2026-04-08,NA,49761,East Asia & Pacific,Pago Pago,-170.691,-14.2846,High income,Not classified
+Andorra,AD,AND,2020,,2026-04-08,4293699379.34509,77380,Europe & Central Asia,Andorra la Vella,1.5218,42.5075,High income,Not classified
+Andorra,AD,AND,2022,,2026-04-08,5094216232.49801,79705,Europe & Central Asia,Andorra la Vella,1.5218,42.5075,High income,Not classified
+Andorra,AD,AND,2023,,2026-04-08,5225828100.9848,80856,Europe & Central Asia,Andorra la Vella,1.5218,42.5075,High income,Not classified
+Andorra,AD,AND,2021,,2026-04-08,4649508748.84024,78364,Europe & Central Asia,Andorra la Vella,1.5218,42.5075,High income,Not classified
+Angola,AO,AGO,2022,,2026-04-08,318938590839.705,35635029,Sub-Saharan Africa,Luanda,13.242,-8.81155,Lower middle income,IBRD
+Angola,AO,AGO,2020,,2026-04-08,299733448280.164,33451132,Sub-Saharan Africa,Luanda,13.242,-8.81155,Lower middle income,IBRD
+Angola,AO,AGO,2023,,2026-04-08,322967768020.026,36749906,Sub-Saharan Africa,Luanda,13.242,-8.81155,Lower middle income,IBRD
+Angola,AO,AGO,2021,,2026-04-08,306036100914.862,34532429,Sub-Saharan Africa,Luanda,13.242,-8.81155,Lower middle income,IBRD
+Antigua and Barbuda,AG,ATG,2023,,2026-04-08,2657083928.89311,93316,Latin America & Caribbean,Saint John's,-61.8456,17.1175,High income,IBRD
+Antigua and Barbuda,AG,ATG,2022,,2026-04-08,2594115333.09169,92840,Latin America & Caribbean,Saint John's,-61.8456,17.1175,High income,IBRD
+Antigua and Barbuda,AG,ATG,2020,,2026-04-08,2197936454.54413,91846,Latin America & Caribbean,Saint John's,-61.8456,17.1175,High income,IBRD
+Antigua and Barbuda,AG,ATG,2021,,2026-04-08,2377570792.25983,92349,Latin America & Caribbean,Saint John's,-61.8456,17.1175,High income,IBRD
+Arab World,1A,ARB,2021,,2026-04-08,7446191992739.31,460646603,Aggregates,,,,Aggregates,Aggregates
+Arab World,1A,ARB,2020,,2026-04-08,7141153527505.77,453723239,Aggregates,,,,Aggregates,Aggregates
+Arab World,1A,ARB,2022,,2026-04-08,7968437767844.51,471352066,Aggregates,,,,Aggregates,Aggregates
+Arab World,1A,ARB,2023,,2026-04-08,8100500405924.03,482105978,Aggregates,,,,Aggregates,Aggregates
+Argentina,AR,ARG,2020,,2026-04-08,1079052757506.56,45191965,Latin America & Caribbean,Buenos Aires,-58.4173,-34.6118,Upper middle income,IBRD
+Argentina,AR,ARG,2021,,2026-04-08,1191725417699.43,45312281,Latin America & Caribbean,Buenos Aires,-58.4173,-34.6118,Upper middle income,IBRD
+Argentina,AR,ARG,2022,,2026-04-08,1263476170672.42,45407904,Latin America & Caribbean,Buenos Aires,-58.4173,-34.6118,Upper middle income,IBRD
+Argentina,AR,ARG,2023,,2026-04-08,1240028731129.33,45538401,Latin America & Caribbean,Buenos Aires,-58.4173,-34.6118,Upper middle income,IBRD
+Armenia,AM,ARM,2021,,2026-04-08,47164867556.762,2962300,Europe & Central Asia,Yerevan,44.509,40.1596,Upper middle income,IBRD
+Armenia,AM,ARM,2023,,2026-04-08,57515575060.7049,2964300,Europe & Central Asia,Yerevan,44.509,40.1596,Upper middle income,IBRD
+Armenia,AM,ARM,2022,,2026-04-08,53107640868.8087,2969200,Europe & Central Asia,Yerevan,44.509,40.1596,Upper middle income,IBRD
+Armenia,AM,ARM,2020,,2026-04-08,44579269902.145,2961500,Europe & Central Asia,Yerevan,44.509,40.1596,Upper middle income,IBRD
+Aruba,AW,ABW,2022,,2026-04-08,4182926182.33152,107310,Latin America & Caribbean,Oranjestad,-70.0167,12.5167,High income,Not classified
+Aruba,AW,ABW,2020,,2026-04-08,3295358879.02298,108587,Latin America & Caribbean,Oranjestad,-70.0167,12.5167,High income,Not classified
+Aruba,AW,ABW,2021,,2026-04-08,3780785538.74098,107700,Latin America & Caribbean,Oranjestad,-70.0167,12.5167,High income,Not classified
+Aruba,AW,ABW,2023,,2026-04-08,4505295870.27862,107359,Latin America & Caribbean,Oranjestad,-70.0167,12.5167,High income,Not classified
+Australia,AU,AUS,2022,,2026-04-08,1561881261293.28,26018721,East Asia & Pacific,Canberra,149.129,-35.282,High income,Not classified
+Australia,AU,AUS,2023,,2026-04-08,1617856290055.37,26659922,East Asia & Pacific,Canberra,149.129,-35.282,High income,Not classified
+Australia,AU,AUS,2020,,2026-04-08,1468687868740.01,25649248,East Asia & Pacific,Canberra,149.129,-35.282,High income,Not classified
+Australia,AU,AUS,2021,,2026-04-08,1498163677059.36,25685412,East Asia & Pacific,Canberra,149.129,-35.282,High income,Not classified
+Austria,AT,AUT,2023,,2026-04-08,589330050842.331,9131761,Europe & Central Asia,Vienna,16.3798,48.2201,High income,Not classified
+Austria,AT,AUT,2022,,2026-04-08,594000344626.187,9041851,Europe & Central Asia,Vienna,16.3798,48.2201,High income,Not classified
+Austria,AT,AUT,2021,,2026-04-08,563937063927.258,8955797,Europe & Central Asia,Vienna,16.3798,48.2201,High income,Not classified
+Austria,AT,AUT,2020,,2026-04-08,537476598047.029,8916864,Europe & Central Asia,Vienna,16.3798,48.2201,High income,Not classified
+Azerbaijan,AZ,AZE,2020,,2026-04-08,193042009776.134,10093121,Europe & Central Asia,Baku,49.8932,40.3834,Upper middle income,IBRD
+Azerbaijan,AZ,AZE,2023,,2026-04-08,216388345622.489,10153958,Europe & Central Asia,Baku,49.8932,40.3834,Upper middle income,IBRD
+Azerbaijan,AZ,AZE,2022,,2026-04-08,213496582468.561,10141756,Europe & Central Asia,Baku,49.8932,40.3834,Upper middle income,IBRD
+Azerbaijan,AZ,AZE,2021,,2026-04-08,203884098954.124,10137750,Europe & Central Asia,Baku,49.8932,40.3834,Upper middle income,IBRD
+"Bahamas, The",BS,BHS,2020,,2026-04-08,10471643502.0086,395863,Latin America & Caribbean,Nassau,-77.339,25.0661,High income,Not classified
+"Bahamas, The",BS,BHS,2023,,2026-04-08,14068783966.2643,399440,Latin America & Caribbean,Nassau,-77.339,25.0661,High income,Not classified
+"Bahamas, The",BS,BHS,2021,,2026-04-08,12313201284.2481,396373,Latin America & Caribbean,Nassau,-77.339,25.0661,High income,Not classified
+"Bahamas, The",BS,BHS,2022,,2026-04-08,13652619122.6178,397538,Latin America & Caribbean,Nassau,-77.339,25.0661,High income,Not classified
+Bahrain,BH,BHR,2020,,2026-04-08,79225547127.628,1472204,Middle East & North Africa,Manama,50.5354,26.1921,High income,Not classified
+Bahrain,BH,BHR,2023,,2026-04-08,91185401848.1927,1577059,Middle East & North Africa,Manama,50.5354,26.1921,High income,Not classified
+Bahrain,BH,BHR,2021,,2026-04-08,82671890844.1512,1504365,Middle East & North Africa,Manama,50.5354,26.1921,High income,Not classified
+Bahrain,BH,BHR,2022,,2026-04-08,87781147010.6722,1524693,Middle East & North Africa,Manama,50.5354,26.1921,High income,Not classified
+Bangladesh,BD,BGD,2021,,2026-04-08,1247561124482.2,167658854,South Asia,Dhaka,90.4113,23.7055,Lower middle income,IDA
+Bangladesh,BD,BGD,2020,,2026-04-08,1166613553390.4,166298024,South Asia,Dhaka,90.4113,23.7055,Lower middle income,IDA
+Bangladesh,BD,BGD,2023,,2026-04-08,1413299173688.33,171466990,South Asia,Dhaka,90.4113,23.7055,Lower middle income,IDA
+Bangladesh,BD,BGD,2022,,2026-04-08,1336135828193.28,169384897,South Asia,Dhaka,90.4113,23.7055,Lower middle income,IDA
+Barbados,BB,BRB,2022,,2026-04-08,5848580185.47154,282318,Latin America & Caribbean,Bridgetown,-59.6105,13.0935,High income,IBRD
+Barbados,BB,BRB,2021,,2026-04-08,4989129631.48072,282147,Latin America & Caribbean,Bridgetown,-59.6105,13.0935,High income,IBRD
+Barbados,BB,BRB,2020,,2026-04-08,4993962686.75816,281698,Latin America & Caribbean,Bridgetown,-59.6105,13.0935,High income,IBRD
+Barbados,BB,BRB,2023,,2026-04-08,6019028712.5404,282336,Latin America & Caribbean,Bridgetown,-59.6105,13.0935,High income,IBRD
+Belarus,BY,BLR,2022,,2026-04-08,244890010830.859,9228071,Europe & Central Asia,Minsk,27.5766,53.9678,Upper middle income,IBRD
+Belarus,BY,BLR,2021,,2026-04-08,256855349956.29,9302585,Europe & Central Asia,Minsk,27.5766,53.9678,Upper middle income,IBRD
+Belarus,BY,BLR,2023,,2026-04-08,254995495258.99,9178298,Europe & Central Asia,Minsk,27.5766,53.9678,Upper middle income,IBRD
+Belarus,BY,BLR,2020,,2026-04-08,250740143618.208,9379952,Europe & Central Asia,Minsk,27.5766,53.9678,Upper middle income,IBRD
+Belgium,BE,BEL,2020,,2026-04-08,661549041829.952,11538604,Europe & Central Asia,Brussels,4.36761,50.8371,High income,Not classified
+Belgium,BE,BEL,2023,,2026-04-08,743260425205.666,11779946,Europe & Central Asia,Brussels,4.36761,50.8371,High income,Not classified
+Belgium,BE,BEL,2021,,2026-04-08,702925341289.817,11586195,Europe & Central Asia,Brussels,4.36761,50.8371,High income,Not classified
+Belgium,BE,BEL,2022,,2026-04-08,730734740583.4,11680210,Europe & Central Asia,Brussels,4.36761,50.8371,High income,Not classified
+Belize,BZ,BLZ,2022,,2026-04-08,5060486974.58827,402733,Latin America & Caribbean,Belmopan,-88.7713,17.2534,Upper middle income,Blend
+Belize,BZ,BLZ,2023,,2026-04-08,5085795883.93117,411106,Latin America & Caribbean,Belmopan,-88.7713,17.2534,Upper middle income,Blend
+Belize,BZ,BLZ,2021,,2026-04-08,4632002927.90342,395346,Latin America & Caribbean,Belmopan,-88.7713,17.2534,Upper middle income,Blend
+Belize,BZ,BLZ,2020,,2026-04-08,3925761416.40417,390812,Latin America & Caribbean,Belmopan,-88.7713,17.2534,Upper middle income,Blend
+Benin,BJ,BEN,2022,,2026-04-08,49373564169.2145,13759501,Sub-Saharan Africa,Porto-Novo,2.6323,6.4779,Lower middle income,IDA
+Benin,BJ,BEN,2023,,2026-04-08,52510156788.1442,14111034,Sub-Saharan Africa,Porto-Novo,2.6323,6.4779,Lower middle income,IDA
+Benin,BJ,BEN,2020,,2026-04-08,43364987288.175,13070169,Sub-Saharan Africa,Porto-Novo,2.6323,6.4779,Lower middle income,IDA
+Benin,BJ,BEN,2021,,2026-04-08,46467947984.7692,13413417,Sub-Saharan Africa,Porto-Novo,2.6323,6.4779,Lower middle income,IDA
+Bermuda,BM,BMU,2023,,2026-04-08,6667280834.70371,64698,North America,Hamilton,-64.706,32.3293,High income,Not classified
+Bermuda,BM,BMU,2021,,2026-04-08,5968282122.23481,64648,North America,Hamilton,-64.706,32.3293,High income,Not classified
+Bermuda,BM,BMU,2022,,2026-04-08,6354801543.59174,64749,North America,Hamilton,-64.706,32.3293,High income,Not classified
+Bermuda,BM,BMU,2020,,2026-04-08,5705409424.09851,64382,North America,Hamilton,-64.706,32.3293,High income,Not classified
+Bhutan,BT,BTN,2023,,2026-04-08,11489317550.7216,786385,South Asia,Thimphu,89.6177,27.5768,Lower middle income,IDA
+Bhutan,BT,BTN,2022,,2026-04-08,10980675420.6109,780914,South Asia,Thimphu,89.6177,27.5768,Lower middle income,IDA
+Bhutan,BT,BTN,2021,,2026-04-08,10436528611.9245,775442,South Asia,Thimphu,89.6177,27.5768,Lower middle income,IDA
+Bhutan,BT,BTN,2020,,2026-04-08,9994629330.03013,770006,South Asia,Thimphu,89.6177,27.5768,Lower middle income,IDA
+Bolivia,BO,BOL,2021,,2026-04-08,133727570900.831,11937360,Latin America & Caribbean,La Paz,-66.1936,-13.9908,Lower middle income,IBRD
+Bolivia,BO,BOL,2022,,2026-04-08,138738901712.879,12077154,Latin America & Caribbean,La Paz,-66.1936,-13.9908,Lower middle income,IBRD
+Bolivia,BO,BOL,2020,,2026-04-08,121538423042.526,11816299,Latin America & Caribbean,La Paz,-66.1936,-13.9908,Lower middle income,IBRD
+Bolivia,BO,BOL,2023,,2026-04-08,142230080127.765,12244159,Latin America & Caribbean,La Paz,-66.1936,-13.9908,Lower middle income,IBRD
+Bosnia and Herzegovina,BA,BIH,2021,,2026-04-08,59338761977.1417,3244907,Europe & Central Asia,Sarajevo,18.4214,43.8607,Upper middle income,IBRD
+Bosnia and Herzegovina,BA,BIH,2020,,2026-04-08,55254543612.5314,3299349,Europe & Central Asia,Sarajevo,18.4214,43.8607,Upper middle income,IBRD
+Bosnia and Herzegovina,BA,BIH,2023,,2026-04-08,63080371648.772,3185073,Europe & Central Asia,Sarajevo,18.4214,43.8607,Upper middle income,IBRD
+Bosnia and Herzegovina,BA,BIH,2022,,2026-04-08,61846900680.5647,3204802,Europe & Central Asia,Sarajevo,18.4214,43.8607,Upper middle income,IBRD
+Botswana,BW,BWA,2021,,2026-04-08,43131382328.6508,2401441,Sub-Saharan Africa,Gaborone,25.9201,-24.6544,Upper middle income,IBRD
+Botswana,BW,BWA,2022,,2026-04-08,45497577323.3414,2439892,Sub-Saharan Africa,Gaborone,25.9201,-24.6544,Upper middle income,IBRD
+Botswana,BW,BWA,2023,,2026-04-08,46957170597.845,2480244,Sub-Saharan Africa,Gaborone,25.9201,-24.6544,Upper middle income,IBRD
+Botswana,BW,BWA,2020,,2026-04-08,38538973278.1699,2365894,Sub-Saharan Africa,Gaborone,25.9201,-24.6544,Upper middle income,IBRD
+Brazil,BR,BRA,2022,,2026-04-08,3902034936460.01,210306415,Latin America & Caribbean,Brasilia,-47.9292,-15.7801,Upper middle income,IBRD
+Brazil,BR,BRA,2021,,2026-04-08,3787769507579.26,209550294,Latin America & Caribbean,Brasilia,-47.9292,-15.7801,Upper middle income,IBRD
+Brazil,BR,BRA,2020,,2026-04-08,3615574020907.98,208660842,Latin America & Caribbean,Brasilia,-47.9292,-15.7801,Upper middle income,IBRD
+Brazil,BR,BRA,2023,,2026-04-08,4028525459883.49,211140729,Latin America & Caribbean,Brasilia,-47.9292,-15.7801,Upper middle income,IBRD
+British Virgin Islands,VG,VGB,2022,,2026-04-08,NA,38319,Latin America & Caribbean,Road Town,-64.623056,18.431389,High income,Not classified
+British Virgin Islands,VG,VGB,2021,,2026-04-08,NA,37809,Latin America & Caribbean,Road Town,-64.623056,18.431389,High income,Not classified
+British Virgin Islands,VG,VGB,2020,,2026-04-08,NA,37135,Latin America & Caribbean,Road Town,-64.623056,18.431389,High income,Not classified
+British Virgin Islands,VG,VGB,2023,,2026-04-08,NA,38985,Latin America & Caribbean,Road Town,-64.623056,18.431389,High income,Not classified
+Brunei Darussalam,BN,BRN,2020,,2026-04-08,35917994917.4561,447404,East Asia & Pacific,Bandar Seri Begawan,114.946,4.94199,High income,Not classified
+Brunei Darussalam,BN,BRN,2023,,2026-04-08,35163158531.4447,458949,East Asia & Pacific,Bandar Seri Begawan,114.946,4.94199,High income,Not classified
+Brunei Darussalam,BN,BRN,2021,,2026-04-08,35346624887.2816,451721,East Asia & Pacific,Bandar Seri Begawan,114.946,4.94199,High income,Not classified
+Brunei Darussalam,BN,BRN,2022,,2026-04-08,34771064644.0957,455370,East Asia & Pacific,Bandar Seri Begawan,114.946,4.94199,High income,Not classified
+Bulgaria,BG,BGR,2023,,2026-04-08,213213542585.851,6446596,Europe & Central Asia,Sofia,23.3238,42.7105,High income,IBRD
+Bulgaria,BG,BGR,2021,,2026-04-08,201460259474.462,6507301,Europe & Central Asia,Sofia,23.3238,42.7105,High income,IBRD
+Bulgaria,BG,BGR,2022,,2026-04-08,209687622669.807,6465097,Europe & Central Asia,Sofia,23.3238,42.7105,High income,IBRD
+Bulgaria,BG,BGR,2020,,2026-04-08,186834530461.326,6550696,Europe & Central Asia,Sofia,23.3238,42.7105,High income,IBRD
+Burkina Faso,BF,BFA,2023,,2026-04-08,57246838520.8113,23025776,Sub-Saharan Africa,Ouagadougou,-1.53395,12.3605,Low income,IDA
+Burkina Faso,BF,BFA,2022,,2026-04-08,55579306937.4917,22509038,Sub-Saharan Africa,Ouagadougou,-1.53395,12.3605,Low income,IDA
+Burkina Faso,BF,BFA,2021,,2026-04-08,54689652540.5665,21995243,Sub-Saharan Africa,Ouagadougou,-1.53395,12.3605,Low income,IDA
+Burkina Faso,BF,BFA,2020,,2026-04-08,51139294287.7971,21478690,Sub-Saharan Africa,Ouagadougou,-1.53395,12.3605,Low income,IDA
+Burundi,BI,BDI,2020,,2026-04-08,13005265531.0616,12617036,Sub-Saharan Africa,Bujumbura,29.3639,-3.3784,Low income,IDA
+Burundi,BI,BDI,2022,,2026-04-08,13737436196.5632,13321097,Sub-Saharan Africa,Bujumbura,29.3639,-3.3784,Low income,IDA
+Burundi,BI,BDI,2023,,2026-04-08,14184558007.7479,13689450,Sub-Saharan Africa,Bujumbura,29.3639,-3.3784,Low income,IDA
+Burundi,BI,BDI,2021,,2026-04-08,13426255704.0112,12965481,Sub-Saharan Africa,Bujumbura,29.3639,-3.3784,Low income,IDA
+Cabo Verde,CV,CPV,2023,,2026-04-08,4820310977.0386,522331,Sub-Saharan Africa,Praia,-23.5087,14.9218,Lower middle income,Blend
+Cabo Verde,CV,CPV,2022,,2026-04-08,4599763302.14502,519741,Sub-Saharan Africa,Praia,-23.5087,14.9218,Lower middle income,Blend
+Cabo Verde,CV,CPV,2020,,2026-04-08,3709738572.10333,514679,Sub-Saharan Africa,Praia,-23.5087,14.9218,Lower middle income,Blend
+Cabo Verde,CV,CPV,2021,,2026-04-08,3970664151.46117,516649,Sub-Saharan Africa,Praia,-23.5087,14.9218,Lower middle income,Blend
+Cambodia,KH,KHM,2021,,2026-04-08,105674090069.142,16974305,East Asia & Pacific,Phnom Penh,104.874,11.5556,Lower middle income,IDA
+Cambodia,KH,KHM,2023,,2026-04-08,116657963460.597,17423880,East Asia & Pacific,Phnom Penh,104.874,11.5556,Lower middle income,IDA
+Cambodia,KH,KHM,2020,,2026-04-08,102506791315.638,16725474,East Asia & Pacific,Phnom Penh,104.874,11.5556,Lower middle income,IDA
+Cambodia,KH,KHM,2022,,2026-04-08,111095066386.193,17201724,East Asia & Pacific,Phnom Penh,104.874,11.5556,Lower middle income,IDA
+Cameroon,CM,CMR,2020,,2026-04-08,124853519772.037,26210558,Sub-Saharan Africa,Yaounde,11.5174,3.8721,Lower middle income,Blend
+Cameroon,CM,CMR,2023,,2026-04-08,138323976561.878,28372687,Sub-Saharan Africa,Yaounde,11.5174,3.8721,Lower middle income,Blend
+Cameroon,CM,CMR,2021,,2026-04-08,129022200845.744,26915758,Sub-Saharan Africa,Yaounde,11.5174,3.8721,Lower middle income,Blend
+Cameroon,CM,CMR,2022,,2026-04-08,133843481810.674,27632771,Sub-Saharan Africa,Yaounde,11.5174,3.8721,Lower middle income,Blend
+Canada,CA,CAN,2023,,2026-04-08,2305499512574.39,40083484,North America,Ottawa,-75.6919,45.4215,High income,Not classified
+Canada,CA,CAN,2021,,2026-04-08,2179485548675.88,38239864,North America,Ottawa,-75.6919,45.4215,High income,Not classified
+Canada,CA,CAN,2022,,2026-04-08,2270784989049.25,38935934,North America,Ottawa,-75.6919,45.4215,High income,Not classified
+Canada,CA,CAN,2020,,2026-04-08,2057078515077.34,38028638,North America,Ottawa,-75.6919,45.4215,High income,Not classified
+Caribbean small states,S3,CSS,2022,,2026-04-08,121637424818.265,4497310,Aggregates,,,,Aggregates,Aggregates
+Caribbean small states,S3,CSS,2021,,2026-04-08,105230438436.764,4479167,Aggregates,,,,Aggregates,Aggregates
+Caribbean small states,S3,CSS,2023,,2026-04-08,133857662978.718,4519904,Aggregates,,,,Aggregates,Aggregates
+Caribbean small states,S3,CSS,2020,,2026-04-08,99450442637.6324,4459302,Aggregates,,,,Aggregates,Aggregates
+Cayman Islands,KY,CYM,2021,,2026-04-08,5199243731.07254,70108,Latin America & Caribbean,George Town,-81.3857,19.3022,High income,Not classified
+Cayman Islands,KY,CYM,2022,,2026-04-08,5499534739.6720505,71591,Latin America & Caribbean,George Town,-81.3857,19.3022,High income,Not classified
+Cayman Islands,KY,CYM,2020,,2026-04-08,4957826506.47082,68684,Latin America & Caribbean,George Town,-81.3857,19.3022,High income,Not classified
+Cayman Islands,KY,CYM,2023,,2026-04-08,5819365232.47743,73038,Latin America & Caribbean,George Town,-81.3857,19.3022,High income,Not classified
+Central African Republic,CF,CAF,2022,,2026-04-08,5795459458.30387,5098039,Sub-Saharan Africa,Bangui,21.6407,5.63056,Low income,IDA
+Central African Republic,CF,CAF,2020,,2026-04-08,5713117249.75906,5026628,Sub-Saharan Africa,Bangui,21.6407,5.63056,Low income,IDA
+Central African Republic,CF,CAF,2023,,2026-04-08,5836025843.19088,5152421,Sub-Saharan Africa,Bangui,21.6407,5.63056,Low income,IDA
+Central African Republic,CF,CAF,2021,,2026-04-08,5769272621.61696,5112100,Sub-Saharan Africa,Bangui,21.6407,5.63056,Low income,IDA
+Central Europe and the Baltics,B8,CEB,2023,,2026-04-08,4218703815574.99,100183707,Aggregates,,,,Aggregates,Aggregates
+Central Europe and the Baltics,B8,CEB,2021,,2026-04-08,4020501562583.03,100205732,Aggregates,,,,Aggregates,Aggregates
+Central Europe and the Baltics,B8,CEB,2022,,2026-04-08,4186479244087.73,100071871,Aggregates,,,,Aggregates,Aggregates
+Central Europe and the Baltics,B8,CEB,2020,,2026-04-08,3773352576746.74,101215763,Aggregates,,,,Aggregates,Aggregates
+Chad,TD,TCD,2023,,2026-04-08,47005191271.9674,19319064,Sub-Saharan Africa,N'Djamena,15.0445,12.1048,Low income,IDA
+Chad,TD,TCD,2021,,2026-04-08,43413141699.6577,17828273,Sub-Saharan Africa,N'Djamena,15.0445,12.1048,Low income,IDA
+Chad,TD,TCD,2020,,2026-04-08,43286121757.6896,17224679,Sub-Saharan Africa,N'Djamena,15.0445,12.1048,Low income,IDA
+Chad,TD,TCD,2022,,2026-04-08,45205973768.2093,18455316,Sub-Saharan Africa,N'Djamena,15.0445,12.1048,Low income,IDA
+Channel Islands,JG,CHI,2020,,2026-04-08,NA,166235,Europe & Central Asia,,,,High income,Not classified
+Channel Islands,JG,CHI,2023,,2026-04-08,NA,167691,Europe & Central Asia,,,,High income,Not classified
+Channel Islands,JG,CHI,2022,,2026-04-08,NA,167215,Europe & Central Asia,,,,High income,Not classified
+Channel Islands,JG,CHI,2021,,2026-04-08,NA,166741,Europe & Central Asia,,,,High income,Not classified
+Chile,CL,CHL,2021,,2026-04-08,565981846554.521,19456334,Latin America & Caribbean,Santiago,-70.6475,-33.475,High income,IBRD
+Chile,CL,CHL,2020,,2026-04-08,508451018132.847,19370624,Latin America & Caribbean,Santiago,-70.6475,-33.475,High income,IBRD
+Chile,CL,CHL,2023,,2026-04-08,581187468274.136,19658835,Latin America & Caribbean,Santiago,-70.6475,-33.475,High income,IBRD
+Chile,CL,CHL,2022,,2026-04-08,578173059090.967,19553036,Latin America & Caribbean,Santiago,-70.6475,-33.475,High income,IBRD
+China,CN,CHN,2021,,2026-04-08,29438240129870.1,1412360000,East Asia & Pacific,Beijing,116.286,40.0495,Upper middle income,IBRD
+China,CN,CHN,2023,,2026-04-08,32004884803945.3,1410710000,East Asia & Pacific,Beijing,116.286,40.0495,Upper middle income,IBRD
+China,CN,CHN,2022,,2026-04-08,30360890176120.6,1412175000,East Asia & Pacific,Beijing,116.286,40.0495,Upper middle income,IBRD
+China,CN,CHN,2020,,2026-04-08,27114504049776,1411100000,East Asia & Pacific,Beijing,116.286,40.0495,Upper middle income,IBRD
+Colombia,CO,COL,2020,,2026-04-08,803067693827.328,50629997,Latin America & Caribbean,Bogota,-74.082,4.60987,Upper middle income,IBRD
+Colombia,CO,COL,2021,,2026-04-08,889808627041.398,51188173,Latin America & Caribbean,Bogota,-74.082,4.60987,Upper middle income,IBRD
+Colombia,CO,COL,2022,,2026-04-08,955016270619.415,51737944,Latin America & Caribbean,Bogota,-74.082,4.60987,Upper middle income,IBRD
+Colombia,CO,COL,2023,,2026-04-08,961819615833.414,52321152,Latin America & Caribbean,Bogota,-74.082,4.60987,Upper middle income,IBRD
+Comoros,KM,COM,2021,,2026-04-08,2763697833.20972,818174,Sub-Saharan Africa,Moroni,43.2418,-11.6986,Lower middle income,IDA
+Comoros,KM,COM,2020,,2026-04-08,2709502576.23354,802163,Sub-Saharan Africa,Moroni,43.2418,-11.6986,Lower middle income,IDA
+Comoros,KM,COM,2022,,2026-04-08,2835637173.00184,834188,Sub-Saharan Africa,Moroni,43.2418,-11.6986,Lower middle income,IDA
+Comoros,KM,COM,2023,,2026-04-08,2920570621.11206,850387,Sub-Saharan Africa,Moroni,43.2418,-11.6986,Lower middle income,IDA
+"Congo, Dem. Rep.",CD,COD,2023,,2026-04-08,164961954408.872,105789731,Sub-Saharan Africa,Kinshasa,15.3222,-4.325,Low income,IDA
+"Congo, Dem. Rep.",CD,COD,2022,,2026-04-08,151991753572.518,102396968,Sub-Saharan Africa,Kinshasa,15.3222,-4.325,Low income,IDA
+"Congo, Dem. Rep.",CD,COD,2021,,2026-04-08,139045034784.888,99148932,Sub-Saharan Africa,Kinshasa,15.3222,-4.325,Low income,IDA
+"Congo, Dem. Rep.",CD,COD,2020,,2026-04-08,130645066453.882,95989998,Sub-Saharan Africa,Kinshasa,15.3222,-4.325,Low income,IDA
+"Congo, Rep.",CG,COG,2023,,2026-04-08,38162545447.2186,6182885,Sub-Saharan Africa,Brazzaville,15.2662,-4.2767,Lower middle income,Blend
+"Congo, Rep.",CG,COG,2022,,2026-04-08,37448454255.7938,6035104,Sub-Saharan Africa,Brazzaville,15.2662,-4.2767,Lower middle income,Blend
+"Congo, Rep.",CG,COG,2021,,2026-04-08,36903988991.0873,5892183,Sub-Saharan Africa,Brazzaville,15.2662,-4.2767,Lower middle income,Blend
+"Congo, Rep.",CG,COG,2020,,2026-04-08,36533151792.0523,5752791,Sub-Saharan Africa,Brazzaville,15.2662,-4.2767,Lower middle income,Blend
+Costa Rica,CR,CRI,2021,,2026-04-08,120695515793.017,5059988,Latin America & Caribbean,San Jose,-84.0089,9.63701,Upper middle income,IBRD
+Costa Rica,CR,CRI,2022,,2026-04-08,126188962272.663,5081765,Latin America & Caribbean,San Jose,-84.0089,9.63701,Upper middle income,IBRD
+Costa Rica,CR,CRI,2020,,2026-04-08,111821618043.828,5034320,Latin America & Caribbean,San Jose,-84.0089,9.63701,Upper middle income,IBRD
+Costa Rica,CR,CRI,2023,,2026-04-08,132639643384.964,5105525,Latin America & Caribbean,San Jose,-84.0089,9.63701,Upper middle income,IBRD
+Cote d'Ivoire,CI,CIV,2023,,2026-04-08,203228077783.126,31165654,Sub-Saharan Africa,Yamoussoukro,-4.0305,5.332,Lower middle income,IDA
+Cote d'Ivoire,CI,CIV,2022,,2026-04-08,190645475535.602,30395002,Sub-Saharan Africa,Yamoussoukro,-4.0305,5.332,Lower middle income,IDA
+Cote d'Ivoire,CI,CIV,2021,,2026-04-08,179178274483.428,29639736,Sub-Saharan Africa,Yamoussoukro,-4.0305,5.332,Lower middle income,IDA
+Cote d'Ivoire,CI,CIV,2020,,2026-04-08,167357279085.387,28915449,Sub-Saharan Africa,Yamoussoukro,-4.0305,5.332,Lower middle income,IDA
+Croatia,HR,HRV,2020,,2026-04-08,127185517555.173,3914206,Europe & Central Asia,Zagreb,15.9614,45.8069,High income,IBRD
+Croatia,HR,HRV,2023,,2026-04-08,159483010052.546,3859686,Europe & Central Asia,Zagreb,15.9614,45.8069,High income,IBRD
+Croatia,HR,HRV,2021,,2026-04-08,143251870713.671,3878981,Europe & Central Asia,Zagreb,15.9614,45.8069,High income,IBRD
+Croatia,HR,HRV,2022,,2026-04-08,153701311719.69,3855641,Europe & Central Asia,Zagreb,15.9614,45.8069,High income,IBRD
+Cuba,CU,CUB,2023,,2026-04-08,NA,11019931,Latin America & Caribbean,Havana,-82.3667,23.1333,Upper middle income,Not classified
+Cuba,CU,CUB,2020,,2026-04-08,NA,11176354,Latin America & Caribbean,Havana,-82.3667,23.1333,Upper middle income,Not classified
+Cuba,CU,CUB,2022,,2026-04-08,NA,11059820,Latin America & Caribbean,Havana,-82.3667,23.1333,Upper middle income,Not classified
+Cuba,CU,CUB,2021,,2026-04-08,NA,11122168,Latin America & Caribbean,Havana,-82.3667,23.1333,Upper middle income,Not classified
+Curacao,CW,CUW,2021,,2026-04-08,3834193240.62081,153948,Latin America & Caribbean,Willemstad,,,High income,Not classified
+Curacao,CW,CUW,2023,,2026-04-08,4271221875.75495,154654,Latin America & Caribbean,Willemstad,,,High income,Not classified
+Curacao,CW,CUW,2020,,2026-04-08,3680223299.37452,155482,Latin America & Caribbean,Willemstad,,,High income,Not classified
+Curacao,CW,CUW,2022,,2026-04-08,4098982625.81808,153321,Latin America & Caribbean,Willemstad,,,High income,Not classified
+Cyprus,CY,CYP,2022,,2026-04-08,47557208380.8034,1331370,Europe & Central Asia,Nicosia,33.3736,35.1676,High income,Not classified
+Cyprus,CY,CYP,2021,,2026-04-08,43923129044.8892,1317309,Europe & Central Asia,Nicosia,33.3736,35.1676,High income,Not classified
+Cyprus,CY,CYP,2023,,2026-04-08,49278520825.2553,1344976,Europe & Central Asia,Nicosia,33.3736,35.1676,High income,Not classified
+Cyprus,CY,CYP,2020,,2026-04-08,39429166498.4206,1302247,Europe & Central Asia,Nicosia,33.3736,35.1676,High income,Not classified
+Czechia,CZ,CZE,2022,,2026-04-08,516430851532.897,10672118,Europe & Central Asia,Prague,14.4205,50.0878,High income,Not classified
+Czechia,CZ,CZE,2021,,2026-04-08,502134232985.641,10505772,Europe & Central Asia,Prague,14.4205,50.0878,High income,Not classified
+Czechia,CZ,CZE,2020,,2026-04-08,482686697512.017,10697858,Europe & Central Asia,Prague,14.4205,50.0878,High income,Not classified
+Czechia,CZ,CZE,2023,,2026-04-08,516676571040.913,10864042,Europe & Central Asia,Prague,14.4205,50.0878,High income,Not classified
+Denmark,DK,DNK,2023,,2026-04-08,412594891187.811,5946952,Europe & Central Asia,Copenhagen,12.5681,55.6763,High income,Not classified
+Denmark,DK,DNK,2020,,2026-04-08,383382371297.054,5831404,Europe & Central Asia,Copenhagen,12.5681,55.6763,High income,Not classified
+Denmark,DK,DNK,2022,,2026-04-08,410115383750.451,5903037,Europe & Central Asia,Copenhagen,12.5681,55.6763,High income,Not classified
+Denmark,DK,DNK,2021,,2026-04-08,408303200976.802,5856733,Europe & Central Asia,Copenhagen,12.5681,55.6763,High income,Not classified
+Djibouti,DJ,DJI,2023,,2026-04-08,7506447816.97939,1152944,Middle East & North Africa,Djibouti,43.1425,11.5806,Lower middle income,IDA
+Djibouti,DJ,DJI,2022,,2026-04-08,7028026489.29933,1137096,Middle East & North Africa,Djibouti,43.1425,11.5806,Lower middle income,IDA
+Djibouti,DJ,DJI,2021,,2026-04-08,6682759257.72075,1121248,Middle East & North Africa,Djibouti,43.1425,11.5806,Lower middle income,IDA
+Djibouti,DJ,DJI,2020,,2026-04-08,6400671630.66588,1105188,Middle East & North Africa,Djibouti,43.1425,11.5806,Lower middle income,IDA
+Dominica,DM,DMA,2023,,2026-04-08,1215684767.37663,66510,Latin America & Caribbean,Roseau,-61.39,15.2976,Upper middle income,Blend
+Dominica,DM,DMA,2022,,2026-04-08,1172849827.26826,66826,Latin America & Caribbean,Roseau,-61.39,15.2976,Upper middle income,Blend
+Dominica,DM,DMA,2020,,2026-04-08,1008157452.63146,67573,Latin America & Caribbean,Roseau,-61.39,15.2976,Upper middle income,Blend
+Dominica,DM,DMA,2021,,2026-04-08,1062394694.29521,67202,Latin America & Caribbean,Roseau,-61.39,15.2976,Upper middle income,Blend
+Dominican Republic,DO,DOM,2021,,2026-04-08,245311121758.829,11123476,Latin America & Caribbean,Santo Domingo,-69.8908,18.479,Upper middle income,IBRD
+Dominican Republic,DO,DOM,2022,,2026-04-08,258160411677.422,11230734,Latin America & Caribbean,Santo Domingo,-69.8908,18.479,Upper middle income,IBRD
+Dominican Republic,DO,DOM,2020,,2026-04-08,215161736410.866,11008300,Latin America & Caribbean,Santo Domingo,-69.8908,18.479,Upper middle income,IBRD
+Dominican Republic,DO,DOM,2023,,2026-04-08,263820058464.731,11331265,Latin America & Caribbean,Santo Domingo,-69.8908,18.479,Upper middle income,IBRD
+Early-demographic dividend,V2,EAR,2023,,2026-04-08,41562422190374.7,3511607650,Aggregates,,,,Aggregates,Aggregates
+Early-demographic dividend,V2,EAR,2021,,2026-04-08,37175102481273.4,3432026092,Aggregates,,,,Aggregates,Aggregates
+Early-demographic dividend,V2,EAR,2022,,2026-04-08,39490901103475.8,3470644834,Aggregates,,,,Aggregates,Aggregates
+Early-demographic dividend,V2,EAR,2020,,2026-04-08,34612448167218.3,3396051187,Aggregates,,,,Aggregates,Aggregates
+East Asia & Pacific,Z4,EAS,2021,,2026-04-08,51085209331184.2,2375117716,Aggregates,,,,Aggregates,Aggregates
+East Asia & Pacific,Z4,EAS,2023,,2026-04-08,55078055152070.4,2384441485,Aggregates,,,,Aggregates,Aggregates
+East Asia & Pacific,Z4,EAS,2022,,2026-04-08,52768479248670.8,2379617118,Aggregates,,,,Aggregates,Aggregates
+East Asia & Pacific,Z4,EAS,2020,,2026-04-08,48021657203989,2369420882,Aggregates,,,,Aggregates,Aggregates
+East Asia & Pacific (excluding high income),4E,EAP,2020,,2026-04-08,35682746902895.3,2121866294,Aggregates,,,,Aggregates,Aggregates
+East Asia & Pacific (excluding high income),4E,EAP,2021,,2026-04-08,38242090839544.7,2128553744,Aggregates,,,,Aggregates,Aggregates
+East Asia & Pacific (excluding high income),4E,EAP,2023,,2026-04-08,41729220073843,2137527754,Aggregates,,,,Aggregates,Aggregates
+East Asia & Pacific (excluding high income),4E,EAP,2022,,2026-04-08,39684268139030.5,2133560408,Aggregates,,,,Aggregates,Aggregates
+East Asia & Pacific (IDA & IBRD countries),T4,TEA,2020,,2026-04-08,35638419970064.8,2095759417,Aggregates,,,,Aggregates,Aggregates
+East Asia & Pacific (IDA & IBRD countries),T4,TEA,2021,,2026-04-08,38194519217111.3,2102350702,Aggregates,,,,Aggregates,Aggregates
+East Asia & Pacific (IDA & IBRD countries),T4,TEA,2023,,2026-04-08,41677287740982.3,2111139152,Aggregates,,,,Aggregates,Aggregates
+East Asia & Pacific (IDA & IBRD countries),T4,TEA,2022,,2026-04-08,39634894900981.5,2107261123,Aggregates,,,,Aggregates,Aggregates
+Ecuador,EC,ECU,2022,,2026-04-08,252861189718.137,17823897,Latin America & Caribbean,Quito,-78.5243,-0.229498,Upper middle income,IBRD
+Ecuador,EC,ECU,2021,,2026-04-08,238844767157.606,17682454,Latin America & Caribbean,Quito,-78.5243,-0.229498,Upper middle income,IBRD
+Ecuador,EC,ECU,2023,,2026-04-08,257888672332.972,17980083,Latin America & Caribbean,Quito,-78.5243,-0.229498,Upper middle income,IBRD
+Ecuador,EC,ECU,2020,,2026-04-08,218278775193.129,17546065,Latin America & Caribbean,Quito,-78.5243,-0.229498,Upper middle income,IBRD
+"Egypt, Arab Rep.",EG,EGY,2020,,2026-04-08,1673531030392.09,109315124,Middle East & North Africa,Cairo,31.2461,30.0982,Lower middle income,IBRD
+"Egypt, Arab Rep.",EG,EGY,2021,,2026-04-08,1728601012503.64,110957008,Middle East & North Africa,Cairo,31.2461,30.0982,Lower middle income,IBRD
+"Egypt, Arab Rep.",EG,EGY,2022,,2026-04-08,1842478578400.74,112618250,Middle East & North Africa,Cairo,31.2461,30.0982,Lower middle income,IBRD
+"Egypt, Arab Rep.",EG,EGY,2023,,2026-04-08,1911760941520.97,114535772,Middle East & North Africa,Cairo,31.2461,30.0982,Lower middle income,IBRD
+El Salvador,SV,SLV,2020,,2026-04-08,60429252054.6952,6234673,Latin America & Caribbean,San Salvador,-89.2073,13.7034,Upper middle income,IBRD
+El Salvador,SV,SLV,2022,,2026-04-08,69621216142.9849,6280319,Latin America & Caribbean,San Salvador,-89.2073,13.7034,Upper middle income,IBRD
+El Salvador,SV,SLV,2021,,2026-04-08,67623210509.8633,6255782,Latin America & Caribbean,San Salvador,-89.2073,13.7034,Upper middle income,IBRD
+El Salvador,SV,SLV,2023,,2026-04-08,72085220073.7693,6309624,Latin America & Caribbean,San Salvador,-89.2073,13.7034,Upper middle income,IBRD
+Equatorial Guinea,GQ,GNQ,2023,,2026-04-08,28984789203.2762,1847549,Sub-Saharan Africa,Malabo,8.7741,3.7523,Upper middle income,IBRD
+Equatorial Guinea,GQ,GNQ,2022,,2026-04-08,30539013900.9581,1803545,Sub-Saharan Africa,Malabo,8.7741,3.7523,Upper middle income,IBRD
+Equatorial Guinea,GQ,GNQ,2021,,2026-04-08,29585328380.1352,1758786,Sub-Saharan Africa,Malabo,8.7741,3.7523,Upper middle income,IBRD
+Equatorial Guinea,GQ,GNQ,2020,,2026-04-08,29332985518.4104,1716468,Sub-Saharan Africa,Malabo,8.7741,3.7523,Upper middle income,IBRD
+Eritrea,ER,ERI,2022,,2026-04-08,NA,3409447,Sub-Saharan Africa,Asmara,38.9183,15.3315,Low income,IDA
+Eritrea,ER,ERI,2020,,2026-04-08,NA,3291271,Sub-Saharan Africa,Asmara,38.9183,15.3315,Low income,IDA
+Eritrea,ER,ERI,2021,,2026-04-08,NA,3350183,Sub-Saharan Africa,Asmara,38.9183,15.3315,Low income,IDA
+Eritrea,ER,ERI,2023,,2026-04-08,NA,3470390,Sub-Saharan Africa,Asmara,38.9183,15.3315,Low income,IDA
+Estonia,EE,EST,2023,,2026-04-08,56577213271.5702,1370286,Europe & Central Asia,Tallinn,24.7586,59.4392,High income,Not classified
+Estonia,EE,EST,2021,,2026-04-08,58895787305.748,1330932,Europe & Central Asia,Tallinn,24.7586,59.4392,High income,Not classified
+Estonia,EE,EST,2020,,2026-04-08,54404740980.9253,1329522,Europe & Central Asia,Tallinn,24.7586,59.4392,High income,Not classified
+Estonia,EE,EST,2022,,2026-04-08,58173625027.3249,1348840,Europe & Central Asia,Tallinn,24.7586,59.4392,High income,Not classified
+Eswatini,SZ,SWZ,2023,,2026-04-08,12528401850.8997,1230506,Sub-Saharan Africa,Mbabane,31.4659,-26.5225,Lower middle income,Blend
+Eswatini,SZ,SWZ,2022,,2026-04-08,12100927320.5586,1218917,Sub-Saharan Africa,Mbabane,31.4659,-26.5225,Lower middle income,Blend
+Eswatini,SZ,SWZ,2021,,2026-04-08,12054388840.8388,1206593,Sub-Saharan Africa,Mbabane,31.4659,-26.5225,Lower middle income,Blend
+Eswatini,SZ,SWZ,2020,,2026-04-08,11564491633.2712,1192729,Sub-Saharan Africa,Mbabane,31.4659,-26.5225,Lower middle income,Blend
+Ethiopia,ET,ETH,2020,,2026-04-08,299262155125.714,118917671,Sub-Saharan Africa,Addis Ababa,38.7468,9.02274,Low income,IDA
+Ethiopia,ET,ETH,2021,,2026-04-08,316145121458.38,122138588,Sub-Saharan Africa,Addis Ababa,38.7468,9.02274,Low income,IDA
+Ethiopia,ET,ETH,2022,,2026-04-08,332969605707.482,125384287,Sub-Saharan Africa,Addis Ababa,38.7468,9.02274,Low income,IDA
+Ethiopia,ET,ETH,2023,,2026-04-08,354926440591.656,128691692,Sub-Saharan Africa,Addis Ababa,38.7468,9.02274,Low income,IDA
+Euro area,XC,EMU,2021,,2026-04-08,18814423434791.4,347207191,Aggregates,,,,Aggregates,Aggregates
+Euro area,XC,EMU,2020,,2026-04-08,17671091738188.9,346986142,Aggregates,,,,Aggregates,Aggregates
+Euro area,XC,EMU,2023,,2026-04-08,19625275913396.7,349762722,Aggregates,,,,Aggregates,Aggregates
+Euro area,XC,EMU,2022,,2026-04-08,19515486344617.1,348200155,Aggregates,,,,Aggregates,Aggregates
+Europe & Central Asia,Z7,ECS,2022,,2026-04-08,40117137526796.2,924234471,Aggregates,,,,Aggregates,Aggregates
+Europe & Central Asia,Z7,ECS,2021,,2026-04-08,39115541530494.3,924381062,Aggregates,,,,Aggregates,Aggregates
+Europe & Central Asia,Z7,ECS,2020,,2026-04-08,36648541874908.9,923664467,Aggregates,,,,Aggregates,Aggregates
+Europe & Central Asia,Z7,ECS,2023,,2026-04-08,40772808635142,924773523,Aggregates,,,,Aggregates,Aggregates
+Europe & Central Asia (excluding high income),7E,ECA,2022,,2026-04-08,5579487509357.96,250514347,Aggregates,,,,Aggregates,Aggregates
+Europe & Central Asia (excluding high income),7E,ECA,2023,,2026-04-08,5859515580088.42,248721385,Aggregates,,,,Aggregates,Aggregates
+Europe & Central Asia (excluding high income),7E,ECA,2021,,2026-04-08,5571773989707.12,251867727,Aggregates,,,,Aggregates,Aggregates
+Europe & Central Asia (excluding high income),7E,ECA,2020,,2026-04-08,5142418877804.1,250351240,Aggregates,,,,Aggregates,Aggregates
+Europe & Central Asia (IDA & IBRD countries),T7,TEC,2021,,2026-04-08,13840932235374.9,463104389,Aggregates,,,,Aggregates,Aggregates
+Europe & Central Asia (IDA & IBRD countries),T7,TEC,2020,,2026-04-08,12929323713468.6,462842288,Aggregates,,,,Aggregates,Aggregates
+Europe & Central Asia (IDA & IBRD countries),T7,TEC,2022,,2026-04-08,13895503570573.9,460942269,Aggregates,,,,Aggregates,Aggregates
+Europe & Central Asia (IDA & IBRD countries),T7,TEC,2023,,2026-04-08,14434602189053.4,458602212,Aggregates,,,,Aggregates,Aggregates
+European Union,EU,EUU,2021,,2026-04-08,23190420358433,446227358,Aggregates,,,,Aggregates,Aggregates
+European Union,EU,EUU,2022,,2026-04-08,24049431803547.3,447202673,Aggregates,,,,Aggregates,Aggregates
+European Union,EU,EUU,2020,,2026-04-08,21794064194041.1,446870959,Aggregates,,,,Aggregates,Aggregates
+European Union,EU,EUU,2023,,2026-04-08,24181807579194.2,448897545,Aggregates,,,,Aggregates,Aggregates
+Faroe Islands,FO,FRO,2023,,2026-04-08,3907323167.86466,54414,Europe & Central Asia,Torshavn,-6.91181,61.8926,High income,Not classified
+Faroe Islands,FO,FRO,2020,,2026-04-08,3471019962.01665,52565,Europe & Central Asia,Torshavn,-6.91181,61.8926,High income,Not classified
+Faroe Islands,FO,FRO,2021,,2026-04-08,3646874430.17944,53296,Europe & Central Asia,Torshavn,-6.91181,61.8926,High income,Not classified
+Faroe Islands,FO,FRO,2022,,2026-04-08,3787680245.24364,53912,Europe & Central Asia,Torshavn,-6.91181,61.8926,High income,Not classified
+Fiji,FJ,FJI,2020,,2026-04-08,9892612438.48376,914963,East Asia & Pacific,Suva,178.399,-18.1149,Upper middle income,Blend
+Fiji,FJ,FJI,2023,,2026-04-08,12193912842.1951,924145,East Asia & Pacific,Suva,178.399,-18.1149,Upper middle income,Blend
+Fiji,FJ,FJI,2022,,2026-04-08,11141848421.3669,919422,East Asia & Pacific,Suva,178.399,-18.1149,Upper middle income,Blend
+Fiji,FJ,FJI,2021,,2026-04-08,9462683261.20136,916711,East Asia & Pacific,Suva,178.399,-18.1149,Upper middle income,Blend
+Finland,FI,FIN,2020,,2026-04-08,306474132809.155,5529543,Europe & Central Asia,Helsinki,24.9525,60.1608,High income,Not classified
+Finland,FI,FIN,2022,,2026-04-08,317077555419.616,5556106,Europe & Central Asia,Helsinki,24.9525,60.1608,High income,Not classified
+Finland,FI,FIN,2023,,2026-04-08,314099900834.768,5583911,Europe & Central Asia,Helsinki,24.9525,60.1608,High income,Not classified
+Finland,FI,FIN,2021,,2026-04-08,314676442275.461,5541017,Europe & Central Asia,Helsinki,24.9525,60.1608,High income,Not classified
+Fragile and conflict affected situations,F1,FCS,2023,,2026-04-08,6041715626012.99,1057033168,Aggregates,,,,Aggregates,Aggregates
+Fragile and conflict affected situations,F1,FCS,2022,,2026-04-08,5901203363436.41,1036390026,Aggregates,,,,Aggregates,Aggregates
+Fragile and conflict affected situations,F1,FCS,2021,,2026-04-08,5961053328657.29,1016906998,Aggregates,,,,Aggregates,Aggregates
+Fragile and conflict affected situations,F1,FCS,2020,,2026-04-08,5898546511540.65,994901090,Aggregates,,,,Aggregates,Aggregates
+France,FR,FRA,2020,,2026-04-08,3333500874071.68,67601110,Europe & Central Asia,Paris,2.35097,48.8566,High income,Not classified
+France,FR,FRA,2021,,2026-04-08,3562923665911.39,67842811,Europe & Central Asia,Paris,2.35097,48.8566,High income,Not classified
+France,FR,FRA,2022,,2026-04-08,3659719845024.82,68184457,Europe & Central Asia,Paris,2.35097,48.8566,High income,Not classified
+France,FR,FRA,2023,,2026-04-08,3712391079956.77,68372286,Europe & Central Asia,Paris,2.35097,48.8566,High income,Not classified
+French Polynesia,PF,PYF,2020,,2026-04-08,NA,279209,East Asia & Pacific,Papeete,-149.57,-17.535,High income,Not classified
+French Polynesia,PF,PYF,2023,,2026-04-08,NA,281118,East Asia & Pacific,Papeete,-149.57,-17.535,High income,Not classified
+French Polynesia,PF,PYF,2021,,2026-04-08,NA,279792,East Asia & Pacific,Papeete,-149.57,-17.535,High income,Not classified
+French Polynesia,PF,PYF,2022,,2026-04-08,NA,280378,East Asia & Pacific,Papeete,-149.57,-17.535,High income,Not classified
+Gabon,GA,GAB,2022,,2026-04-08,45362721558.0593,2430747,Sub-Saharan Africa,Libreville,9.45162,0.38832,Upper middle income,IBRD
+Gabon,GA,GAB,2020,,2026-04-08,43388475339.5081,2322539,Sub-Saharan Africa,Libreville,9.45162,0.38832,Upper middle income,IBRD
+Gabon,GA,GAB,2021,,2026-04-08,44025399637.0671,2376722,Sub-Saharan Africa,Libreville,9.45162,0.38832,Upper middle income,IBRD
+Gabon,GA,GAB,2023,,2026-04-08,46469089599.868,2484789,Sub-Saharan Africa,Libreville,9.45162,0.38832,Upper middle income,IBRD
+"Gambia, The",GM,GMB,2023,,2026-04-08,7995330024.50967,2697845,Sub-Saharan Africa,Banjul,-16.5885,13.4495,Low income,IDA
+"Gambia, The",GM,GMB,2022,,2026-04-08,7548689488.3493,2636470,Sub-Saharan Africa,Banjul,-16.5885,13.4495,Low income,IDA
+"Gambia, The",GM,GMB,2021,,2026-04-08,7155630814.36372,2576010,Sub-Saharan Africa,Banjul,-16.5885,13.4495,Low income,IDA
+"Gambia, The",GM,GMB,2020,,2026-04-08,6798313574.75296,2515733,Sub-Saharan Africa,Banjul,-16.5885,13.4495,Low income,IDA
+Georgia,GE,GEO,2023,,2026-04-08,83934727816.341,3715483,Europe & Central Asia,Tbilisi,44.793,41.71,Upper middle income,IBRD
+Georgia,GE,GEO,2022,,2026-04-08,77838277278.2648,3712502,Europe & Central Asia,Tbilisi,44.793,41.71,Upper middle income,IBRD
+Georgia,GE,GEO,2020,,2026-04-08,63402112372.6154,3722716,Europe & Central Asia,Tbilisi,44.793,41.71,Upper middle income,IBRD
+Georgia,GE,GEO,2021,,2026-04-08,70150781357.7257,3708610,Europe & Central Asia,Tbilisi,44.793,41.71,Upper middle income,IBRD
+Germany,DE,DEU,2021,,2026-04-08,5202314428956.09,83196078,Europe & Central Asia,Berlin,13.4115,52.5235,High income,Not classified
+Germany,DE,DEU,2023,,2026-04-08,5250377382984.22,83287273,Europe & Central Asia,Berlin,13.4115,52.5235,High income,Not classified
+Germany,DE,DEU,2022,,2026-04-08,5296437725413.92,83177813,Europe & Central Asia,Berlin,13.4115,52.5235,High income,Not classified
+Germany,DE,DEU,2020,,2026-04-08,5006558013528.86,83160871,Europe & Central Asia,Berlin,13.4115,52.5235,High income,Not classified
+Ghana,GH,GHA,2023,,2026-04-08,230046288018.513,33787914,Sub-Saharan Africa,Accra,-0.20795,5.57045,Lower middle income,IDA
+Ghana,GH,GHA,2020,,2026-04-08,204486487774.301,31887809,Sub-Saharan Africa,Accra,-0.20795,5.57045,Lower middle income,IDA
+Ghana,GH,GHA,2021,,2026-04-08,214867175690.96,32518665,Sub-Saharan Africa,Accra,-0.20795,5.57045,Lower middle income,IDA
+Ghana,GH,GHA,2022,,2026-04-08,223042549015.962,33149152,Sub-Saharan Africa,Accra,-0.20795,5.57045,Lower middle income,IDA
+Gibraltar,GI,GIB,2020,,2026-04-08,NA,36173,Europe & Central Asia,,,,High income,Not classified
+Gibraltar,GI,GIB,2023,,2026-04-08,NA,38471,Europe & Central Asia,,,,High income,Not classified
+Gibraltar,GI,GIB,2021,,2026-04-08,NA,36858,Europe & Central Asia,,,,High income,Not classified
+Gibraltar,GI,GIB,2022,,2026-04-08,NA,37609,Europe & Central Asia,,,,High income,Not classified
+Greece,GR,GRC,2020,,2026-04-08,326169395938.999,10698599,Europe & Central Asia,Athens,23.7166,37.9792,High income,Not classified
+Greece,GR,GRC,2022,,2026-04-08,373967511088.431,10436882,Europe & Central Asia,Athens,23.7166,37.9792,High income,Not classified
+Greece,GR,GRC,2023,,2026-04-08,381955125490.765,10407351,Europe & Central Asia,Athens,23.7166,37.9792,High income,Not classified
+Greece,GR,GRC,2021,,2026-04-08,354397719330.584,10569207,Europe & Central Asia,Athens,23.7166,37.9792,High income,Not classified
+Greenland,GL,GRL,2023,,2026-04-08,4039549554.24062,56865,Europe & Central Asia,Nuuk,-51.7214,64.1836,High income,Not classified
+Greenland,GL,GRL,2022,,2026-04-08,4004868911.83502,56661,Europe & Central Asia,Nuuk,-51.7214,64.1836,High income,Not classified
+Greenland,GL,GRL,2021,,2026-04-08,3926166709.012,56653,Europe & Central Asia,Nuuk,-51.7214,64.1836,High income,Not classified
+Greenland,GL,GRL,2020,,2026-04-08,3863040983.83104,56367,Europe & Central Asia,Nuuk,-51.7214,64.1836,High income,Not classified
+Grenada,GD,GRD,2021,,2026-04-08,1784188797.38537,116688,Latin America & Caribbean,Saint George's,-61.7449,12.0653,Upper middle income,Blend
+Grenada,GD,GRD,2022,,2026-04-08,1914617246.08929,116913,Latin America & Caribbean,Saint George's,-61.7449,12.0653,Upper middle income,Blend
+Grenada,GD,GRD,2023,,2026-04-08,2001283831.20836,117081,Latin America & Caribbean,Saint George's,-61.7449,12.0653,Upper middle income,Blend
+Grenada,GD,GRD,2020,,2026-04-08,1704133317.15679,116341,Latin America & Caribbean,Saint George's,-61.7449,12.0653,Upper middle income,Blend
+Guam,GU,GUM,2021,,2026-04-08,NA,163730,East Asia & Pacific,Agana,144.794,13.4443,High income,Not classified
+Guam,GU,GUM,2022,,2026-04-08,NA,165180,East Asia & Pacific,Agana,144.794,13.4443,High income,Not classified
+Guam,GU,GUM,2020,,2026-04-08,NA,162158,East Asia & Pacific,Agana,144.794,13.4443,High income,Not classified
+Guam,GU,GUM,2023,,2026-04-08,NA,166506,East Asia & Pacific,Agana,144.794,13.4443,High income,Not classified
+Guatemala,GT,GTM,2020,,2026-04-08,192616846266.81,17357325,Latin America & Caribbean,Guatemala City,-90.5328,14.6248,Upper middle income,IBRD
+Guatemala,GT,GTM,2021,,2026-04-08,208106522477.527,17598650,Latin America & Caribbean,Guatemala City,-90.5328,14.6248,Upper middle income,IBRD
+Guatemala,GT,GTM,2022,,2026-04-08,216814777728.626,17847877,Latin America & Caribbean,Guatemala City,-90.5328,14.6248,Upper middle income,IBRD
+Guatemala,GT,GTM,2023,,2026-04-08,224475185347.545,18124838,Latin America & Caribbean,Guatemala City,-90.5328,14.6248,Upper middle income,IBRD
+Guinea,GN,GIN,2023,,2026-04-08,56250816533.4192,14405468,Sub-Saharan Africa,Conakry,-13.7,9.51667,Lower middle income,IDA
+Guinea,GN,GIN,2022,,2026-04-08,53297229730.4031,14055137,Sub-Saharan Africa,Conakry,-13.7,9.51667,Lower middle income,IDA
+Guinea,GN,GIN,2020,,2026-04-08,48550675963.3161,13371183,Sub-Saharan Africa,Conakry,-13.7,9.51667,Lower middle income,IDA
+Guinea,GN,GIN,2021,,2026-04-08,51260936277.8168,13710513,Sub-Saharan Africa,Conakry,-13.7,9.51667,Lower middle income,IDA
+Guinea-Bissau,GW,GNB,2021,,2026-04-08,5193977456.93366,2058841,Sub-Saharan Africa,Bissau,-15.1804,11.8037,Low income,IDA
+Guinea-Bissau,GW,GNB,2022,,2026-04-08,5481197789.56933,2105529,Sub-Saharan Africa,Bissau,-15.1804,11.8037,Low income,IDA
+Guinea-Bissau,GW,GNB,2020,,2026-04-08,4944264495.46855,2013255,Sub-Saharan Africa,Bissau,-15.1804,11.8037,Low income,IDA
+Guinea-Bissau,GW,GNB,2023,,2026-04-08,5800614318.13665,2153339,Sub-Saharan Africa,Bissau,-15.1804,11.8037,Low income,IDA
+Guyana,GY,GUY,2023,,2026-04-08,40749416889.6156,826353,Latin America & Caribbean,Georgetown,-58.1548,6.80461,High income,IDA
+Guyana,GY,GUY,2020,,2026-04-08,15531194686.2204,807481,Latin America & Caribbean,Georgetown,-58.1548,6.80461,High income,IDA
+Guyana,GY,GUY,2021,,2026-04-08,18646751960.8246,815482,Latin America & Caribbean,Georgetown,-58.1548,6.80461,High income,IDA
+Guyana,GY,GUY,2022,,2026-04-08,30456604136.2518,821637,Latin America & Caribbean,Georgetown,-58.1548,6.80461,High income,IDA
+Haiti,HT,HTI,2023,,2026-04-08,34515896648.3184,11637398,Latin America & Caribbean,Port-au-Prince,-72.3288,18.5392,Lower middle income,IDA
+Haiti,HT,HTI,2022,,2026-04-08,35171451781.8879,11503606,Latin America & Caribbean,Port-au-Prince,-72.3288,18.5392,Lower middle income,IDA
+Haiti,HT,HTI,2021,,2026-04-08,35773150437.4447,11374586,Latin America & Caribbean,Port-au-Prince,-72.3288,18.5392,Lower middle income,IDA
+Haiti,HT,HTI,2020,,2026-04-08,36428217169.5539,11243848,Latin America & Caribbean,Port-au-Prince,-72.3288,18.5392,Lower middle income,IDA
+Heavily indebted poor countries (HIPC),XE,HPC,2020,,2026-04-08,2543611388672.25,847743308,Aggregates,,,,Aggregates,Aggregates
+Heavily indebted poor countries (HIPC),XE,HPC,2023,,2026-04-08,2851240190448.73,917304254,Aggregates,,,,Aggregates,Aggregates
+Heavily indebted poor countries (HIPC),XE,HPC,2021,,2026-04-08,2643325585721.77,870930036,Aggregates,,,,Aggregates,Aggregates
+Heavily indebted poor countries (HIPC),XE,HPC,2022,,2026-04-08,2762404224825.21,893906294,Aggregates,,,,Aggregates,Aggregates
+High income,XD,,2020,,2026-04-08,72901775618720.3,1393472875,NA,NA,NA,NA,NA,NA
+High income,XD,,2021,,2026-04-08,77218602692195.9,1391814501,NA,NA,NA,NA,NA,NA
+High income,XD,,2022,,2026-04-08,79552512117064.3,1398001706,NA,NA,NA,NA,NA,NA
+High income,XD,,2023,,2026-04-08,81023387883268,1408190184,NA,NA,NA,NA,NA,NA
+Honduras,HN,HND,2020,,2026-04-08,56703014340.7969,10119640,Latin America & Caribbean,Tegucigalpa,-87.4667,15.1333,Lower middle income,IDA
+Honduras,HN,HND,2022,,2026-04-08,66472658301.8488,10463872,Latin America & Caribbean,Tegucigalpa,-87.4667,15.1333,Lower middle income,IDA
+Honduras,HN,HND,2023,,2026-04-08,68849619261.4123,10644851,Latin America & Caribbean,Tegucigalpa,-87.4667,15.1333,Lower middle income,IDA
+Honduras,HN,HND,2021,,2026-04-08,63827909343.1217,10289877,Latin America & Caribbean,Tegucigalpa,-87.4667,15.1333,Lower middle income,IDA
+"Hong Kong SAR, China",HK,HKG,2020,,2026-04-08,458798723986.418,7481000,East Asia & Pacific,,114.109,22.3964,High income,Not classified
+"Hong Kong SAR, China",HK,HKG,2021,,2026-04-08,488411631115.747,7413100,East Asia & Pacific,,114.109,22.3964,High income,Not classified
+"Hong Kong SAR, China",HK,HKG,2023,,2026-04-08,485585270050.007,7536100,East Asia & Pacific,,114.109,22.3964,High income,Not classified
+"Hong Kong SAR, China",HK,HKG,2022,,2026-04-08,470419600886.604,7346100,East Asia & Pacific,,114.109,22.3964,High income,Not classified
+Hungary,HU,HUN,2022,,2026-04-08,390071382981.057,9605074,Europe & Central Asia,Budapest,19.0408,47.4984,High income,Not classified
+Hungary,HU,HUN,2021,,2026-04-08,374519891736.617,9630932,Europe & Central Asia,Budapest,19.0408,47.4984,High income,Not classified
+Hungary,HU,HUN,2023,,2026-04-08,386884080960.455,9592186,Europe & Central Asia,Budapest,19.0408,47.4984,High income,Not classified
+Hungary,HU,HUN,2020,,2026-04-08,349290903827.747,9670419,Europe & Central Asia,Budapest,19.0408,47.4984,High income,Not classified
+IBRD only,XF,IBD,2023,,2026-04-08,87982285994764.6,4952212190,Aggregates,,,,Aggregates,Aggregates
+IBRD only,XF,IBD,2020,,2026-04-08,75185645933030.6,4878296727,Aggregates,,,,Aggregates,Aggregates
+IBRD only,XF,IBD,2021,,2026-04-08,80727058561748,4905212516,Aggregates,,,,Aggregates,Aggregates
+IBRD only,XF,IBD,2022,,2026-04-08,83805790828095,4928196300,Aggregates,,,,Aggregates,Aggregates
+Iceland,IS,ISL,2020,,2026-04-08,21820604526.1682,366463,Europe & Central Asia,Reykjavik,-21.8952,64.1353,High income,Not classified
+Iceland,IS,ISL,2022,,2026-04-08,24975477351.4361,382003,Europe & Central Asia,Reykjavik,-21.8952,64.1353,High income,Not classified
+Iceland,IS,ISL,2023,,2026-04-08,26270744968.584,385663,Europe & Central Asia,Reykjavik,-21.8952,64.1353,High income,Not classified
+Iceland,IS,ISL,2021,,2026-04-08,22951036648.8571,372520,Europe & Central Asia,Reykjavik,-21.8952,64.1353,High income,Not classified
+IDA & IBRD total,ZT,IBT,2020,,2026-04-08,83628583507672.9,6666470352,Aggregates,,,,Aggregates,Aggregates
+IDA & IBRD total,ZT,IBT,2022,,2026-04-08,92969266844276.8,6794724390,Aggregates,,,,Aggregates,Aggregates
+IDA & IBRD total,ZT,IBT,2023,,2026-04-08,97433468017944.4,6858521511,Aggregates,,,,Aggregates,Aggregates
+IDA & IBRD total,ZT,IBT,2021,,2026-04-08,89493081753979.2,6732651035,Aggregates,,,,Aggregates,Aggregates
+IDA blend,XH,IDB,2020,,2026-04-08,3900053247063.62,626440308,Aggregates,,,,Aggregates,Aggregates
+IDA blend,XH,IDB,2021,,2026-04-08,4064292304530.31,639196319,Aggregates,,,,Aggregates,Aggregates
+IDA blend,XH,IDB,2022,,2026-04-08,4256081784225.18,651895919,Aggregates,,,,Aggregates,Aggregates
+IDA blend,XH,IDB,2023,,2026-04-08,4370909692043.99,664395892,Aggregates,,,,Aggregates,Aggregates
+IDA only,XI,IDX,2020,,2026-04-08,4589847222160.54,1161733317,Aggregates,,,,Aggregates,Aggregates
+IDA only,XI,IDX,2021,,2026-04-08,4747436065097.42,1188242200,Aggregates,,,,Aggregates,Aggregates
+IDA only,XI,IDX,2023,,2026-04-08,5127842282376.7,1241913429,Aggregates,,,,Aggregates,Aggregates
+IDA only,XI,IDX,2022,,2026-04-08,4955338096812.58,1214632171,Aggregates,,,,Aggregates,Aggregates
+IDA total,XG,IDA,2021,,2026-04-08,8793071550903.92,1827438519,Aggregates,,,,Aggregates,Aggregates
+IDA total,XG,IDA,2020,,2026-04-08,8471209108852.39,1788173625,Aggregates,,,,Aggregates,Aggregates
+IDA total,XG,IDA,2023,,2026-04-08,9477792002525.64,1906309321,Aggregates,,,,Aggregates,Aggregates
+IDA total,XG,IDA,2022,,2026-04-08,9192253796062.09,1866528090,Aggregates,,,,Aggregates,Aggregates
+India,IN,IND,2023,,2026-04-08,13376572539398.9,1438069596,South Asia,New Delhi,77.225,28.6353,Lower middle income,IBRD
+India,IN,IND,2021,,2026-04-08,11384367630967.9,1414203896,South Asia,New Delhi,77.225,28.6353,Lower middle income,IBRD
+India,IN,IND,2022,,2026-04-08,12250645714410.2,1425423212,South Asia,New Delhi,77.225,28.6353,Lower middle income,IBRD
+India,IN,IND,2020,,2026-04-08,10378712667572,1402617695,South Asia,New Delhi,77.225,28.6353,Lower middle income,IBRD
+Indonesia,ID,IDN,2021,,2026-04-08,3530623140454.75,276758053,East Asia & Pacific,Jakarta,106.83,-6.19752,Upper middle income,IBRD
+Indonesia,ID,IDN,2023,,2026-04-08,3905722974651.64,281190067,East Asia & Pacific,Jakarta,106.83,-6.19752,Upper middle income,IBRD
+Indonesia,ID,IDN,2022,,2026-04-08,3718000273848.35,278830529,East Asia & Pacific,Jakarta,106.83,-6.19752,Upper middle income,IBRD
+Indonesia,ID,IDN,2020,,2026-04-08,3404556313997.13,274814866,East Asia & Pacific,Jakarta,106.83,-6.19752,Upper middle income,IBRD
+"Iran, Islamic Rep.",IR,IRN,2021,,2026-04-08,1405064801822.49,88455488,Middle East & North Africa,Tehran,51.4447,35.6878,Upper middle income,IBRD
+"Iran, Islamic Rep.",IR,IRN,2022,,2026-04-08,1466224615320.02,89524246,Middle East & North Africa,Tehran,51.4447,35.6878,Upper middle income,IBRD
+"Iran, Islamic Rep.",IR,IRN,2023,,2026-04-08,1544408860781.59,90608707,Middle East & North Africa,Tehran,51.4447,35.6878,Upper middle income,IBRD
+"Iran, Islamic Rep.",IR,IRN,2020,,2026-04-08,1349325554971.29,87723443,Middle East & North Africa,Tehran,51.4447,35.6878,Upper middle income,IBRD
+Iraq,IQ,IRQ,2021,,2026-04-08,548372044650.92,43071211,Middle East & North Africa,Baghdad,44.394,33.3302,Upper middle income,IBRD
+Iraq,IQ,IRQ,2023,,2026-04-08,595082145134,45074049,Middle East & North Africa,Baghdad,44.394,33.3302,Upper middle income,IBRD
+Iraq,IQ,IRQ,2022,,2026-04-08,592017239177.052,44070551,Middle East & North Africa,Baghdad,44.394,33.3302,Upper middle income,IBRD
+Iraq,IQ,IRQ,2020,,2026-04-08,540256416973.202,42116605,Middle East & North Africa,Baghdad,44.394,33.3302,Upper middle income,IBRD
+Ireland,IE,IRL,2023,,2026-04-08,626029176301.489,5311538,Europe & Central Asia,Dublin,-6.26749,53.3441,High income,Not classified
+Ireland,IE,IRL,2022,,2026-04-08,642320835569.671,5212836,Europe & Central Asia,Dublin,-6.26749,53.3441,High income,Not classified
+Ireland,IE,IRL,2021,,2026-04-08,597445848156.993,5110585,Europe & Central Asia,Dublin,-6.26749,53.3441,High income,Not classified
+Ireland,IE,IRL,2020,,2026-04-08,513895715940.283,5039747,Europe & Central Asia,Dublin,-6.26749,53.3441,High income,Not classified
+Isle of Man,IM,IMN,2023,,2026-04-08,NA,84165,Europe & Central Asia,Douglas,-4.47928,54.1509,High income,Not classified
+Isle of Man,IM,IMN,2022,,2026-04-08,NA,84132,Europe & Central Asia,Douglas,-4.47928,54.1509,High income,Not classified
+Isle of Man,IM,IMN,2020,,2026-04-08,NA,84064,Europe & Central Asia,Douglas,-4.47928,54.1509,High income,Not classified
+Isle of Man,IM,IMN,2021,,2026-04-08,NA,84106,Europe & Central Asia,Douglas,-4.47928,54.1509,High income,Not classified
+Israel,IL,ISR,2020,,2026-04-08,395474694304.129,9215100,Middle East & North Africa,,35.2035,31.7717,High income,Not classified
+Israel,IL,ISR,2023,,2026-04-08,468094910441.995,9849000,Middle East & North Africa,,35.2035,31.7717,High income,Not classified
+Israel,IL,ISR,2021,,2026-04-08,432603337813.424,9371400,Middle East & North Africa,,35.2035,31.7717,High income,Not classified
+Israel,IL,ISR,2022,,2026-04-08,459698424504.046,9557500,Middle East & North Africa,,35.2035,31.7717,High income,Not classified
+Italy,IT,ITA,2021,,2026-04-08,2946333608376.65,59133173,Europe & Central Asia,Rome,12.4823,41.8955,High income,Not classified
+Italy,IT,ITA,2020,,2026-04-08,2704769008361.9,59438851,Europe & Central Asia,Rome,12.4823,41.8955,High income,Not classified
+Italy,IT,ITA,2023,,2026-04-08,3118514737285.23,58984216,Europe & Central Asia,Rome,12.4823,41.8955,High income,Not classified
+Italy,IT,ITA,2022,,2026-04-08,3088381557782.51,59013667,Europe & Central Asia,Rome,12.4823,41.8955,High income,Not classified
+Jamaica,JM,JAM,2021,,2026-04-08,29598984033.4944,2837682,Latin America & Caribbean,Kingston,-76.792,17.9927,Upper middle income,IBRD
+Jamaica,JM,JAM,2020,,2026-04-08,28001583368.1464,2830739,Latin America & Caribbean,Kingston,-76.792,17.9927,Upper middle income,IBRD
+Jamaica,JM,JAM,2023,,2026-04-08,32370186846.3016,2839786,Latin America & Caribbean,Kingston,-76.792,17.9927,Upper middle income,IBRD
+Jamaica,JM,JAM,2022,,2026-04-08,31504952370.3526,2839144,Latin America & Caribbean,Kingston,-76.792,17.9927,Upper middle income,IBRD
+Japan,JP,JPN,2021,,2026-04-08,5574650884739.54,125681593,East Asia & Pacific,Tokyo,139.77,35.67,High income,Not classified
+Japan,JP,JPN,2022,,2026-04-08,5627164027811.25,125124989,East Asia & Pacific,Tokyo,139.77,35.67,High income,Not classified
+Japan,JP,JPN,2020,,2026-04-08,5428273471388.26,126261000,East Asia & Pacific,Tokyo,139.77,35.67,High income,Not classified
+Japan,JP,JPN,2023,,2026-04-08,5710166656067.31,124516650,East Asia & Pacific,Tokyo,139.77,35.67,High income,Not classified
+Jordan,JO,JOR,2023,,2026-04-08,107315310756.743,11439213,Middle East & North Africa,Amman,35.9263,31.9497,Lower middle income,IBRD
+Jordan,JO,JOR,2021,,2026-04-08,101616771489.092,11066356,Middle East & North Africa,Amman,35.9263,31.9497,Lower middle income,IBRD
+Jordan,JO,JOR,2022,,2026-04-08,104307009614.896,11256263,Middle East & North Africa,Amman,35.9263,31.9497,Lower middle income,IBRD
+Jordan,JO,JOR,2020,,2026-04-08,98033033195.0242,10865228,Middle East & North Africa,Amman,35.9263,31.9497,Lower middle income,IBRD
+Kazakhstan,KZ,KAZ,2023,,2026-04-08,705520375236.098,20330104,Europe & Central Asia,Astana,71.4382,51.1879,Upper middle income,IBRD
+Kazakhstan,KZ,KAZ,2022,,2026-04-08,671284847990.359,20034609,Europe & Central Asia,Astana,71.4382,51.1879,Upper middle income,IBRD
+Kazakhstan,KZ,KAZ,2021,,2026-04-08,650469813945.991,19743603,Europe & Central Asia,Astana,71.4382,51.1879,Upper middle income,IBRD
+Kazakhstan,KZ,KAZ,2020,,2026-04-08,623652745889.61,19482117,Europe & Central Asia,Astana,71.4382,51.1879,Upper middle income,IBRD
+Kenya,KE,KEN,2023,,2026-04-08,314979928207.083,55339003,Sub-Saharan Africa,Nairobi,36.8126,-1.27975,Lower middle income,Blend
+Kenya,KE,KEN,2022,,2026-04-08,297937902775.433,54252461,Sub-Saharan Africa,Nairobi,36.8126,-1.27975,Lower middle income,Blend
+Kenya,KE,KEN,2020,,2026-04-08,264084005302.165,52217334,Sub-Saharan Africa,Nairobi,36.8126,-1.27975,Lower middle income,Blend
+Kenya,KE,KEN,2021,,2026-04-08,284129273925.386,53219166,Sub-Saharan Africa,Nairobi,36.8126,-1.27975,Lower middle income,Blend
+Kiribati,KI,KIR,2023,,2026-04-08,416221499.938743,132530,East Asia & Pacific,Tarawa,172.979,1.32905,Lower middle income,IDA
+Kiribati,KI,KIR,2021,,2026-04-08,387761958.155447,128377,East Asia & Pacific,Tarawa,172.979,1.32905,Lower middle income,IDA
+Kiribati,KI,KIR,2022,,2026-04-08,405468433.001267,130469,East Asia & Pacific,Tarawa,172.979,1.32905,Lower middle income,IDA
+Kiribati,KI,KIR,2020,,2026-04-08,357451046.402042,126099,East Asia & Pacific,Tarawa,172.979,1.32905,Lower middle income,IDA
+"Korea, Dem. People's Rep.",KP,PRK,2020,,2026-04-08,NA,26136312,East Asia & Pacific,Pyongyang,125.754,39.0319,Low income,Not classified
+"Korea, Dem. People's Rep.",KP,PRK,2021,,2026-04-08,NA,26232534,East Asia & Pacific,Pyongyang,125.754,39.0319,Low income,Not classified
+"Korea, Dem. People's Rep.",KP,PRK,2022,,2026-04-08,NA,26328845,East Asia & Pacific,Pyongyang,125.754,39.0319,Low income,Not classified
+"Korea, Dem. People's Rep.",KP,PRK,2023,,2026-04-08,NA,26418204,East Asia & Pacific,Pyongyang,125.754,39.0319,Low income,Not classified
+"Korea, Rep.",KR,KOR,2023,,2026-04-08,2793998855187.97,51712619,East Asia & Pacific,Seoul,126.957,37.5323,High income,Not classified
+"Korea, Rep.",KR,KOR,2021,,2026-04-08,2677430056971.27,51769539,East Asia & Pacific,Seoul,126.957,37.5323,High income,Not classified
+"Korea, Rep.",KR,KOR,2022,,2026-04-08,2750458690513.83,51672569,East Asia & Pacific,Seoul,126.957,37.5323,High income,Not classified
+"Korea, Rep.",KR,KOR,2020,,2026-04-08,2559367265189.04,51836239,East Asia & Pacific,Seoul,126.957,37.5323,High income,Not classified
+Kosovo,XK,XKX,2020,,2026-04-08,19937811875.2436,1790151,Europe & Central Asia,Pristina,20.926,42.565,Upper middle income,IDA
+Kosovo,XK,XKX,2023,,2026-04-08,23961533955.5107,1682668,Europe & Central Asia,Pristina,20.926,42.565,Upper middle income,IDA
+Kosovo,XK,XKX,2021,,2026-04-08,22080260569.6251,1786079,Europe & Central Asia,Pristina,20.926,42.565,Upper middle income,IDA
+Kosovo,XK,XKX,2022,,2026-04-08,23024964288.081,1768096,Europe & Central Asia,Pristina,20.926,42.565,Upper middle income,IDA
+Kuwait,KW,KWT,2021,,2026-04-08,220886348790.238,4360865,Middle East & North Africa,Kuwait City,47.9824,29.3721,High income,Not classified
+Kuwait,KW,KWT,2022,,2026-04-08,235815321817.755,4589643,Middle East & North Africa,Kuwait City,47.9824,29.3721,High income,Not classified
+Kuwait,KW,KWT,2020,,2026-04-08,217253585235.581,4400267,Middle East & North Africa,Kuwait City,47.9824,29.3721,High income,Not classified
+Kuwait,KW,KWT,2023,,2026-04-08,231883794670.351,4853420,Middle East & North Africa,Kuwait City,47.9824,29.3721,High income,Not classified
+Kyrgyz Republic,KG,KGZ,2023,,2026-04-08,46686361487.7722,7099750,Europe & Central Asia,Bishkek,74.6057,42.8851,Lower middle income,IDA
+Kyrgyz Republic,KG,KGZ,2020,,2026-04-08,37250512878.8033,6726596,Europe & Central Asia,Bishkek,74.6057,42.8851,Lower middle income,IDA
+Kyrgyz Republic,KG,KGZ,2022,,2026-04-08,42826301521.6796,6975220,Europe & Central Asia,Bishkek,74.6057,42.8851,Lower middle income,IDA
+Kyrgyz Republic,KG,KGZ,2021,,2026-04-08,39301901464.0311,6851224,Europe & Central Asia,Bishkek,74.6057,42.8851,Lower middle income,IDA
+Lao PDR,LA,LAO,2021,,2026-04-08,60225053628.2101,7453194,East Asia & Pacific,Vientiane,102.177,18.5826,Lower middle income,IDA
+Lao PDR,LA,LAO,2020,,2026-04-08,58739902707.842,7346533,East Asia & Pacific,Vientiane,102.177,18.5826,Lower middle income,IDA
+Lao PDR,LA,LAO,2022,,2026-04-08,61855602705.6979,7559007,East Asia & Pacific,Vientiane,102.177,18.5826,Lower middle income,IDA
+Lao PDR,LA,LAO,2023,,2026-04-08,64172516512.0818,7664993,East Asia & Pacific,Vientiane,102.177,18.5826,Lower middle income,IDA
+Late-demographic dividend,V3,LTE,2021,,2026-04-08,51482692477006.9,2320127638,Aggregates,,,,Aggregates,Aggregates
+Late-demographic dividend,V3,LTE,2023,,2026-04-08,55367598420332.2,2326296729,Aggregates,,,,Aggregates,Aggregates
+Late-demographic dividend,V3,LTE,2020,,2026-04-08,48013980774098.8,2316152451,Aggregates,,,,Aggregates,Aggregates
+Late-demographic dividend,V3,LTE,2022,,2026-04-08,53080217263404.9,2323799591,Aggregates,,,,Aggregates,Aggregates
+Latin America & Caribbean,ZJ,LCN,2021,,2026-04-08,12136910526047.8,649236072,NA,NA,NA,NA,NA,NA
+Latin America & Caribbean,ZJ,LCN,2022,,2026-04-08,12639067149198.1,653108120,NA,NA,NA,NA,NA,NA
+Latin America & Caribbean,ZJ,LCN,2023,,2026-04-08,12926523613614.5,657616517,NA,NA,NA,NA,NA,NA
+Latin America & Caribbean,ZJ,LCN,2020,,2026-04-08,11301539127553.2,645498186,NA,NA,NA,NA,NA,NA
+Latin America & Caribbean (excluding high income),XJ,LAC,2022,,2026-04-08,10821792972266.5,585648822,Aggregates,,,,Aggregates,Aggregates
+Latin America & Caribbean (excluding high income),XJ,LAC,2020,,2026-04-08,9703341785889.26,578091505,Aggregates,,,,Aggregates,Aggregates
+Latin America & Caribbean (excluding high income),XJ,LAC,2021,,2026-04-08,10400758727797,581884231,Aggregates,,,,Aggregates,Aggregates
+Latin America & Caribbean (excluding high income),XJ,LAC,2023,,2026-04-08,11060655564322.3,589889543,Aggregates,,,,Aggregates,Aggregates
+Latin America & the Caribbean (IDA & IBRD countries),T2,TLA,2021,,2026-04-08,11794240182051.9,633862610,Aggregates,,,,Aggregates,Aggregates
+Latin America & the Caribbean (IDA & IBRD countries),T2,TLA,2022,,2026-04-08,12282522210785.4,637837815,Aggregates,,,,Aggregates,Aggregates
+Latin America & the Caribbean (IDA & IBRD countries),T2,TLA,2020,,2026-04-08,10974425856912.7,630051021,Aggregates,,,,Aggregates,Aggregates
+Latin America & the Caribbean (IDA & IBRD countries),T2,TLA,2023,,2026-04-08,12563255567919.5,642397939,Aggregates,,,,Aggregates,Aggregates
+Latvia,LV,LVA,2020,,2026-04-08,65044572876.3954,1900449,Europe & Central Asia,Riga,24.1048,56.9465,High income,Not classified
+Latvia,LV,LVA,2023,,2026-04-08,70220417185.1967,1883710,Europe & Central Asia,Riga,24.1048,56.9465,High income,Not classified
+Latvia,LV,LVA,2021,,2026-04-08,69560319491.8466,1884490,Europe & Central Asia,Riga,24.1048,56.9465,High income,Not classified
+Latvia,LV,LVA,2022,,2026-04-08,70887901972.229,1879383,Europe & Central Asia,Riga,24.1048,56.9465,High income,Not classified
+Least developed countries: UN classification,XL,LDC,2023,,2026-04-08,4518932967506,1160824674,Aggregates,,,,Aggregates,Aggregates
+Least developed countries: UN classification,XL,LDC,2020,,2026-04-08,4051788820466.57,1083636132,Aggregates,,,,Aggregates,Aggregates
+Least developed countries: UN classification,XL,LDC,2022,,2026-04-08,4372503136030.78,1134585604,Aggregates,,,,Aggregates,Aggregates
+Least developed countries: UN classification,XL,LDC,2021,,2026-04-08,4164153735405.93,1109175268,Aggregates,,,,Aggregates,Aggregates
+Lebanon,LB,LBN,2020,,2026-04-08,71322381662.8598,5702398,Middle East & North Africa,Beirut,35.5134,33.8872,Lower middle income,IBRD
+Lebanon,LB,LBN,2021,,2026-04-08,66328931529.5091,5718122,Middle East & North Africa,Beirut,35.5134,33.8872,Lower middle income,IBRD
+Lebanon,LB,LBN,2023,,2026-04-08,65415227251.247,5773493,Middle East & North Africa,Beirut,35.5134,33.8872,Lower middle income,IBRD
+Lebanon,LB,LBN,2022,,2026-04-08,65916578510.7246,5744489,Middle East & North Africa,Beirut,35.5134,33.8872,Lower middle income,IBRD
+Lesotho,LS,LSO,2023,,2026-04-08,6000187230.49191,2311472,Sub-Saharan Africa,Maseru,27.7167,-29.5208,Lower middle income,IDA
+Lesotho,LS,LSO,2020,,2026-04-08,5627571783.56878,2235727,Sub-Saharan Africa,Maseru,27.7167,-29.5208,Lower middle income,IDA
+Lesotho,LS,LSO,2021,,2026-04-08,5755132494.46552,2261542,Sub-Saharan Africa,Maseru,27.7167,-29.5208,Lower middle income,IDA
+Lesotho,LS,LSO,2022,,2026-04-08,5892552408.75934,2286110,Sub-Saharan Africa,Maseru,27.7167,-29.5208,Lower middle income,IDA
+Liberia,LR,LBR,2020,,2026-04-08,7710687069.05964,5149463,Sub-Saharan Africa,Monrovia,-10.7957,6.30039,Low income,IDA
+Liberia,LR,LBR,2023,,2026-04-08,8881812193.11901,5493031,Sub-Saharan Africa,Monrovia,-10.7957,6.30039,Low income,IDA
+Liberia,LR,LBR,2021,,2026-04-08,8095196890.78495,5259323,Sub-Saharan Africa,Monrovia,-10.7957,6.30039,Low income,IDA
+Liberia,LR,LBR,2022,,2026-04-08,8484422471.24775,5373294,Sub-Saharan Africa,Monrovia,-10.7957,6.30039,Low income,IDA
+Libya,LY,LBY,2022,,2026-04-08,82712999632.9637,7223805,Middle East & North Africa,Tripoli,13.1072,32.8578,Upper middle income,IBRD
+Libya,LY,LBY,2021,,2026-04-08,90199384483.2022,7135175,Middle East & North Africa,Tripoli,13.1072,32.8578,Upper middle income,IBRD
+Libya,LY,LBY,2023,,2026-04-08,91149766774.4011,7305659,Middle East & North Africa,Tripoli,13.1072,32.8578,Upper middle income,IBRD
+Libya,LY,LBY,2020,,2026-04-08,70303669374.7383,7045399,Middle East & North Africa,Tripoli,13.1072,32.8578,Upper middle income,IBRD
+Liechtenstein,LI,LIE,2023,,2026-04-08,NA,39846,Europe & Central Asia,Vaduz,9.52148,47.1411,High income,Not classified
+Liechtenstein,LI,LIE,2022,,2026-04-08,NA,39493,Europe & Central Asia,Vaduz,9.52148,47.1411,High income,Not classified
+Liechtenstein,LI,LIE,2020,,2026-04-08,NA,38901,Europe & Central Asia,Vaduz,9.52148,47.1411,High income,Not classified
+Liechtenstein,LI,LIE,2021,,2026-04-08,NA,39182,Europe & Central Asia,Vaduz,9.52148,47.1411,High income,Not classified
+Lithuania,LT,LTU,2021,,2026-04-08,128830296666.031,2808380,Europe & Central Asia,Vilnius,25.2799,54.6896,High income,Not classified
+Lithuania,LT,LTU,2020,,2026-04-08,121103851489.541,2810369,Europe & Central Asia,Vilnius,25.2799,54.6896,High income,Not classified
+Lithuania,LT,LTU,2022,,2026-04-08,132099398604.998,2831639,Europe & Central Asia,Vilnius,25.2799,54.6896,High income,Not classified
+Lithuania,LT,LTU,2023,,2026-04-08,132551525594.85,2871585,Europe & Central Asia,Vilnius,25.2799,54.6896,High income,Not classified
+Low & middle income,XO,LMY,2023,,2026-04-08,86873931729353.3,6498875200,Aggregates,,,,Aggregates,Aggregates
+Low & middle income,XO,LMY,2021,,2026-04-08,79406391763505.4,6378323939,Aggregates,,,,Aggregates,Aggregates
+Low & middle income,XO,LMY,2020,,2026-04-08,74168027663723.3,6313913801,Aggregates,,,,Aggregates,Aggregates
+Low & middle income,XO,LMY,2022,,2026-04-08,82749911532138.9,6437946207,Aggregates,,,,Aggregates,Aggregates
+Low income,XM,,2020,,2026-04-08,1315873466016.57,560643073,NA,NA,NA,NA,NA,NA
+Low income,XM,,2021,,2026-04-08,1325719881438.77,576076618,NA,NA,NA,NA,NA,NA
+Low income,XM,,2022,,2026-04-08,1367732602280.04,591481496,NA,NA,NA,NA,NA,NA
+Low income,XM,,2023,,2026-04-08,1364532445404.11,607774703,NA,NA,NA,NA,NA,NA
+Lower middle income,XN,,2020,,2026-04-08,22084316066283.6,2968398856,NA,NA,NA,NA,NA,NA
+Lower middle income,XN,,2021,,2026-04-08,23561229353005.1,3006243027,NA,NA,NA,NA,NA,NA
+Lower middle income,XN,,2022,,2026-04-08,25073302606165.3,3043358377,NA,NA,NA,NA,NA,NA
+Lower middle income,XN,,2023,,2026-04-08,26658549366482.6,3082002881,NA,NA,NA,NA,NA,NA
+Luxembourg,LU,LUX,2020,,2026-04-08,81869760591.5084,630419,Europe & Central Asia,Luxembourg,6.1296,49.61,High income,Not classified
+Luxembourg,LU,LUX,2021,,2026-04-08,87543117438.5072,640064,Europe & Central Asia,Luxembourg,6.1296,49.61,High income,Not classified
+Luxembourg,LU,LUX,2023,,2026-04-08,86668502013.8616,666430,Europe & Central Asia,Luxembourg,6.1296,49.61,High income,Not classified
+Luxembourg,LU,LUX,2022,,2026-04-08,86582404475.7383,653103,Europe & Central Asia,Luxembourg,6.1296,49.61,High income,Not classified
+"Macao SAR, China",MO,MAC,2020,,2026-04-08,40892667620.9563,685400,East Asia & Pacific,,113.55,22.1667,High income,Not classified
+"Macao SAR, China",MO,MAC,2021,,2026-04-08,50078061226.1194,682500,East Asia & Pacific,,113.55,22.1667,High income,Not classified
+"Macao SAR, China",MO,MAC,2022,,2026-04-08,40584792457.9056,677300,East Asia & Pacific,,113.55,22.1667,High income,Not classified
+"Macao SAR, China",MO,MAC,2023,,2026-04-08,71148557780.7849,678800,East Asia & Pacific,,113.55,22.1667,High income,Not classified
+Madagascar,MG,MDG,2020,,2026-04-08,44754297418.5029,28953556,Sub-Saharan Africa,Antananarivo,45.7167,-20.4667,Low income,IDA
+Madagascar,MG,MDG,2022,,2026-04-08,48782214693.6721,30437261,Sub-Saharan Africa,Antananarivo,45.7167,-20.4667,Low income,IDA
+Madagascar,MG,MDG,2023,,2026-04-08,50832553694.3402,31195932,Sub-Saharan Africa,Antananarivo,45.7167,-20.4667,Low income,IDA
+Madagascar,MG,MDG,2021,,2026-04-08,46835678113.5382,29691083,Sub-Saharan Africa,Antananarivo,45.7167,-20.4667,Low income,IDA
+Malawi,MW,MWI,2023,,2026-04-08,34807595409.4085,21104482,Sub-Saharan Africa,Lilongwe,33.7703,-13.9899,Low income,IDA
+Malawi,MW,MWI,2020,,2026-04-08,32356710546.2459,19533888,Sub-Saharan Africa,Lilongwe,33.7703,-13.9899,Low income,IDA
+Malawi,MW,MWI,2022,,2026-04-08,34143252119.5588,20568728,Sub-Saharan Africa,Lilongwe,33.7703,-13.9899,Low income,IDA
+Malawi,MW,MWI,2021,,2026-04-08,33831623933.4187,20047258,Sub-Saharan Africa,Lilongwe,33.7703,-13.9899,Low income,IDA
+Malaysia,MY,MYS,2022,,2026-04-08,1114739189433.22,34695493,East Asia & Pacific,Kuala Lumpur,101.684,3.12433,Upper middle income,IBRD
+Malaysia,MY,MYS,2023,,2026-04-08,1154168225812.84,35126298,East Asia & Pacific,Kuala Lumpur,101.684,3.12433,Upper middle income,IBRD
+Malaysia,MY,MYS,2021,,2026-04-08,1022398815013.98,34282399,East Asia & Pacific,Kuala Lumpur,101.684,3.12433,Upper middle income,IBRD
+Malaysia,MY,MYS,2020,,2026-04-08,989590433102.722,33889558,East Asia & Pacific,Kuala Lumpur,101.684,3.12433,Upper middle income,IBRD
+Maldives,MV,MDV,2020,,2026-04-08,7151654156.25662,502118,South Asia,Male,73.5109,4.1742,Upper middle income,IDA
+Maldives,MV,MDV,2021,,2026-04-08,9834087308.92595,516154,South Asia,Male,73.5109,4.1742,Upper middle income,IDA
+Maldives,MV,MDV,2023,,2026-04-08,11747049099.1817,525994,South Asia,Male,73.5109,4.1742,Upper middle income,IDA
+Maldives,MV,MDV,2022,,2026-04-08,11193757023.577,524106,South Asia,Male,73.5109,4.1742,Upper middle income,IDA
+Mali,ML,MLI,2021,,2026-04-08,62603712698.5224,22388630,Sub-Saharan Africa,Bamako,-7.50034,13.5667,Low income,IDA
+Mali,ML,MLI,2020,,2026-04-08,60720796476.6213,21713836,Sub-Saharan Africa,Bamako,-7.50034,13.5667,Low income,IDA
+Mali,ML,MLI,2022,,2026-04-08,64922047299.5613,23072640,Sub-Saharan Africa,Bamako,-7.50034,13.5667,Low income,IDA
+Mali,ML,MLI,2023,,2026-04-08,67989880923.0316,23769127,Sub-Saharan Africa,Bamako,-7.50034,13.5667,Low income,IDA
+Malta,MT,MLT,2023,,2026-04-08,33396086542.9845,552747,Middle East & North Africa,Valletta,14.5189,35.9042,High income,Not classified
+Malta,MT,MLT,2022,,2026-04-08,30189502906.0749,531113,Middle East & North Africa,Valletta,14.5189,35.9042,High income,Not classified
+Malta,MT,MLT,2020,,2026-04-08,25974418381.78,515490,Middle East & North Africa,Valletta,14.5189,35.9042,High income,Not classified
+Malta,MT,MLT,2021,,2026-04-08,29458030567.2131,518150,Middle East & North Africa,Valletta,14.5189,35.9042,High income,Not classified
+Marshall Islands,MH,MHL,2022,,2026-04-08,278008742.978123,40077,East Asia & Pacific,Majuro,171.135,7.11046,Upper middle income,IDA
+Marshall Islands,MH,MHL,2021,,2026-04-08,279970112.59214,41367,East Asia & Pacific,Majuro,171.135,7.11046,Upper middle income,IDA
+Marshall Islands,MH,MHL,2023,,2026-04-08,264086293.662562,38827,East Asia & Pacific,Majuro,171.135,7.11046,Upper middle income,IDA
+Marshall Islands,MH,MHL,2020,,2026-04-08,274052277.506443,42706,East Asia & Pacific,Majuro,171.135,7.11046,Upper middle income,IDA
+Mauritania,MR,MRT,2020,,2026-04-08,27431664474.3507,4600131,Sub-Saharan Africa,Nouakchott,-15.9824,18.2367,Lower middle income,IDA
+Mauritania,MR,MRT,2022,,2026-04-08,29513507112.8359,4875637,Sub-Saharan Africa,Nouakchott,-15.9824,18.2367,Lower middle income,IDA
+Mauritania,MR,MRT,2023,,2026-04-08,31523226434.1734,5022441,Sub-Saharan Africa,Nouakchott,-15.9824,18.2367,Lower middle income,IDA
+Mauritania,MR,MRT,2021,,2026-04-08,27635403694.625,4734874,Sub-Saharan Africa,Nouakchott,-15.9824,18.2367,Lower middle income,IDA
+Mauritius,MU,MUS,2020,,2026-04-08,28179429319.6688,1266014,Sub-Saharan Africa,Port Louis,57.4977,-20.1605,Upper middle income,IBRD
+Mauritius,MU,MUS,2021,,2026-04-08,29138600357.748,1266334,Sub-Saharan Africa,Port Louis,57.4977,-20.1605,Upper middle income,IBRD
+Mauritius,MU,MUS,2023,,2026-04-08,33257728334.3033,1248647,Sub-Saharan Africa,Port Louis,57.4977,-20.1605,Upper middle income,IBRD
+Mauritius,MU,MUS,2022,,2026-04-08,31671638337.6322,1262523,Sub-Saharan Africa,Port Louis,57.4977,-20.1605,Upper middle income,IBRD
+Mexico,MX,MEX,2023,,2026-04-08,2843538549187.14,129739759,Latin America & Caribbean,Mexico City,-99.1276,19.427,Upper middle income,IBRD
+Mexico,MX,MEX,2021,,2026-04-08,2652858835882.47,127648148,Latin America & Caribbean,Mexico City,-99.1276,19.427,Upper middle income,IBRD
+Mexico,MX,MEX,2020,,2026-04-08,2501552826853.88,126799054,Latin America & Caribbean,Mexico City,-99.1276,19.427,Upper middle income,IBRD
+Mexico,MX,MEX,2022,,2026-04-08,2751273454677.72,128613117,Latin America & Caribbean,Mexico City,-99.1276,19.427,Upper middle income,IBRD
+"Micronesia, Fed. Sts.",FM,FSM,2023,,2026-04-08,429651924.110799,112630,East Asia & Pacific,Palikir,158.185,6.91771,Lower middle income,IDA
+"Micronesia, Fed. Sts.",FM,FSM,2022,,2026-04-08,427713874.612437,112114,East Asia & Pacific,Palikir,158.185,6.91771,Lower middle income,IDA
+"Micronesia, Fed. Sts.",FM,FSM,2020,,2026-04-08,427270643.561242,110916,East Asia & Pacific,Palikir,158.185,6.91771,Lower middle income,IDA
+"Micronesia, Fed. Sts.",FM,FSM,2021,,2026-04-08,440514748.635775,111624,East Asia & Pacific,Palikir,158.185,6.91771,Lower middle income,IDA
+"Middle East, North Africa, Afghanistan & Pakistan",ZQ,MEA,2022,,2026-04-08,11143694287810.2,782349366,NA,NA,NA,NA,NA,NA
+"Middle East, North Africa, Afghanistan & Pakistan",ZQ,MEA,2023,,2026-04-08,11405605282550.3,797801454,NA,NA,NA,NA,NA,NA
+"Middle East, North Africa, Afghanistan & Pakistan",ZQ,MEA,2020,,2026-04-08,10017926483713,756405281,NA,NA,NA,NA,NA,NA
+"Middle East, North Africa, Afghanistan & Pakistan",ZQ,MEA,2021,,2026-04-08,10477826444688.5,767578451,NA,NA,NA,NA,NA,NA
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,MNA,2020,,2026-04-08,6433284526614.55,692532027,NA,NA,NA,NA,NA,NA
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,MNA,2021,,2026-04-08,6690426775369.45,704458802,NA,NA,NA,NA,NA,NA
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,MNA,2022,,2026-04-08,7001236200890.2,716508657,NA,NA,NA,NA,NA,NA
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,MNA,2023,,2026-04-08,7204632398521.64,729077445,NA,NA,NA,NA,NA,NA
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",T3,TMN,2021,,2026-04-08,6663168450998.66,699536053,NA,NA,NA,NA,NA,NA
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",T3,TMN,2020,,2026-04-08,6407843367438.66,687728758,NA,NA,NA,NA,NA,NA
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",T3,TMN,2022,,2026-04-08,6972871436884.26,711465045,NA,NA,NA,NA,NA,NA
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",T3,TMN,2023,,2026-04-08,7177682117289.34,723911670,NA,NA,NA,NA,NA,NA
+Middle income,XP,MIC,2020,,2026-04-08,72918109985739.3,5753270728,Aggregates,,,,Aggregates,Aggregates
+Middle income,XP,MIC,2022,,2026-04-08,81437174365127.3,5846464711,Aggregates,,,,Aggregates,Aggregates
+Middle income,XP,MIC,2023,,2026-04-08,85548682048283.6,5891100497,Aggregates,,,,Aggregates,Aggregates
+Middle income,XP,MIC,2021,,2026-04-08,78135899000367.6,5802247321,Aggregates,,,,Aggregates,Aggregates
+Moldova,MD,MDA,2023,,2026-04-08,39301128261.8663,2457783,Europe & Central Asia,Chisinau,28.8497,47.0167,Upper middle income,IBRD
+Moldova,MD,MDA,2022,,2026-04-08,38835106959.1956,2528654,Europe & Central Asia,Chisinau,28.8497,47.0167,Upper middle income,IBRD
+Moldova,MD,MDA,2020,,2026-04-08,35730412861.1096,2635130,Europe & Central Asia,Chisinau,28.8497,47.0167,Upper middle income,IBRD
+Moldova,MD,MDA,2021,,2026-04-08,40707659297.2633,2595809,Europe & Central Asia,Chisinau,28.8497,47.0167,Upper middle income,IBRD
+Monaco,MC,MCO,2023,,2026-04-08,NA,38956,Europe & Central Asia,Monaco,7.41891,43.7325,High income,Not classified
+Monaco,MC,MCO,2020,,2026-04-08,NA,38050,Europe & Central Asia,Monaco,7.41891,43.7325,High income,Not classified
+Monaco,MC,MCO,2022,,2026-04-08,NA,38931,Europe & Central Asia,Monaco,7.41891,43.7325,High income,Not classified
+Monaco,MC,MCO,2021,,2026-04-08,NA,38527,Europe & Central Asia,Monaco,7.41891,43.7325,High income,Not classified
+Mongolia,MN,MNG,2020,,2026-04-08,49247084583.6546,3327204,East Asia & Pacific,Ulaanbaatar,106.937,47.9129,Upper middle income,IBRD
+Mongolia,MN,MNG,2023,,2026-04-08,56474141515.8419,3481145,East Asia & Pacific,Ulaanbaatar,106.937,47.9129,Upper middle income,IBRD
+Mongolia,MN,MNG,2021,,2026-04-08,50053145881.8599,3383741,East Asia & Pacific,Ulaanbaatar,106.937,47.9129,Upper middle income,IBRD
+Mongolia,MN,MNG,2022,,2026-04-08,52572175378.1041,3433748,East Asia & Pacific,Ulaanbaatar,106.937,47.9129,Upper middle income,IBRD
+Montenegro,ME,MNE,2020,,2026-04-08,13098667590.9404,626590,Europe & Central Asia,Podgorica,19.2595,42.4602,Upper middle income,IBRD
+Montenegro,ME,MNE,2021,,2026-04-08,14807553918.6656,625053,Europe & Central Asia,Podgorica,19.2595,42.4602,Upper middle income,IBRD
+Montenegro,ME,MNE,2023,,2026-04-08,16987123040.7257,623529,Europe & Central Asia,Podgorica,19.2595,42.4602,Upper middle income,IBRD
+Montenegro,ME,MNE,2022,,2026-04-08,15953591498.2272,623591,Europe & Central Asia,Podgorica,19.2595,42.4602,Upper middle income,IBRD
+Morocco,MA,MAR,2020,,2026-04-08,299094704579.634,36584208,Middle East & North Africa,Rabat,-6.8704,33.9905,Lower middle income,IBRD
+Morocco,MA,MAR,2023,,2026-04-08,341388709808.433,37712505,Middle East & North Africa,Rabat,-6.8704,33.9905,Lower middle income,IBRD
+Morocco,MA,MAR,2021,,2026-04-08,323485096796.555,36954442,Middle East & North Africa,Rabat,-6.8704,33.9905,Lower middle income,IBRD
+Morocco,MA,MAR,2022,,2026-04-08,329348886632.318,37329064,Middle East & North Africa,Rabat,-6.8704,33.9905,Lower middle income,IBRD
+Mozambique,MZ,MOZ,2022,,2026-04-08,48222355190.685,32656246,Sub-Saharan Africa,Maputo,32.5713,-25.9664,Low income,IDA
+Mozambique,MZ,MOZ,2020,,2026-04-08,45132727326.9761,30783688,Sub-Saharan Africa,Maputo,32.5713,-25.9664,Low income,IDA
+Mozambique,MZ,MOZ,2023,,2026-04-08,50865658944.44,33635160,Sub-Saharan Africa,Maputo,32.5713,-25.9664,Low income,IDA
+Mozambique,MZ,MOZ,2021,,2026-04-08,46205728911.2947,31707800,Sub-Saharan Africa,Maputo,32.5713,-25.9664,Low income,IDA
+Myanmar,MM,MMR,2021,,2026-04-08,276462287916.21,53387102,East Asia & Pacific,Naypyidaw,95.9562,21.914,Lower middle income,IDA
+Myanmar,MM,MMR,2022,,2026-04-08,287624434643.866,53756787,East Asia & Pacific,Naypyidaw,95.9562,21.914,Lower middle income,IDA
+Myanmar,MM,MMR,2020,,2026-04-08,314220151769.184,53016522,East Asia & Pacific,Naypyidaw,95.9562,21.914,Lower middle income,IDA
+Myanmar,MM,MMR,2023,,2026-04-08,290381161330.748,54133798,East Asia & Pacific,Naypyidaw,95.9562,21.914,Lower middle income,IDA
+Namibia,NA,NAM,2021,,2026-04-08,27287889637.5942,2810548,Sub-Saharan Africa,Windhoek,17.0931,-22.5648,Upper middle income,IBRD
+Namibia,NA,NAM,2022,,2026-04-08,28761087697.4978,2889662,Sub-Saharan Africa,Windhoek,17.0931,-22.5648,Upper middle income,IBRD
+Namibia,NA,NAM,2023,,2026-04-08,30038887028.2617,2963095,Sub-Saharan Africa,Windhoek,17.0931,-22.5648,Upper middle income,IBRD
+Namibia,NA,NAM,2020,,2026-04-08,26338688299.7304,2728762,Sub-Saharan Africa,Windhoek,17.0931,-22.5648,Upper middle income,IBRD
+Nauru,NR,NRU,2023,,2026-04-08,146923686.318139,11875,East Asia & Pacific,Yaren District,166.920867,-0.5477,High income,IBRD
+Nauru,NR,NRU,2020,,2026-04-08,131619135.659999,11643,East Asia & Pacific,Yaren District,166.920867,-0.5477,High income,IBRD
+Nauru,NR,NRU,2021,,2026-04-08,141822169.432093,11709,East Asia & Pacific,Yaren District,166.920867,-0.5477,High income,IBRD
+Nauru,NR,NRU,2022,,2026-04-08,145903382.940929,11801,East Asia & Pacific,Yaren District,166.920867,-0.5477,High income,IBRD
+Nepal,NP,NPL,2023,,2026-04-08,144352357438.712,29694614,South Asia,Kathmandu,85.3157,27.6939,Lower middle income,IDA
+Nepal,NP,NPL,2020,,2026-04-08,127816225643.885,28966574,South Asia,Kathmandu,85.3157,27.6939,Lower middle income,IDA
+Nepal,NP,NPL,2021,,2026-04-08,134000165871.651,29475010,South Asia,Kathmandu,85.3157,27.6939,Lower middle income,IDA
+Nepal,NP,NPL,2022,,2026-04-08,141546136718.578,29715436,South Asia,Kathmandu,85.3157,27.6939,Lower middle income,IDA
+Netherlands,NL,NLD,2021,,2026-04-08,1202303330254.13,17533044,Europe & Central Asia,Amsterdam,4.89095,52.3738,High income,Not classified
+Netherlands,NL,NLD,2023,,2026-04-08,1254954481146.74,17877117,Europe & Central Asia,Amsterdam,4.89095,52.3738,High income,Not classified
+Netherlands,NL,NLD,2020,,2026-04-08,1131293926122.04,17441500,Europe & Central Asia,Amsterdam,4.89095,52.3738,High income,Not classified
+Netherlands,NL,NLD,2022,,2026-04-08,1262505478021.61,17700982,Europe & Central Asia,Amsterdam,4.89095,52.3738,High income,Not classified
+New Caledonia,NC,NCL,2022,,2026-04-08,NA,287123,East Asia & Pacific,Noum'ea,166.464,-22.2677,High income,Not classified
+New Caledonia,NC,NCL,2020,,2026-04-08,NA,284176,East Asia & Pacific,Noum'ea,166.464,-22.2677,High income,Not classified
+New Caledonia,NC,NCL,2023,,2026-04-08,NA,289870,East Asia & Pacific,Noum'ea,166.464,-22.2677,High income,Not classified
+New Caledonia,NC,NCL,2021,,2026-04-08,NA,285214,East Asia & Pacific,Noum'ea,166.464,-22.2677,High income,Not classified
+New Zealand,NZ,NZL,2020,,2026-04-08,234681664396.713,5072400,East Asia & Pacific,Wellington,174.776,-41.2865,High income,Not classified
+New Zealand,NZ,NZL,2021,,2026-04-08,245325429880.081,5084600,East Asia & Pacific,Wellington,174.776,-41.2865,High income,Not classified
+New Zealand,NZ,NZL,2022,,2026-04-08,253902955985.903,5081700,East Asia & Pacific,Wellington,174.776,-41.2865,High income,Not classified
+New Zealand,NZ,NZL,2023,,2026-04-08,257443002559.689,5200000,East Asia & Pacific,Wellington,174.776,-41.2865,High income,Not classified
+Nicaragua,NI,NIC,2020,,2026-04-08,42827664806.4955,6565267,Latin America & Caribbean,Managua,-86.2734,12.1475,Lower middle income,IDA
+Nicaragua,NI,NIC,2023,,2026-04-08,51153414573.2492,6823613,Latin America & Caribbean,Managua,-86.2734,12.1475,Lower middle income,IDA
+Nicaragua,NI,NIC,2022,,2026-04-08,48984506117.3588,6730654,Latin America & Caribbean,Managua,-86.2734,12.1475,Lower middle income,IDA
+Nicaragua,NI,NIC,2021,,2026-04-08,47305035692.4433,6644741,Latin America & Caribbean,Managua,-86.2734,12.1475,Lower middle income,IDA
+Niger,NE,NER,2020,,2026-04-08,38320374766.3561,23717613,Sub-Saharan Africa,Niamey,2.1073,13.514,Low income,IDA
+Niger,NE,NER,2021,,2026-04-08,38850574077.5224,24502140,Sub-Saharan Africa,Niamey,2.1073,13.514,Low income,IDA
+Niger,NE,NER,2022,,2026-04-08,43473792392.7583,25311973,Sub-Saharan Africa,Niamey,2.1073,13.514,Low income,IDA
+Niger,NE,NER,2023,,2026-04-08,44198776163.979,26159867,Sub-Saharan Africa,Niamey,2.1073,13.514,Low income,IDA
+Nigeria,NG,NGA,2020,,2026-04-08,1640111883503.36,213996181,Sub-Saharan Africa,Abuja,7.48906,9.05804,Lower middle income,Blend
+Nigeria,NG,NGA,2021,,2026-04-08,1658304866219.82,218529286,Sub-Saharan Africa,Abuja,7.48906,9.05804,Lower middle income,Blend
+Nigeria,NG,NGA,2022,,2026-04-08,1729924225902.99,223150896,Sub-Saharan Africa,Abuja,7.48906,9.05804,Lower middle income,Blend
+Nigeria,NG,NGA,2023,,2026-04-08,1787476133276.69,227882945,Sub-Saharan Africa,Abuja,7.48906,9.05804,Lower middle income,Blend
+North America,XU,NAC,2020,,2026-04-08,24391914263142,369670740,Aggregates,,,,Aggregates,Aggregates
+North America,XU,NAC,2023,,2026-04-08,27289284565131.9,376954413,Aggregates,,,,Aggregates,Aggregates
+North America,XU,NAC,2022,,2026-04-08,26553270686250.7,373018004,Aggregates,,,,Aggregates,Aggregates
+North America,XU,NAC,2021,,2026-04-08,25866624830798.1,370404272,Aggregates,,,,Aggregates,Aggregates
+North Macedonia,MK,MKD,2021,,2026-04-08,40681574628.7772,1837114,Europe & Central Asia,Skopje,21.4361,42.0024,Upper middle income,IBRD
+North Macedonia,MK,MKD,2022,,2026-04-08,41803932144.5355,1831712,Europe & Central Asia,Skopje,21.4361,42.0024,Upper middle income,IBRD
+North Macedonia,MK,MKD,2023,,2026-04-08,42872008085.3846,1827816,Europe & Central Asia,Skopje,21.4361,42.0024,Upper middle income,IBRD
+North Macedonia,MK,MKD,2020,,2026-04-08,38925758426.9376,1856124,Europe & Central Asia,Skopje,21.4361,42.0024,Upper middle income,IBRD
+Northern Mariana Islands,MP,MNP,2023,,2026-04-08,NA,45143,East Asia & Pacific,Saipan,145.765,15.1935,High income,Not classified
+Northern Mariana Islands,MP,MNP,2020,,2026-04-08,NA,47528,East Asia & Pacific,Saipan,145.765,15.1935,High income,Not classified
+Northern Mariana Islands,MP,MNP,2021,,2026-04-08,NA,46979,East Asia & Pacific,Saipan,145.765,15.1935,High income,Not classified
+Northern Mariana Islands,MP,MNP,2022,,2026-04-08,NA,46078,East Asia & Pacific,Saipan,145.765,15.1935,High income,Not classified
+Norway,NO,NOR,2023,,2026-04-08,497235674807.157,5519601,Europe & Central Asia,Oslo,10.7387,59.9138,High income,Not classified
+Norway,NO,NOR,2020,,2026-04-08,463151553387.038,5379475,Europe & Central Asia,Oslo,10.7387,59.9138,High income,Not classified
+Norway,NO,NOR,2021,,2026-04-08,481254696871.483,5408320,Europe & Central Asia,Oslo,10.7387,59.9138,High income,Not classified
+Norway,NO,NOR,2022,,2026-04-08,496877324492.726,5457127,Europe & Central Asia,Oslo,10.7387,59.9138,High income,Not classified
+Not classified,XY,,2020,,2026-04-08,NA,NA,NA,NA,NA,NA,NA,NA
+Not classified,XY,,2021,,2026-04-08,NA,NA,NA,NA,NA,NA,NA,NA
+Not classified,XY,,2022,,2026-04-08,NA,NA,NA,NA,NA,NA,NA,NA
+Not classified,XY,,2023,,2026-04-08,NA,NA,NA,NA,NA,NA,NA,NA
+OECD members,OE,OED,2023,,2026-04-08,73460632287767.9,1387897706,Aggregates,,,,Aggregates,Aggregates
+OECD members,OE,OED,2020,,2026-04-08,65849188349717.4,1369310195,Aggregates,,,,Aggregates,Aggregates
+OECD members,OE,OED,2022,,2026-04-08,72160593505590.5,1378565677,Aggregates,,,,Aggregates,Aggregates
+OECD members,OE,OED,2021,,2026-04-08,69900133987407.7,1371785073,Aggregates,,,,Aggregates,Aggregates
+Oman,OM,OMN,2020,,2026-04-08,169867700237.038,4522497,Middle East & North Africa,Muscat,58.5874,23.6105,High income,Not classified
+Oman,OM,OMN,2021,,2026-04-08,174253981507.44,4500424,Middle East & North Africa,Muscat,58.5874,23.6105,High income,Not classified
+Oman,OM,OMN,2022,,2026-04-08,188169394400.543,4730226,Middle East & North Africa,Muscat,58.5874,23.6105,High income,Not classified
+Oman,OM,OMN,2023,,2026-04-08,190830135902.4,5049269,Middle East & North Africa,Muscat,58.5874,23.6105,High income,Not classified
+Other small states,S4,OSS,2020,,2026-04-08,275256037025.246,12417333,Aggregates,,,,Aggregates,Aggregates
+Other small states,S4,OSS,2021,,2026-04-08,295943471925.01,12541889,Aggregates,,,,Aggregates,Aggregates
+Other small states,S4,OSS,2023,,2026-04-08,315049620148.129,12822134,Aggregates,,,,Aggregates,Aggregates
+Other small states,S4,OSS,2022,,2026-04-08,306375917390.199,12699005,Aggregates,,,,Aggregates,Aggregates
+Pacific island small states,S2,PSS,2020,,2026-04-08,16474406822.7808,2595522,Aggregates,,,,Aggregates,Aggregates
+Pacific island small states,S2,PSS,2021,,2026-04-08,15963826939.95,2625493,Aggregates,,,,Aggregates,Aggregates
+Pacific island small states,S2,PSS,2023,,2026-04-08,19035870455.7416,2689224,Aggregates,,,,Aggregates,Aggregates
+Pacific island small states,S2,PSS,2022,,2026-04-08,17671308242.3722,2656049,Aggregates,,,,Aggregates,Aggregates
+Pakistan,PK,PAK,2023,,2026-04-08,1341169763803.19,247504495,South Asia,Islamabad,72.8,30.5167,Lower middle income,Blend
+Pakistan,PK,PAK,2022,,2026-04-08,1346757947320.27,243700667,South Asia,Islamabad,72.8,30.5167,Lower middle income,Blend
+Pakistan,PK,PAK,2020,,2026-04-08,1206737395064.25,235001746,South Asia,Islamabad,72.8,30.5167,Lower middle income,Blend
+Pakistan,PK,PAK,2021,,2026-04-08,1285342890384.16,239477801,South Asia,Islamabad,72.8,30.5167,Lower middle income,Blend
+Palau,PW,PLW,2022,,2026-04-08,284870486.174818,17759,East Asia & Pacific,Koror,134.479,7.34194,High income,IBRD
+Palau,PW,PLW,2021,,2026-04-08,280625522.710811,17783,East Asia & Pacific,Koror,134.479,7.34194,High income,IBRD
+Palau,PW,PLW,2023,,2026-04-08,291183210.455899,17727,East Asia & Pacific,Koror,134.479,7.34194,High income,IBRD
+Palau,PW,PLW,2020,,2026-04-08,323525047.284154,17792,East Asia & Pacific,Koror,134.479,7.34194,High income,IBRD
+Panama,PA,PAN,2023,,2026-04-08,159948841558.003,4458759,Latin America & Caribbean,Panama City,-79.5188,8.99427,High income,IBRD
+Panama,PA,PAN,2020,,2026-04-08,115410578060.624,4293261,Latin America & Caribbean,Panama City,-79.5188,8.99427,High income,IBRD
+Panama,PA,PAN,2022,,2026-04-08,149252887882.301,4400773,Latin America & Caribbean,Panama City,-79.5188,8.99427,High income,IBRD
+Panama,PA,PAN,2021,,2026-04-08,134415382052,4345405,Latin America & Caribbean,Panama City,-79.5188,8.99427,High income,IBRD
+Papua New Guinea,PG,PNG,2021,,2026-04-08,39820324163.1154,10012896,East Asia & Pacific,Port Moresby,147.194,-9.47357,Lower middle income,Blend
+Papua New Guinea,PG,PNG,2023,,2026-04-08,43697222882.2109,10389635,East Asia & Pacific,Port Moresby,147.194,-9.47357,Lower middle income,Blend
+Papua New Guinea,PG,PNG,2020,,2026-04-08,40024993334.8187,9815746,East Asia & Pacific,Port Moresby,147.194,-9.47357,Lower middle income,Blend
+Papua New Guinea,PG,PNG,2022,,2026-04-08,42093102630.6742,10203169,East Asia & Pacific,Port Moresby,147.194,-9.47357,Lower middle income,Blend
+Paraguay,PY,PRY,2021,,2026-04-08,102977624582.577,6684182,Latin America & Caribbean,Asuncion,-57.6362,-25.3005,Upper middle income,IBRD
+Paraguay,PY,PRY,2023,,2026-04-08,108316053467.638,6844146,Latin America & Caribbean,Asuncion,-57.6362,-25.3005,Upper middle income,IBRD
+Paraguay,PY,PRY,2020,,2026-04-08,99001013911.8163,6603739,Latin America & Caribbean,Asuncion,-57.6362,-25.3005,Upper middle income,IBRD
+Paraguay,PY,PRY,2022,,2026-04-08,103158904710.391,6760464,Latin America & Caribbean,Asuncion,-57.6362,-25.3005,Upper middle income,IBRD
+Peru,PE,PER,2023,,2026-04-08,518771469889.674,33845617,Latin America & Caribbean,Lima,-77.0465,-12.0931,Upper middle income,IBRD
+Peru,PE,PER,2022,,2026-04-08,520871844722.863,33475438,Latin America & Caribbean,Lima,-77.0465,-12.0931,Upper middle income,IBRD
+Peru,PE,PER,2020,,2026-04-08,446919923476.365,32838579,Latin America & Caribbean,Lima,-77.0465,-12.0931,Upper middle income,IBRD
+Peru,PE,PER,2021,,2026-04-08,506640152835.223,33155882,Latin America & Caribbean,Lima,-77.0465,-12.0931,Upper middle income,IBRD
+Philippines,PH,PHL,2023,,2026-04-08,1137254318494.01,114891199,East Asia & Pacific,Manila,121.035,14.5515,Lower middle income,IBRD
+Philippines,PH,PHL,2021,,2026-04-08,1001824458376.1,113100950,East Asia & Pacific,Manila,121.035,14.5515,Lower middle income,IBRD
+Philippines,PH,PHL,2022,,2026-04-08,1077772591518.08,113964338,East Asia & Pacific,Manila,121.035,14.5515,Lower middle income,IBRD
+Philippines,PH,PHL,2020,,2026-04-08,947667774109.205,112081264,East Asia & Pacific,Manila,121.035,14.5515,Lower middle income,IBRD
+Poland,PL,POL,2020,,2026-04-08,1420076185854.11,37515748,Europe & Central Asia,Warsaw,21.02,52.26,High income,IBRD
+Poland,PL,POL,2021,,2026-04-08,1518447457166.84,36981559,Europe & Central Asia,Warsaw,21.02,52.26,High income,IBRD
+Poland,PL,POL,2022,,2026-04-08,1598248809948.92,36821749,Europe & Central Asia,Warsaw,21.02,52.26,High income,IBRD
+Poland,PL,POL,2023,,2026-04-08,1602238212133.11,36687353,Europe & Central Asia,Warsaw,21.02,52.26,High income,IBRD
+Portugal,PT,PRT,2023,,2026-04-08,441831868212.315,10578174,Europe & Central Asia,Lisbon,-9.13552,38.7072,High income,Not classified
+Portugal,PT,PRT,2022,,2026-04-08,428547000796.034,10434332,Europe & Central Asia,Lisbon,-9.13552,38.7072,High income,Not classified
+Portugal,PT,PRT,2021,,2026-04-08,400564219793.068,10361831,Europe & Central Asia,Lisbon,-9.13552,38.7072,High income,Not classified
+Portugal,PT,PRT,2020,,2026-04-08,379470384302.569,10297081,Europe & Central Asia,Lisbon,-9.13552,38.7072,High income,Not classified
+Post-demographic dividend,V4,PST,2021,,2026-04-08,62876649116795,1116582773,Aggregates,,,,Aggregates,Aggregates
+Post-demographic dividend,V4,PST,2020,,2026-04-08,59477437678509.4,1117007476,Aggregates,,,,Aggregates,Aggregates
+Post-demographic dividend,V4,PST,2022,,2026-04-08,64454609356882.4,1117394729,Aggregates,,,,Aggregates,Aggregates
+Post-demographic dividend,V4,PST,2023,,2026-04-08,65617841462220.9,1121315547,Aggregates,,,,Aggregates,Aggregates
+Pre-demographic dividend,V1,PRE,2020,,2026-04-08,4551849739121.49,998624261,Aggregates,,,,Aggregates,Aggregates
+Pre-demographic dividend,V1,PRE,2023,,2026-04-08,4980439301613.45,1078224044,Aggregates,,,,Aggregates,Aggregates
+Pre-demographic dividend,V1,PRE,2021,,2026-04-08,4648476027901.56,1024960313,Aggregates,,,,Aggregates,Aggregates
+Pre-demographic dividend,V1,PRE,2022,,2026-04-08,4861799036891.65,1051201551,Aggregates,,,,Aggregates,Aggregates
+Puerto Rico (US),PR,PRI,2020,,2026-04-08,131826020840.194,3281590,NA,NA,NA,NA,NA,NA
+Puerto Rico (US),PR,PRI,2022,,2026-04-08,136247082992.149,3220137,NA,NA,NA,NA,NA,NA
+Puerto Rico (US),PR,PRI,2023,,2026-04-08,137243719648.029,3203792,NA,NA,NA,NA,NA,NA
+Puerto Rico (US),PR,PRI,2021,,2026-04-08,132333844622.722,3262711,NA,NA,NA,NA,NA,NA
+Qatar,QA,QAT,2021,,2026-04-08,292655290700.514,2504910,Middle East & North Africa,Doha,51.5082,25.2948,High income,Not classified
+Qatar,QA,QAT,2020,,2026-04-08,287970200209.351,2794148,Middle East & North Africa,Doha,51.5082,25.2948,High income,Not classified
+Qatar,QA,QAT,2022,,2026-04-08,304902827362.464,2657333,Middle East & North Africa,Doha,51.5082,25.2948,High income,Not classified
+Qatar,QA,QAT,2023,,2026-04-08,309597694197.248,2656032,Middle East & North Africa,Doha,51.5082,25.2948,High income,Not classified
+Romania,RO,ROU,2021,,2026-04-08,717730343973.289,19122059,Europe & Central Asia,Bucharest,26.0979,44.4479,High income,IBRD
+Romania,RO,ROU,2020,,2026-04-08,679750310091.557,19265250,Europe & Central Asia,Bucharest,26.0979,44.4479,High income,IBRD
+Romania,RO,ROU,2022,,2026-04-08,747786831259.141,19048502,Europe & Central Asia,Bucharest,26.0979,44.4479,High income,IBRD
+Romania,RO,ROU,2023,,2026-04-08,764669870033.971,19061062,Europe & Central Asia,Bucharest,26.0979,44.4479,High income,IBRD
+Russian Federation,RU,RUS,2021,,2026-04-08,5688268314339.54,144746762,Europe & Central Asia,Moscow,37.6176,55.7558,High income,IBRD
+Russian Federation,RU,RUS,2020,,2026-04-08,5373058291702.31,145245148,Europe & Central Asia,Moscow,37.6176,55.7558,High income,IBRD
+Russian Federation,RU,RUS,2022,,2026-04-08,5606591485618.39,144236933,Europe & Central Asia,Moscow,37.6176,55.7558,High income,IBRD
+Russian Federation,RU,RUS,2023,,2026-04-08,5835481974159.47,143826130,Europe & Central Asia,Moscow,37.6176,55.7558,High income,IBRD
+Rwanda,RW,RWA,2022,,2026-04-08,39485053448.1339,13651030,Sub-Saharan Africa,Kigali,30.0587,-1.95325,Low income,IDA
+Rwanda,RW,RWA,2020,,2026-04-08,32930056261.5839,13065837,Sub-Saharan Africa,Kigali,30.0587,-1.95325,Low income,IDA
+Rwanda,RW,RWA,2021,,2026-04-08,36505744034.3984,13355260,Sub-Saharan Africa,Kigali,30.0587,-1.95325,Low income,IDA
+Rwanda,RW,RWA,2023,,2026-04-08,42742532065.0576,13954471,Sub-Saharan Africa,Kigali,30.0587,-1.95325,Low income,IDA
+Samoa,WS,WSM,2021,,2026-04-08,1357521081.4193,213779,East Asia & Pacific,Apia,-171.752,-13.8314,Lower middle income,IDA
+Samoa,WS,WSM,2023,,2026-04-08,1599784495.24948,216663,East Asia & Pacific,Apia,-171.752,-13.8314,Lower middle income,IDA
+Samoa,WS,WSM,2020,,2026-04-08,1429624255.28777,211944,East Asia & Pacific,Apia,-171.752,-13.8314,Lower middle income,IDA
+Samoa,WS,WSM,2022,,2026-04-08,1388296770.59579,215261,East Asia & Pacific,Apia,-171.752,-13.8314,Lower middle income,IDA
+San Marino,SM,SMR,2022,,2026-04-08,2392810056.98825,33755,Europe & Central Asia,San Marino,12.4486,43.9322,High income,Not classified
+San Marino,SM,SMR,2023,,2026-04-08,2402427595.62567,33860,Europe & Central Asia,San Marino,12.4486,43.9322,High income,Not classified
+San Marino,SM,SMR,2021,,2026-04-08,2217650250.23726,34252,Europe & Central Asia,San Marino,12.4486,43.9322,High income,Not classified
+San Marino,SM,SMR,2020,,2026-04-08,1947052932.12809,34770,Europe & Central Asia,San Marino,12.4486,43.9322,High income,Not classified
+Sao Tome and Principe,ST,STP,2023,,2026-04-08,1279325859.25215,230871,Sub-Saharan Africa,Sao Tome,6.6071,0.20618,Lower middle income,IDA
+Sao Tome and Principe,ST,STP,2021,,2026-04-08,1272434617.36875,221961,Sub-Saharan Africa,Sao Tome,6.6071,0.20618,Lower middle income,IDA
+Sao Tome and Principe,ST,STP,2022,,2026-04-08,1274581195.38269,226305,Sub-Saharan Africa,Sao Tome,6.6071,0.20618,Lower middle income,IDA
+Sao Tome and Principe,ST,STP,2020,,2026-04-08,1248717734.99679,217435,Sub-Saharan Africa,Sao Tome,6.6071,0.20618,Lower middle income,IDA
+Saudi Arabia,SA,SAU,2020,,2026-04-08,1811768270289.69,31552510,Middle East & North Africa,Riyadh,46.6977,24.6748,High income,Not classified
+Saudi Arabia,SA,SAU,2023,,2026-04-08,2173214249211.45,33702731,Middle East & North Africa,Riyadh,46.6977,24.6748,High income,Not classified
+Saudi Arabia,SA,SAU,2021,,2026-04-08,1929888259783.05,30784383,Middle East & North Africa,Riyadh,46.6977,24.6748,High income,Not classified
+Saudi Arabia,SA,SAU,2022,,2026-04-08,2161486188573.72,32175224,Middle East & North Africa,Riyadh,46.6977,24.6748,High income,Not classified
+Senegal,SN,SEN,2022,,2026-04-08,74641816329.8955,17651103,Sub-Saharan Africa,Dakar,-17.4734,14.7247,Lower middle income,IDA
+Senegal,SN,SEN,2023,,2026-04-08,77819640032.4886,18077573,Sub-Saharan Africa,Dakar,-17.4734,14.7247,Lower middle income,IDA
+Senegal,SN,SEN,2020,,2026-04-08,67459775215.4187,16789219,Sub-Saharan Africa,Dakar,-17.4734,14.7247,Lower middle income,IDA
+Senegal,SN,SEN,2021,,2026-04-08,71874343647.3324,17220867,Sub-Saharan Africa,Dakar,-17.4734,14.7247,Lower middle income,IDA
+Serbia,RS,SRB,2023,,2026-04-08,170449205399.559,6623183,Europe & Central Asia,Belgrade,20.4656,44.8024,Upper middle income,IBRD
+Serbia,RS,SRB,2020,,2026-04-08,148187485917.202,6899126,Europe & Central Asia,Belgrade,20.4656,44.8024,Upper middle income,IBRD
+Serbia,RS,SRB,2021,,2026-04-08,159966992905.688,6834326,Europe & Central Asia,Belgrade,20.4656,44.8024,Upper middle income,IBRD
+Serbia,RS,SRB,2022,,2026-04-08,164291663855.165,6664449,Europe & Central Asia,Belgrade,20.4656,44.8024,Upper middle income,IBRD
+Seychelles,SC,SYC,2021,,2026-04-08,2975737695.0276,99258,Sub-Saharan Africa,Victoria,55.4466,-4.6309,High income,IBRD
+Seychelles,SC,SYC,2020,,2026-04-08,2959393508.28619,98462,Sub-Saharan Africa,Victoria,55.4466,-4.6309,High income,IBRD
+Seychelles,SC,SYC,2022,,2026-04-08,3353967909.01052,119878,Sub-Saharan Africa,Victoria,55.4466,-4.6309,High income,IBRD
+Seychelles,SC,SYC,2023,,2026-04-08,3429742537.08762,119773,Sub-Saharan Africa,Victoria,55.4466,-4.6309,High income,IBRD
+Sierra Leone,SL,SLE,2021,,2026-04-08,23064667140.0586,8094602,Sub-Saharan Africa,Freetown,-13.2134,8.4821,Low income,IDA
+Sierra Leone,SL,SLE,2020,,2026-04-08,21780314099.0165,7912558,Sub-Saharan Africa,Freetown,-13.2134,8.4821,Low income,IDA
+Sierra Leone,SL,SLE,2022,,2026-04-08,24290220825.1271,8276807,Sub-Saharan Africa,Freetown,-13.2134,8.4821,Low income,IDA
+Sierra Leone,SL,SLE,2023,,2026-04-08,25677197753.3583,8460512,Sub-Saharan Africa,Freetown,-13.2134,8.4821,Low income,IDA
+Singapore,SG,SGP,2021,,2026-04-08,723237492898.215,5453566,East Asia & Pacific,Singapore,103.85,1.28941,High income,Not classified
+Singapore,SG,SGP,2020,,2026-04-08,658945471706.12,5685807,East Asia & Pacific,Singapore,103.85,1.28941,High income,Not classified
+Singapore,SG,SGP,2022,,2026-04-08,752948090690.158,5637022,East Asia & Pacific,Singapore,103.85,1.28941,High income,Not classified
+Singapore,SG,SGP,2023,,2026-04-08,766662339477.273,5917648,East Asia & Pacific,Singapore,103.85,1.28941,High income,Not classified
+Sint Maarten (Dutch part),SX,SXM,2022,,2026-04-08,1917984073.91005,42139,Latin America & Caribbean,Philipsburg,,,High income,Not classified
+Sint Maarten (Dutch part),SX,SXM,2020,,2026-04-08,1610210354.93476,41008,Latin America & Caribbean,Philipsburg,,,High income,Not classified
+Sint Maarten (Dutch part),SX,SXM,2021,,2026-04-08,1683919292.28275,41571,Latin America & Caribbean,Philipsburg,,,High income,Not classified
+Sint Maarten (Dutch part),SX,SXM,2023,,2026-04-08,1990867468.71863,42749,Latin America & Caribbean,Philipsburg,,,High income,Not classified
+Slovak Republic,SK,SVK,2021,,2026-04-08,208880643198.039,5447247,Europe & Central Asia,Bratislava,17.1073,48.1484,High income,Not classified
+Slovak Republic,SK,SVK,2023,,2026-04-08,214455110281.819,5426740,Europe & Central Asia,Bratislava,17.1073,48.1484,High income,Not classified
+Slovak Republic,SK,SVK,2020,,2026-04-08,197699063315.057,5458827,Europe & Central Asia,Bratislava,17.1073,48.1484,High income,Not classified
+Slovak Republic,SK,SVK,2022,,2026-04-08,210018189702.051,5431752,Europe & Central Asia,Bratislava,17.1073,48.1484,High income,Not classified
+Slovenia,SI,SVN,2022,,2026-04-08,99373318669.6156,2112076,Europe & Central Asia,Ljubljana,14.5044,46.0546,High income,Not classified
+Slovenia,SI,SVN,2023,,2026-04-08,101734262434.702,2120461,Europe & Central Asia,Ljubljana,14.5044,46.0546,High income,Not classified
+Slovenia,SI,SVN,2021,,2026-04-08,96790459870.841,2108079,Europe & Central Asia,Ljubljana,14.5044,46.0546,High income,Not classified
+Slovenia,SI,SVN,2020,,2026-04-08,89276202782.8911,2102419,Europe & Central Asia,Ljubljana,14.5044,46.0546,High income,Not classified
+Small states,S1,SST,2023,,2026-04-08,467943153582.588,20031262,Aggregates,,,,Aggregates,Aggregates
+Small states,S1,SST,2021,,2026-04-08,417137737301.724,19646549,Aggregates,,,,Aggregates,Aggregates
+Small states,S1,SST,2022,,2026-04-08,445684650450.836,19852364,Aggregates,,,,Aggregates,Aggregates
+Small states,S1,SST,2020,,2026-04-08,391180886485.659,19472157,Aggregates,,,,Aggregates,Aggregates
+Solomon Islands,SB,SLB,2020,,2026-04-08,1872517765.92696,744498,East Asia & Pacific,Honiara,159.949,-9.42676,Lower middle income,IDA
+Solomon Islands,SB,SLB,2023,,2026-04-08,1871671644.2971,800005,East Asia & Pacific,Honiara,159.949,-9.42676,Lower middle income,IDA
+Solomon Islands,SB,SLB,2021,,2026-04-08,1868248888.06751,762591,East Asia & Pacific,Honiara,159.949,-9.42676,Lower middle income,IDA
+Solomon Islands,SB,SLB,2022,,2026-04-08,1819964301.62021,781066,East Asia & Pacific,Honiara,159.949,-9.42676,Lower middle income,IDA
+"Somalia, Fed. Rep.",SO,SOM,2020,,2026-04-08,23245985890.4208,16651191,NA,NA,NA,NA,NA,NA
+"Somalia, Fed. Rep.",SO,SOM,2021,,2026-04-08,24047321167.4183,17271431,NA,NA,NA,NA,NA,NA
+"Somalia, Fed. Rep.",SO,SOM,2022,,2026-04-08,24700978342.0083,17801897,NA,NA,NA,NA,NA,NA
+"Somalia, Fed. Rep.",SO,SOM,2023,,2026-04-08,25732304106.3615,18358615,NA,NA,NA,NA,NA,NA
+South Africa,ZA,ZAF,2023,,2026-04-08,865717339517.612,63212384,Sub-Saharan Africa,Pretoria,28.1871,-25.746,Upper middle income,IBRD
+South Africa,ZA,ZAF,2020,,2026-04-08,802485866495.244,60562381,Sub-Saharan Africa,Pretoria,28.1871,-25.746,Upper middle income,IBRD
+South Africa,ZA,ZAF,2021,,2026-04-08,841475835218.983,61502603,Sub-Saharan Africa,Pretoria,28.1871,-25.746,Upper middle income,IBRD
+South Africa,ZA,ZAF,2022,,2026-04-08,858794557506.174,62378410,Sub-Saharan Africa,Pretoria,28.1871,-25.746,Upper middle income,IBRD
+South Asia,8S,SAS,2021,,2026-04-08,13103387829233.9,1634785356,Aggregates,,,,Aggregates,Aggregates
+South Asia,8S,SAS,2020,,2026-04-08,11994670241534.4,1621073417,Aggregates,,,,Aggregates,Aggregates
+South Asia,8S,SAS,2022,,2026-04-08,14044379623964.2,1648009565,Aggregates,,,,Aggregates,Aggregates
+South Asia,8S,SAS,2023,,2026-04-08,15244491049475.5,1662580579,Aggregates,,,,Aggregates,Aggregates
+South Asia (IDA & IBRD),T5,TSA,2022,,2026-04-08,14044379623964.2,1648009565,Aggregates,,,,Aggregates,Aggregates
+South Asia (IDA & IBRD),T5,TSA,2020,,2026-04-08,11994670241534.4,1621073417,Aggregates,,,,Aggregates,Aggregates
+South Asia (IDA & IBRD),T5,TSA,2021,,2026-04-08,13103387829233.9,1634785356,Aggregates,,,,Aggregates,Aggregates
+South Asia (IDA & IBRD),T5,TSA,2023,,2026-04-08,15244491049475.5,1662580579,Aggregates,,,,Aggregates,Aggregates
+South Sudan,SS,SSD,2020,,2026-04-08,NA,10698467,Sub-Saharan Africa,Juba,31.6,4.85,Low income,IDA
+South Sudan,SS,SSD,2021,,2026-04-08,NA,10865780,Sub-Saharan Africa,Juba,31.6,4.85,Low income,IDA
+South Sudan,SS,SSD,2022,,2026-04-08,NA,11021177,Sub-Saharan Africa,Juba,31.6,4.85,Low income,IDA
+South Sudan,SS,SSD,2023,,2026-04-08,NA,11483374,Sub-Saharan Africa,Juba,31.6,4.85,Low income,IDA
+Spain,ES,ESP,2022,,2026-04-08,2233210888832.33,47786102,Europe & Central Asia,Madrid,-3.70327,40.4167,High income,Not classified
+Spain,ES,ESP,2020,,2026-04-08,1967947352764.79,47359424,Europe & Central Asia,Madrid,-3.70327,40.4167,High income,Not classified
+Spain,ES,ESP,2021,,2026-04-08,2099468112223.22,47443821,Europe & Central Asia,Madrid,-3.70327,40.4167,High income,Not classified
+Spain,ES,ESP,2023,,2026-04-08,2288167036933.65,48352528,Europe & Central Asia,Madrid,-3.70327,40.4167,High income,Not classified
+Sri Lanka,LK,LKA,2023,,2026-04-08,287030612299.665,22037000,South Asia,Colombo,79.8528,6.92148,Lower middle income,IDA
+Sri Lanka,LK,LKA,2022,,2026-04-08,293877512197.936,22181000,South Asia,Colombo,79.8528,6.92148,Lower middle income,IDA
+Sri Lanka,LK,LKA,2020,,2026-04-08,304381511441.83,21919000,South Asia,Colombo,79.8528,6.92148,Lower middle income,IDA
+Sri Lanka,LK,LKA,2021,,2026-04-08,317188291991.223,22156000,South Asia,Colombo,79.8528,6.92148,Lower middle income,IDA
+St. Kitts and Nevis,KN,KNA,2021,,2026-04-08,1257766533.81363,46763,Latin America & Caribbean,Basseterre,-62.7309,17.3,High income,IBRD
+St. Kitts and Nevis,KN,KNA,2020,,2026-04-08,1253159832.06339,46870,Latin America & Caribbean,Basseterre,-62.7309,17.3,High income,IBRD
+St. Kitts and Nevis,KN,KNA,2022,,2026-04-08,1389586681.8695,46709,Latin America & Caribbean,Basseterre,-62.7309,17.3,High income,IBRD
+St. Kitts and Nevis,KN,KNA,2023,,2026-04-08,1431569920.52305,46758,Latin America & Caribbean,Basseterre,-62.7309,17.3,High income,IBRD
+St. Lucia,LC,LCA,2023,,2026-04-08,4195940247.80877,179285,Latin America & Caribbean,Castries,-60.9832,14,Upper middle income,Blend
+St. Lucia,LC,LCA,2020,,2026-04-08,3055569354.26397,178250,Latin America & Caribbean,Castries,-60.9832,14,Upper middle income,Blend
+St. Lucia,LC,LCA,2021,,2026-04-08,3409978230.91316,178522,Latin America & Caribbean,Castries,-60.9832,14,Upper middle income,Blend
+St. Lucia,LC,LCA,2022,,2026-04-08,4105219705.07015,178781,Latin America & Caribbean,Castries,-60.9832,14,Upper middle income,Blend
+St. Martin (French part),MF,MAF,2020,,2026-04-08,NA,31786,Latin America & Caribbean,Marigot,,,High income,Not classified
+St. Martin (French part),MF,MAF,2021,,2026-04-08,NA,29961,Latin America & Caribbean,Marigot,,,High income,Not classified
+St. Martin (French part),MF,MAF,2022,,2026-04-08,NA,28870,Latin America & Caribbean,Marigot,,,High income,Not classified
+St. Martin (French part),MF,MAF,2023,,2026-04-08,NA,27515,Latin America & Caribbean,Marigot,,,High income,Not classified
+St. Vincent and the Grenadines,VC,VCT,2022,,2026-04-08,1717946809.56485,102046,Latin America & Caribbean,Kingstown,-61.2653,13.2035,Upper middle income,Blend
+St. Vincent and the Grenadines,VC,VCT,2020,,2026-04-08,1631953369.20067,103526,Latin America & Caribbean,Kingstown,-61.2653,13.2035,Upper middle income,Blend
+St. Vincent and the Grenadines,VC,VCT,2021,,2026-04-08,1666116701.3437,102841,Latin America & Caribbean,Kingstown,-61.2653,13.2035,Upper middle income,Blend
+St. Vincent and the Grenadines,VC,VCT,2023,,2026-04-08,1809450922.35483,101323,Latin America & Caribbean,Kingstown,-61.2653,13.2035,Upper middle income,Blend
+Sub-Saharan Africa,ZG,SSF,2020,,2026-04-08,5464831593692.03,1169015451,NA,NA,NA,NA,NA,NA
+Sub-Saharan Africa,ZG,SSF,2023,,2026-04-08,6060342546876.11,1259889959,NA,NA,NA,NA,NA,NA
+Sub-Saharan Africa,ZG,SSF,2022,,2026-04-08,5895365954513.33,1229208573,NA,NA,NA,NA,NA,NA
+Sub-Saharan Africa,ZG,SSF,2021,,2026-04-08,5659765069319.22,1199011925,NA,NA,NA,NA,NA,NA
+Sub-Saharan Africa (excluding high income),ZF,SSA,2020,,2026-04-08,5161723979507.82,1049999318,Aggregates,,,,Aggregates,Aggregates
+Sub-Saharan Africa (excluding high income),ZF,SSA,2021,,2026-04-08,5339675441432.84,1076774079,Aggregates,,,,Aggregates,Aggregates
+Sub-Saharan Africa (excluding high income),ZF,SSA,2022,,2026-04-08,5558000562393.26,1103704408,Aggregates,,,,Aggregates,Aggregates
+Sub-Saharan Africa (excluding high income),ZF,SSA,2023,,2026-04-08,5700809998408.84,1131078494,Aggregates,,,,Aggregates,Aggregates
+Sub-Saharan Africa (IDA & IBRD countries),T6,TSS,2023,,2026-04-08,6060342546876.11,1259889959,Aggregates,,,,Aggregates,Aggregates
+Sub-Saharan Africa (IDA & IBRD countries),T6,TSS,2020,,2026-04-08,5464831593692.04,1169015451,Aggregates,,,,Aggregates,Aggregates
+Sub-Saharan Africa (IDA & IBRD countries),T6,TSS,2021,,2026-04-08,5659765069319.22,1199011925,Aggregates,,,,Aggregates,Aggregates
+Sub-Saharan Africa (IDA & IBRD countries),T6,TSS,2022,,2026-04-08,5895365954513.33,1229208573,Aggregates,,,,Aggregates,Aggregates
+Sudan,SD,SDN,2020,,2026-04-08,159141858245.694,46789231,Sub-Saharan Africa,Khartoum,32.5363,15.5932,Low income,IDA
+Sudan,SD,SDN,2021,,2026-04-08,156168260027.791,48066924,Sub-Saharan Africa,Khartoum,32.5363,15.5932,Low income,IDA
+Sudan,SD,SDN,2022,,2026-04-08,154672454523.183,49383346,Sub-Saharan Africa,Khartoum,32.5363,15.5932,Low income,IDA
+Sudan,SD,SDN,2023,,2026-04-08,109147290533.351,50042791,Sub-Saharan Africa,Khartoum,32.5363,15.5932,Low income,IDA
+Suriname,SR,SUR,2020,,2026-04-08,11689965333.3394,612317,Latin America & Caribbean,Paramaribo,-55.1679,5.8232,Upper middle income,Blend
+Suriname,SR,SUR,2021,,2026-04-08,11405269573.3629,617896,Latin America & Caribbean,Paramaribo,-55.1679,5.8232,Upper middle income,Blend
+Suriname,SR,SUR,2022,,2026-04-08,11679705719.6006,623164,Latin America & Caribbean,Paramaribo,-55.1679,5.8232,Upper middle income,Blend
+Suriname,SR,SUR,2023,,2026-04-08,11961956581.0891,628886,Latin America & Caribbean,Paramaribo,-55.1679,5.8232,Upper middle income,Blend
+Sweden,SE,SWE,2023,,2026-04-08,660254497855.377,10536632,Europe & Central Asia,Stockholm,18.0645,59.3327,High income,Not classified
+Sweden,SE,SWE,2020,,2026-04-08,620951456808.348,10353442,Europe & Central Asia,Stockholm,18.0645,59.3327,High income,Not classified
+Sweden,SE,SWE,2021,,2026-04-08,653401537327.892,10415811,Europe & Central Asia,Stockholm,18.0645,59.3327,High income,Not classified
+Sweden,SE,SWE,2022,,2026-04-08,661604576787.992,10486941,Europe & Central Asia,Stockholm,18.0645,59.3327,High income,Not classified
+Switzerland,CH,CHE,2021,,2026-04-08,705080509164.276,8704546,Europe & Central Asia,Bern,7.44821,46.948,High income,Not classified
+Switzerland,CH,CHE,2020,,2026-04-08,667945287968.94,8638167,Europe & Central Asia,Bern,7.44821,46.948,High income,Not classified
+Switzerland,CH,CHE,2022,,2026-04-08,726543590171.716,8777088,Europe & Central Asia,Bern,7.44821,46.948,High income,Not classified
+Switzerland,CH,CHE,2023,,2026-04-08,731508267222.482,8888822,Europe & Central Asia,Bern,7.44821,46.948,High income,Not classified
+Syrian Arab Republic,SY,SYR,2020,,2026-04-08,97529361721.3717,21049429,Middle East & North Africa,Damascus,36.3119,33.5146,Low income,IDA
+Syrian Arab Republic,SY,SYR,2021,,2026-04-08,99337766654.2033,21628839,Middle East & North Africa,Damascus,36.3119,33.5146,Low income,IDA
+Syrian Arab Republic,SY,SYR,2022,,2026-04-08,100065695233.932,22462173,Middle East & North Africa,Damascus,36.3119,33.5146,Low income,IDA
+Syrian Arab Republic,SY,SYR,2023,,2026-04-08,NA,23594623,Middle East & North Africa,Damascus,36.3119,33.5146,Low income,IDA
+Tajikistan,TJ,TJK,2020,,2026-04-08,36313732274.8975,9749310,Europe & Central Asia,Dushanbe,68.7864,38.5878,Lower middle income,IDA
+Tajikistan,TJ,TJK,2021,,2026-04-08,39727222945.4623,9966908,Europe & Central Asia,Dushanbe,68.7864,38.5878,Lower middle income,IDA
+Tajikistan,TJ,TJK,2022,,2026-04-08,42905400915.5615,10182222,Europe & Central Asia,Dushanbe,68.7864,38.5878,Lower middle income,IDA
+Tajikistan,TJ,TJK,2023,,2026-04-08,46466548855.3976,10389799,Europe & Central Asia,Dushanbe,68.7864,38.5878,Lower middle income,IDA
+Tanzania,TZ,TZA,2022,,2026-04-08,222506089071.156,64711821,Sub-Saharan Africa,Dodoma,35.7382,-6.17486,Lower middle income,IDA
+Tanzania,TZ,TZA,2020,,2026-04-08,203975515772.129,60972798,Sub-Saharan Africa,Dodoma,35.7382,-6.17486,Lower middle income,IDA
+Tanzania,TZ,TZA,2021,,2026-04-08,212790081675.953,62830412,Sub-Saharan Africa,Dodoma,35.7382,-6.17486,Lower middle income,IDA
+Tanzania,TZ,TZA,2023,,2026-04-08,233786087616.827,66617606,Sub-Saharan Africa,Dodoma,35.7382,-6.17486,Lower middle income,IDA
+Thailand,TH,THA,2020,,2026-04-08,1429767518144.89,71641484,East Asia & Pacific,Bangkok,100.521,13.7308,Upper middle income,IBRD
+Thailand,TH,THA,2021,,2026-04-08,1451959884645.39,71727332,East Asia & Pacific,Bangkok,100.521,13.7308,Upper middle income,IBRD
+Thailand,TH,THA,2022,,2026-04-08,1489425948925.17,71735329,East Asia & Pacific,Bangkok,100.521,13.7308,Upper middle income,IBRD
+Thailand,TH,THA,2023,,2026-04-08,1519478855208.06,71702435,East Asia & Pacific,Bangkok,100.521,13.7308,Upper middle income,IBRD
+Timor-Leste,TL,TLS,2020,,2026-04-08,8745162735.91475,1326053,East Asia & Pacific,Dili,125.567,-8.56667,Lower middle income,Blend
+Timor-Leste,TL,TLS,2021,,2026-04-08,9214760627.89325,1350139,East Asia & Pacific,Dili,125.567,-8.56667,Lower middle income,Blend
+Timor-Leste,TL,TLS,2022,,2026-04-08,7323663354.02986,1369295,East Asia & Pacific,Dili,125.567,-8.56667,Lower middle income,Blend
+Timor-Leste,TL,TLS,2023,,2026-04-08,5995450725.36276,1384286,East Asia & Pacific,Dili,125.567,-8.56667,Lower middle income,Blend
+Togo,TG,TGO,2023,,2026-04-08,26445072845.206,9304337,Sub-Saharan Africa,Lome,1.2255,6.1228,Low income,IDA
+Togo,TG,TGO,2020,,2026-04-08,22285369193.2973,8669720,Sub-Saharan Africa,Lome,1.2255,6.1228,Low income,IDA
+Togo,TG,TGO,2021,,2026-04-08,23428363747.2408,8878379,Sub-Saharan Africa,Lome,1.2255,6.1228,Low income,IDA
+Togo,TG,TGO,2022,,2026-04-08,24903047324.7446,9089738,Sub-Saharan Africa,Lome,1.2255,6.1228,Low income,IDA
+Tonga,TO,TON,2020,,2026-04-08,737857271.043379,105704,East Asia & Pacific,Nuku'alofa,-175.216,-21.136,Upper middle income,IDA
+Tonga,TO,TON,2021,,2026-04-08,730958849.332373,105490,East Asia & Pacific,Nuku'alofa,-175.216,-21.136,Upper middle income,IDA
+Tonga,TO,TON,2022,,2026-04-08,715400064.771836,105042,East Asia & Pacific,Nuku'alofa,-175.216,-21.136,Upper middle income,IDA
+Tonga,TO,TON,2023,,2026-04-08,735360754.384418,104597,East Asia & Pacific,Nuku'alofa,-175.216,-21.136,Upper middle income,IDA
+Trinidad and Tobago,TT,TTO,2020,,2026-04-08,41987005233.0412,1366725,Latin America & Caribbean,Port-of-Spain,-61.4789,10.6596,High income,IBRD
+Trinidad and Tobago,TT,TTO,2021,,2026-04-08,41686067308.9332,1367558,Latin America & Caribbean,Port-of-Spain,-61.4789,10.6596,High income,IBRD
+Trinidad and Tobago,TT,TTO,2022,,2026-04-08,42045093076.7813,1365805,Latin America & Caribbean,Port-of-Spain,-61.4789,10.6596,High income,IBRD
+Trinidad and Tobago,TT,TTO,2023,,2026-04-08,42661667327.1124,1367510,Latin America & Caribbean,Port-of-Spain,-61.4789,10.6596,High income,IBRD
+Tunisia,TN,TUN,2023,,2026-04-08,154347183057.376,12200431,Middle East & North Africa,Tunis,10.21,36.7899,Lower middle income,IBRD
+Tunisia,TN,TUN,2020,,2026-04-08,143157016349.666,11974057,Middle East & North Africa,Tunis,10.21,36.7899,Lower middle income,IBRD
+Tunisia,TN,TUN,2021,,2026-04-08,149936984870.616,12048622,Middle East & North Africa,Tunis,10.21,36.7899,Lower middle income,IBRD
+Tunisia,TN,TUN,2022,,2026-04-08,154063681928.083,12119334,Middle East & North Africa,Tunis,10.21,36.7899,Lower middle income,IBRD
+Turkiye,TR,TUR,2021,,2026-04-08,2701595710002.02,84147318,Europe & Central Asia,Ankara,32.3606,39.7153,Upper middle income,IBRD
+Turkiye,TR,TUR,2020,,2026-04-08,2416214350889.36,83384680,Europe & Central Asia,Ankara,32.3606,39.7153,Upper middle income,IBRD
+Turkiye,TR,TUR,2022,,2026-04-08,2848595614232.43,84979913,Europe & Central Asia,Ankara,32.3606,39.7153,Upper middle income,IBRD
+Turkiye,TR,TUR,2023,,2026-04-08,2992310786629.76,85325965,Europe & Central Asia,Ankara,32.3606,39.7153,Upper middle income,IBRD
+Turkmenistan,TM,TKM,2020,,2026-04-08,109747294597.405,6949912,Europe & Central Asia,Ashgabat,58.3794,37.9509,Upper middle income,IBRD
+Turkmenistan,TM,TKM,2021,,2026-04-08,116551626881.618,7092043,Europe & Central Asia,Ashgabat,58.3794,37.9509,Upper middle income,IBRD
+Turkmenistan,TM,TKM,2022,,2026-04-08,123777827673.938,7230193,Europe & Central Asia,Ashgabat,58.3794,37.9509,Upper middle income,IBRD
+Turkmenistan,TM,TKM,2023,,2026-04-08,131576025873.303,7364438,Europe & Central Asia,Ashgabat,58.3794,37.9509,Upper middle income,IBRD
+Turks and Caicos Islands,TC,TCA,2020,,2026-04-08,874516799.278562,44386,Latin America & Caribbean,Grand Turk,-71.141389,21.4602778,High income,Not classified
+Turks and Caicos Islands,TC,TCA,2021,,2026-04-08,1133630688.91659,45243,Latin America & Caribbean,Grand Turk,-71.141389,21.4602778,High income,Not classified
+Turks and Caicos Islands,TC,TCA,2022,,2026-04-08,1293326643.15516,45847,Latin America & Caribbean,Grand Turk,-71.141389,21.4602778,High income,Not classified
+Turks and Caicos Islands,TC,TCA,2023,,2026-04-08,1470915240.12362,46198,Latin America & Caribbean,Grand Turk,-71.141389,21.4602778,High income,Not classified
+Tuvalu,TV,TUV,2022,,2026-04-08,54937860.0682851,9992,East Asia & Pacific,Funafuti,179.089567,-8.6314877,Upper middle income,IDA
+Tuvalu,TV,TUV,2020,,2026-04-08,53601225.1551592,10399,East Asia & Pacific,Funafuti,179.089567,-8.6314877,Upper middle income,IDA
+Tuvalu,TV,TUV,2021,,2026-04-08,54568264.1071132,10194,East Asia & Pacific,Funafuti,179.089567,-8.6314877,Upper middle income,IDA
+Tuvalu,TV,TUV,2023,,2026-04-08,57054510.9926258,9816,East Asia & Pacific,Funafuti,179.089567,-8.6314877,Upper middle income,IDA
+Uganda,UG,UGA,2020,,2026-04-08,119056656372.302,44457152,Sub-Saharan Africa,Kampala,32.5729,0.314269,Low income,IDA
+Uganda,UG,UGA,2021,,2026-04-08,123267190675.87,45910930,Sub-Saharan Africa,Kampala,32.5729,0.314269,Low income,IDA
+Uganda,UG,UGA,2022,,2026-04-08,128922716406.488,47312719,Sub-Saharan Africa,Kampala,32.5729,0.314269,Low income,IDA
+Uganda,UG,UGA,2023,,2026-04-08,135803286914.102,48656601,Sub-Saharan Africa,Kampala,32.5729,0.314269,Low income,IDA
+Ukraine,UA,UKR,2020,,2026-04-08,721606765377.531,44680014,Europe & Central Asia,Kiev,30.5038,50.4536,Upper middle income,IBRD
+Ukraine,UA,UKR,2021,,2026-04-08,746470597165.436,44298640,Europe & Central Asia,Kiev,30.5038,50.4536,Upper middle income,IBRD
+Ukraine,UA,UKR,2022,,2026-04-08,531796221835.605,41048766,Europe & Central Asia,Kiev,30.5038,50.4536,Upper middle income,IBRD
+Ukraine,UA,UKR,2023,,2026-04-08,561229725741.223,37732836,Europe & Central Asia,Kiev,30.5038,50.4536,Upper middle income,IBRD
+United Arab Emirates,AE,ARE,2023,,2026-04-08,736377153089.291,10483751,Middle East & North Africa,Abu Dhabi,54.3705,24.4764,High income,Not classified
+United Arab Emirates,AE,ARE,2020,,2026-04-08,628070636282.95,9401038,Middle East & North Africa,Abu Dhabi,54.3705,24.4764,High income,Not classified
+United Arab Emirates,AE,ARE,2021,,2026-04-08,656665346475.563,9575152,Middle East & North Africa,Abu Dhabi,54.3705,24.4764,High income,Not classified
+United Arab Emirates,AE,ARE,2022,,2026-04-08,706010360564.282,10074977,Middle East & North Africa,Abu Dhabi,54.3705,24.4764,High income,Not classified
+United Kingdom,GB,GBR,2020,,2026-04-08,3147579327299.14,66744000,Europe & Central Asia,London,-0.126236,51.5002,High income,Not classified
+United Kingdom,GB,GBR,2021,,2026-04-08,3416480549650.65,66984000,Europe & Central Asia,London,-0.126236,51.5002,High income,Not classified
+United Kingdom,GB,GBR,2022,,2026-04-08,3592419181254.14,67604000,Europe & Central Asia,London,-0.126236,51.5002,High income,Not classified
+United Kingdom,GB,GBR,2023,,2026-04-08,3602177989697.14,68492000,Europe & Central Asia,London,-0.126236,51.5002,High income,Not classified
+United States,US,USA,2020,,2026-04-08,22329130338640.6,331577720,North America,Washington D.C.,-77.032,38.8895,High income,Not classified
+United States,US,USA,2021,,2026-04-08,23681171000000,332099760,North America,Washington D.C.,-77.032,38.8895,High income,Not classified
+United States,US,USA,2022,,2026-04-08,24276130895657.9,334017321,North America,Washington D.C.,-77.032,38.8895,High income,Not classified
+United States,US,USA,2023,,2026-04-08,24977117771722.8,336806231,North America,Washington D.C.,-77.032,38.8895,High income,Not classified
+Upper middle income,XT,,2022,,2026-04-08,56327967663947.8,2803106334,NA,NA,NA,NA,NA,NA
+Upper middle income,XT,,2023,,2026-04-08,58851110083185.9,2809097616,NA,NA,NA,NA,NA,NA
+Upper middle income,XT,,2020,,2026-04-08,50803142551264.3,2784871872,NA,NA,NA,NA,NA,NA
+Upper middle income,XT,,2021,,2026-04-08,54542247612640.4,2796004294,NA,NA,NA,NA,NA,NA
+Uruguay,UY,URY,2020,,2026-04-08,94451153281.7393,3398968,Latin America & Caribbean,Montevideo,-56.0675,-34.8941,High income,IBRD
+Uruguay,UY,URY,2021,,2026-04-08,99971136649.7861,3396695,Latin America & Caribbean,Montevideo,-56.0675,-34.8941,High income,IBRD
+Uruguay,UY,URY,2022,,2026-04-08,104456068805.088,3390913,Latin America & Caribbean,Montevideo,-56.0675,-34.8941,High income,IBRD
+Uruguay,UY,URY,2023,,2026-04-08,105231267359.7,3388081,Latin America & Caribbean,Montevideo,-56.0675,-34.8941,High income,IBRD
+Uzbekistan,UZ,UZB,2020,,2026-04-08,293122074101.798,33586372,Europe & Central Asia,Tashkent,69.269,41.3052,Lower middle income,Blend
+Uzbekistan,UZ,UZB,2021,,2026-04-08,316673503929.41,34243696,Europe & Central Asia,Tashkent,69.269,41.3052,Lower middle income,Blend
+Uzbekistan,UZ,UZB,2022,,2026-04-08,335678164943.395,34938955,Europe & Central Asia,Tashkent,69.269,41.3052,Lower middle income,Blend
+Uzbekistan,UZ,UZB,2023,,2026-04-08,356797075898.787,35652307,Europe & Central Asia,Tashkent,69.269,41.3052,Lower middle income,Blend
+Vanuatu,VU,VUT,2020,,2026-04-08,974275716.469933,298858,East Asia & Pacific,Port-Vila,168.321,-17.7404,Lower middle income,IDA
+Vanuatu,VU,VUT,2021,,2026-04-08,959152084.296046,305868,East Asia & Pacific,Port-Vila,168.321,-17.7404,Lower middle income,IDA
+Vanuatu,VU,VUT,2022,,2026-04-08,1008895904.24166,313046,East Asia & Pacific,Port-Vila,168.321,-17.7404,Lower middle income,IDA
+Vanuatu,VU,VUT,2023,,2026-04-08,1030019594.1368,320409,East Asia & Pacific,Port-Vila,168.321,-17.7404,Lower middle income,IDA
+"Venezuela, RB",VE,VEN,2020,,2026-04-08,NA,28444077,Latin America & Caribbean,Caracas,-69.8371,9.08165,Not classified,IBRD
+"Venezuela, RB",VE,VEN,2021,,2026-04-08,NA,28237826,Latin America & Caribbean,Caracas,-69.8371,9.08165,Not classified,IBRD
+"Venezuela, RB",VE,VEN,2022,,2026-04-08,NA,28213017,Latin America & Caribbean,Caracas,-69.8371,9.08165,Not classified,IBRD
+"Venezuela, RB",VE,VEN,2023,,2026-04-08,NA,28300854,Latin America & Caribbean,Caracas,-69.8371,9.08165,Not classified,IBRD
+Viet Nam,VN,VNM,2020,,2026-04-08,1162375387665.02,98079191,East Asia & Pacific,Hanoi,105.825,21.0069,Lower middle income,IBRD
+Viet Nam,VN,VNM,2021,,2026-04-08,1192059299524.62,98935098,East Asia & Pacific,Hanoi,105.825,21.0069,Lower middle income,IBRD
+Viet Nam,VN,VNM,2022,,2026-04-08,1293831367795.1,99680655,East Asia & Pacific,Hanoi,105.825,21.0069,Lower middle income,IBRD
+Viet Nam,VN,VNM,2023,,2026-04-08,1359364235987.88,100352192,East Asia & Pacific,Hanoi,105.825,21.0069,Lower middle income,IBRD
+Virgin Islands (U.S.),VI,VIR,2020,,2026-04-08,4788979167.66715,106290,Latin America & Caribbean,Charlotte Amalie,-64.8963,18.3358,High income,Not classified
+Virgin Islands (U.S.),VI,VIR,2021,,2026-04-08,4964620106.61981,105870,Latin America & Caribbean,Charlotte Amalie,-64.8963,18.3358,High income,Not classified
+Virgin Islands (U.S.),VI,VIR,2022,,2026-04-08,4899522415.95903,105413,Latin America & Caribbean,Charlotte Amalie,-64.8963,18.3358,High income,Not classified
+Virgin Islands (U.S.),VI,VIR,2023,,2026-04-08,NA,104917,Latin America & Caribbean,Charlotte Amalie,-64.8963,18.3358,High income,Not classified
+West Bank and Gaza,PS,PSE,2020,,2026-04-08,26051406241.5946,4803269,Middle East & North Africa,,,,Lower middle income,Not classified
+West Bank and Gaza,PS,PSE,2021,,2026-04-08,27878126229.8832,4922749,Middle East & North Africa,,,,Lower middle income,Not classified
+West Bank and Gaza,PS,PSE,2022,,2026-04-08,29016323292.585,5043612,Middle East & North Africa,,,,Lower middle income,Not classified
+West Bank and Gaza,PS,PSE,2023,,2026-04-08,27694396392.5972,5165775,Middle East & North Africa,,,,Lower middle income,Not classified
+World,1W,WLD,2020,,2026-04-08,147759549338760,7854748424,Aggregates,,,,Aggregates,Aggregates
+World,1W,WLD,2021,,2026-04-08,157355030398695,7920514854,Aggregates,,,,Aggregates,Aggregates
+World,1W,WLD,2022,,2026-04-08,163062160489275,7989545217,Aggregates,,,,Aggregates,Aggregates
+World,1W,WLD,2023,,2026-04-08,168686420963648,8064057930,Aggregates,,,,Aggregates,Aggregates
+"Yemen, Rep.",YE,YEM,2020,,2026-04-08,NA,36134863,Middle East & North Africa,Sana'a,44.2075,15.352,Low income,IDA
+"Yemen, Rep.",YE,YEM,2021,,2026-04-08,NA,37140230,Middle East & North Africa,Sana'a,44.2075,15.352,Low income,IDA
+"Yemen, Rep.",YE,YEM,2022,,2026-04-08,NA,38222876,Middle East & North Africa,Sana'a,44.2075,15.352,Low income,IDA
+"Yemen, Rep.",YE,YEM,2023,,2026-04-08,NA,39390799,Middle East & North Africa,Sana'a,44.2075,15.352,Low income,IDA
+Zambia,ZM,ZMB,2020,,2026-04-08,64641756629.1277,19059395,Sub-Saharan Africa,Lusaka,28.2937,-15.3982,Lower middle income,IDA
+Zambia,ZM,ZMB,2021,,2026-04-08,68672119764.9363,19603607,Sub-Saharan Africa,Lusaka,28.2937,-15.3982,Lower middle income,IDA
+Zambia,ZM,ZMB,2022,,2026-04-08,72250777479.1933,20152938,Sub-Saharan Africa,Lusaka,28.2937,-15.3982,Lower middle income,IDA
+Zambia,ZM,ZMB,2023,,2026-04-08,76129157926.5195,20723965,Sub-Saharan Africa,Lusaka,28.2937,-15.3982,Lower middle income,IDA
+Zimbabwe,ZW,ZWE,2020,,2026-04-08,70301399484.9779,15526888,Sub-Saharan Africa,Harare,31.0672,-17.8312,Lower middle income,Blend
+Zimbabwe,ZW,ZWE,2021,,2026-04-08,76254533781.5607,15797210,Sub-Saharan Africa,Harare,31.0672,-17.8312,Lower middle income,Blend
+Zimbabwe,ZW,ZWE,2022,,2026-04-08,80936000370.0699,16069056,Sub-Saharan Africa,Harare,31.0672,-17.8312,Lower middle income,Blend
+Zimbabwe,ZW,ZWE,2023,,2026-04-08,85266779554.5421,16340822,Sub-Saharan Africa,Harare,31.0672,-17.8312,Lower middle income,Blend
