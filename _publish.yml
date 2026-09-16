@@ -1,3 +1,5 @@
 - source: project
   netlify:
-    - url: 'https://developmenteconomics-fall26.netlify.app/'
+    - url: https://developmenteconomics-fall26.netlify.app/
+    - id: aeda54bf-b567-442f-a79f-5e93aded277e
+      url: https://spiffy-toffee-ec7b8d.netlify.app

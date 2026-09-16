@@ -11,19 +11,8 @@ As we will see throughout this course, the fundamental ideas of these four appro
 
 ## 🖥️ Lecture Slides 
 
-Either click on the slide area below or click 
-[here](slides/DevEcon26_L01_MeaningDevelopment.pdf) to download the slides.
-
-```{=html}
-<div class="embed-container">
-  <iframe 
-  src="/content/material/slides/DevEcon26_L01_MeaningDevelopment.pdf" 
-  style="border: 0.5px" 
-  width="80%"
-  height="80%"
-  ></iframe>
-</div>
-```
+<!-- slides: pending -->
+*The slides will be made available here after the lecture.*
 
 
 ## 📚 Follow-up Reading

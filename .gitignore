@@ -3,6 +3,11 @@
 INBOX
 content/material/slides/_keynote
 
+# The rendered site is deployed straight to Netlify with `quarto publish
+# netlify` (see Update.command), so it is no longer kept in the repository.
+/_site/
+.last-publish
+
 _freeze/
 .Rproj.user/
 renv/

@@ -17,13 +17,8 @@ Unlike Sessions 4 (growth models) and 5 (institutional economics), which largely
 
 ## 🖥️ Lecture Slides
 
-Either click on the slide area below or click [here](slides/DevEcon26_L07_Marxism.pdf) to download the slides.
-
-```{=html}
-<div class="container" style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%;">
-<iframe src="slides/DevEcon26_L07_Marxism.pdf" style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;" allowfullscreen loading="lazy"></iframe>
-</div>
-```
+<!-- slides: pending -->
+*The slides will be made available here after the lecture.*
 
 ## 🎯 Interactive and follow-up exercises
 

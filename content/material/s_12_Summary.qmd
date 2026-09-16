@@ -12,4 +12,5 @@ theories of development.
 
 ## 🖥️ Lecture Slides
 
-*Slides to follow.*
+<!-- slides: pending -->
+*The slides will be made available here after the lecture.*

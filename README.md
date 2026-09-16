@@ -34,5 +34,33 @@ When using for a new course, adjust the following:
 - References should be in `references/references.bib`
 
 
+## Publishing the site
+
+The website is deployed **directly from this machine to Netlify** with the
+Quarto CLI — Netlify does *not* build from GitHub, and the rendered site in
+`_site/` is not part of the repository.
+
+Two double-clickable helper scripts drive the everyday workflow:
+
+- **`PublishSlides.command`** — puts the download link to a lecture's slides on
+  its session page (or takes it offline again). Until a deck is published, the
+  page only shows a placeholder. Run this after a lecture has been given.
+- **`Update.command`** — checks whether any page, slide deck, data set or style
+  file has changed since the last deployment and, if so, renders the site and
+  publishes it to Netlify. The time of the last deployment is stored in
+  `.last-publish`; delete that file to force a full redeployment.
+
+The manual equivalent is:
+
+```bash
+quarto render
+quarto publish netlify
+```
+
+The Netlify site id and URL are stored in `_publish.yml`. Source changes should
+still be committed and pushed to GitHub — the repository remains the archive of
+the course, it is just no longer what Netlify builds from.
+
+
 Inspired by [this template](https://github.com/jonjoncardoso/quarto-template-for-university-courses).
 
