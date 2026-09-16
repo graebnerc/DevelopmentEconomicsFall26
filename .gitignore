@@ -1,6 +1,7 @@
 .vscode/
 /.quarto/
 INBOX
+content/material/slides/_keynote
 
 _freeze/
 .Rproj.user/

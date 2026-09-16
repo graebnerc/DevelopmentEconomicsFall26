@@ -55,8 +55,8 @@ The lecture is an elective in the third or fifth semester. While there are no fo
 ### Course Details
 
 - **Credits:** 5 CP (150 total hours)
-- **Lecture Time:** 15 hours (10 × 1.5 hours)
-- **Self-Study:** 135 hours
+- **Lecture Time:** 24 hours (10 × 2 hours)
+- **Self-Study:** 126 hours
 - **Location:** MAD, room 131
 :::
 
