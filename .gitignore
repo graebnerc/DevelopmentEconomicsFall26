@@ -3,6 +3,10 @@
 INBOX
 content/material/slides/_keynote
 
+# Revealjs decks: the .qmd source, the theme and the exported PDF are tracked;
+# the rendered HTML is build output (several MB, rewritten on every render).
+content/material/slides/*.html
+
 # The rendered site is deployed straight to Netlify with `quarto publish
 # netlify` (see Update.command), so it is no longer kept in the repository.
 /_site/

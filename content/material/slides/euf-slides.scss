@@ -1,0 +1,440 @@
+/*-----------------------------------------------------------------------------
+  EUF slide theme for reveal.js — reproduces the *modernised* Keynote master
+  (16:9, Inter), as used in "Working with data" (Slide-Example.pdf).
+
+  Measured from the master rather than guessed:
+    canvas          1440 x 810 pt (16:9)
+    typeface        Inter — Regular / SemiBold / Bold
+    title           #00395B bold, left, followed by a short blue dash rule
+    body, level 1   #00395B regular; bold emphasis in the darker #192F4A
+    body, level 2   #6F6F6F, smaller
+    accents         teal #1C7F7B, red #DF5541
+    hairline        #D5D5D5
+    section divider full-bleed #00395B, section number #68859A, white title,
+                    name bottom-left and "EUF · ICAE" bottom-right
+    content footer  hairline, EUF logo bottom-left, bold grey number right
+
+  Layout vocabulary this file provides:
+    ## Assertion title            → title; dash rule is added automatically
+    ::: {.dek}   …   :::          → explanatory line under the title
+                                    (its presence removes the dash rule)
+    ::: {.source} … :::           → grey source line at the foot of the body
+    ## Title {.divider}           → section divider (add background-color)
+    ::: {.secnum} 02 :::          → the big section number on a divider
+    ::: {.quote} / {.attribution} → full-bleed pull-quote slide
+    ::: {.grid2} + ::: {.cap}     → grid of bordered concept boxes
+    ::: {.grid2 .lg} / {.xl}      → the same grid, enlarged
+    ::: {.columns .divided}       → two columns with a vertical hairline
+    ::: {.keybox} … :::           → bordered box, centred, for a takeaway
+    ::: {.keybox .lg} / {.xl}     → the same box, enlarged for emphasis
+    ::: {.taskbox} … :::          → large, low-sitting box for exercise slides
+    ::: {.arrow} … :::            → the fat-arrow conclusion line
+-----------------------------------------------------------------------------*/
+
+/*-- scss:defaults --*/
+
+// ---- Inter, self-hosted ----------------------------------------------------
+// The typeface of the modernised master, embedded as base64 by
+// assets/fonts/make-inter-scss.sh and imported in the rules section below.
+// Deliberately not loaded from the Google CDN, so the deck renders in Inter
+// for every site visitor and in a lecture room with no network, and cannot
+// break if fonts.googleapis.com is blocked by a university proxy.
+
+// ---- palette, sampled from the master --------------------------------------
+$euf-blue:      #00395B; // titles, level-1 body text, divider background
+$euf-navy:      #192F4A; // bold emphasis inside body text
+$euf-gray:      #6F6F6F; // sub-bullets, deks, sources
+$euf-steel:     #68859A; // section number + footer on the blue dividers
+$euf-teal:      #1C7F7B; // accent
+$euf-red:       #DF5541; // accent
+$euf-rule:      #D5D5D5; // hairlines
+$euf-quotemark: #8FBBD9; // the oversized quotation mark
+
+$body-bg:    #FFFFFF;
+$body-color: $euf-blue;
+$link-color: $euf-blue;
+
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont,
+  "Helvetica Neue", Arial, sans-serif;
+$font-family-monospace: "SFMono-Regular", Menlo, Monaco, Consolas, monospace;
+
+// 23px on a 1600x900 canvas would match the 21pt body copy of the 1440x810
+// master exactly. 26px sits deliberately above it, for legibility from the
+// back of the room. Re-run the overflow check after raising this: the task
+// table and the two-column comparison slides are the first to break.
+$presentation-font-size-root:      26px;
+$presentation-heading-font:         $font-family-sans-serif;
+$presentation-heading-color:        $euf-blue;
+$presentation-heading-font-weight:  700;
+$presentation-h1-font-size:         2.4em;
+$presentation-h2-font-size:         1.90em;
+$presentation-h3-font-size:         1.0em;
+$presentation-slide-text-align:     left;
+
+$code-block-font-size: 0.55em;
+
+/*-- scss:rules --*/
+
+// Inter @font-face rules (base64 data URIs — see the note above).
+@import "assets/fonts/inter";
+
+// ---- body copy -------------------------------------------------------------
+// Level 1 is Kobaltblau; bold emphasis goes *darker*, not brighter. Level 2
+// drops to grey. This inversion is characteristic of the new master.
+.reveal p,
+.reveal li { line-height: 1.35; }
+
+// Specificity note: Quarto's reveal stylesheet targets
+// `.reveal .slides section ul li`, so the list rules have to match that
+// depth or the generous spacing of the master is silently lost.
+.reveal ul { margin-left: 0.3em; list-style-type: disc; }
+.reveal .slides section ul > li {
+  color: $euf-blue;
+  margin-bottom: 1.15em;
+}
+.reveal .slides section ul ul {
+  margin-top: 0.9em;
+  margin-left: 0.9em;
+  list-style-type: disc;
+}
+.reveal .slides section ul ul > li {
+  color: $euf-gray;
+  font-size: 0.84em;
+  margin-bottom: 0.85em;
+}
+.reveal ul ul ul { list-style-type: disc; }
+
+.reveal strong { color: $euf-navy; font-weight: 700; }
+.reveal ul ul strong { color: $euf-gray; font-weight: 700; }
+
+.reveal .teal { color: $euf-teal; }
+.reveal .red  { color: $euf-red; }
+.reveal .muted { color: $euf-gray; }
+
+// ---- title + dash rule -----------------------------------------------------
+.reveal h2 {
+  margin: 0 0 0.55em 0;
+  letter-spacing: -0.015em;
+  line-height: 1.1;
+}
+
+// The short rule under the title. In the master it appears on topic slides
+// and is dropped on assertion slides that carry a dek instead.
+.reveal section > h2::after {
+  content: "";
+  display: block;
+  width: 2.6rem;
+  height: 4px;
+  margin-top: 0.55em;
+  background: $euf-blue;
+}
+.reveal section:has(.dek) > h2::after,
+.reveal section.no-dash > h2::after { display: none; }
+
+// ---- dek: the explanatory line under an assertion title --------------------
+.reveal .dek {
+  color: $euf-gray;
+  font-size: 0.88em;
+  line-height: 1.35;
+  margin: -0.1em 0 1.6em 0;
+  max-width: 92%;
+}
+.reveal .dek p { margin: 0; }
+
+// ---- source line -----------------------------------------------------------
+.reveal .source {
+  color: $euf-gray;
+  font-size: 0.58em;
+  line-height: 1.3;
+  margin-top: 1.1em;
+}
+.reveal .source p { margin: 0; }
+
+// ---- section dividers ------------------------------------------------------
+// ## Title {.divider background-color="#00395B"}
+.reveal section.divider {
+  height: 100%;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 0.4em;
+}
+.reveal section.divider > h2 {
+  color: #FFFFFF;
+  font-size: 2.4em;
+  margin: 0;
+}
+.reveal section.divider > h2::after {
+  background: $euf-steel;
+  width: 3.1rem;
+  margin-top: 0.75em;
+}
+// The oversized section number sits above the title.
+.reveal section.divider .secnum {
+  order: -1;
+  color: $euf-steel;
+  font-weight: 700;
+  font-size: 2.0em;
+  line-height: 1;
+  margin-bottom: 0.15em;
+}
+.reveal section.divider .secnum p { margin: 0; }
+
+// Divider footer: name left, institutions right. Generated, so that no
+// markup has to be repeated on every divider slide.
+.reveal section.divider::before,
+.reveal section.divider::after {
+  position: absolute;
+  bottom: 0;
+  font-size: 0.62em;
+  font-weight: 700;
+  color: $euf-steel;
+}
+// "EUF" alone: this is a Flensburg module, so the ICAE half of the personal
+// master does not apply. Change the string here to restore "EUF · ICAE".
+.reveal section.divider::before { content: "Claudius Gräbner-Radkowitsch"; left: 0; }
+.reveal section.divider::after  { content: "EUF"; right: 0; }
+
+// Dividers carry neither logo, footer nor slide number in the master.
+.reveal section.divider ~ .footer,
+body:has(section.divider.present) .footer,
+body:has(section.divider.present) .slide-number,
+body:has(section.divider.present) .slide-logo { display: none !important; }
+
+// ---- full-bleed pull-quote slide -------------------------------------------
+.reveal section.quote {
+  height: 100%;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+}
+.reveal section.quote .quotebody {
+  color: #FFFFFF;
+  font-size: 0.86em;
+  line-height: 1.45;
+  padding-left: 2.6em;
+  position: relative;
+}
+.reveal section.quote .quotebody::before {
+  content: "\201C";
+  position: absolute;
+  left: 0;
+  top: -0.35em;
+  font-size: 3.4em;
+  line-height: 1;
+  font-weight: 700;
+  color: $euf-quotemark;
+}
+.reveal section.quote .quotebody strong { color: #FFFFFF; }
+.reveal section.quote .attribution {
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 0.72em;
+  text-align: right;
+  margin-top: 0.9em;
+}
+.reveal section.quote .attribution p { margin: 0; }
+
+// ---- grid of bordered concept boxes ----------------------------------------
+.reveal .grid2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.1em 1.6em;
+}
+.reveal .cap {
+  border: 1.5px solid $euf-blue;
+  padding: 1.15em 1.35em;
+}
+// Deliberately a span, not a heading: Pandoc promotes a single-class fenced
+// div that begins with a heading to <section>, which reveal.js then treats as
+// a nested slide.
+.reveal .cap .caphead {
+  display: block;
+  color: $euf-blue;
+  font-weight: 700;
+  font-size: 1.05em;
+  margin: 0 0 0.5em 0;
+}
+.reveal .cap p {
+  margin: 0;
+  color: $euf-gray;
+  font-size: 0.88em;
+  line-height: 1.4;
+}
+
+// Size variants. Apply to one box — ::: {.cap .lg} — or to the whole grid —
+// ::: {.grid2 .lg} — which scales all four boxes together and is usually what
+// you want, since the boxes should stay visually equal.
+.reveal .cap.lg,
+.reveal .grid2.lg .cap { padding: 1.35em 1.55em; }
+.reveal .cap.lg .caphead,
+.reveal .grid2.lg .cap .caphead { font-size: 1.2em; }
+.reveal .cap.lg p,
+.reveal .grid2.lg .cap p { font-size: 1.0em; }
+
+.reveal .cap.xl,
+.reveal .grid2.xl .cap { padding: 1.55em 1.8em; }
+.reveal .cap.xl .caphead,
+.reveal .grid2.xl .cap .caphead { font-size: 1.35em; }
+.reveal .cap.xl p,
+.reveal .grid2.xl .cap p { font-size: 1.15em; }
+
+// ---- two-column comparison -------------------------------------------------
+.reveal .columns {
+  display: flex;
+  align-items: flex-start;
+}
+.reveal .columns.divided > .column:first-child {
+  border-right: 1px solid $euf-rule;
+  padding-right: 1.5em;
+}
+.reveal .columns.divided > .column:last-child { padding-left: 1.5em; }
+
+.reveal .colhead {
+  color: $euf-blue;
+  font-weight: 700;
+  font-size: 0.84em;
+  margin: 0 0 0.75em 0;
+}
+
+// ---- bordered takeaway box + fat-arrow line --------------------------------
+.reveal .keybox {
+  border: 1.5px solid $euf-blue;
+  color: $euf-blue;
+  text-align: center;
+  padding: 1.0em 1.4em;
+  margin: 1.6em auto 0 auto;
+  width: 82%;
+  font-size: 1.0em;
+  line-height: 1.45;
+}
+.reveal .keybox p { margin: 0; }
+
+// Size variants for a single box: ::: {.keybox .lg}  /  ::: {.keybox .xl}
+// Use when one takeaway should carry more weight than the others. For a
+// one-off tweak that does not deserve a class, an inline style also works:
+//   ::: {.keybox style="font-size: 1.45em;"}
+.reveal .keybox.lg {
+  font-size: 1.3em;
+  padding: 1.3em 1.7em;
+}
+.reveal .keybox.xl {
+  font-size: 1.6em;
+  padding: 1.5em 2.0em;
+  width: 88%;
+}
+
+// A larger, lower-sitting box for exercise slides, where the instruction is
+// the entire content of the slide.
+.reveal .taskbox {
+  border: 1.5px solid $euf-blue;
+  color: $euf-blue;
+  text-align: center;
+  padding: 1.4em 1.8em;
+  margin: 3.0em auto 0 auto;
+  width: 80%;
+  font-size: 1.05em;
+  line-height: 1.55;
+}
+.reveal .taskbox p { margin: 0; }
+
+.reveal .arrow {
+  color: $euf-blue;
+  font-weight: 700;
+  font-size: 0.9em;
+  margin-top: 1.2em;
+}
+.reveal .arrow p { margin: 0; }
+.reveal .arrow p::before {
+  content: "\27A1";
+  color: $euf-blue;
+  margin-right: 0.5em;
+}
+
+// Size variants, matching .keybox and .grid2/.cap:
+//   ::: {.arrow .lg}  /  ::: {.arrow .xl}
+.reveal .arrow.lg {
+  font-size: 1.05em;
+  margin-top: 1.4em;
+}
+.reveal .arrow.xl {
+  font-size: 1.2em;
+  margin-top: 1.6em;
+  line-height: 1.4;
+}
+
+// ---- tables ----------------------------------------------------------------
+.reveal table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.60em;
+  margin: 0;
+  color: $euf-blue;
+}
+.reveal table th {
+  color: $euf-blue;
+  font-weight: 700;
+  text-align: left;
+  border: none;
+  border-bottom: 1.5px solid $euf-blue;
+  padding: 0.4em 0.6em;
+  background: none;
+}
+.reveal table td {
+  border: none;
+  border-bottom: 1px solid $euf-rule;
+  padding: 0.42em 0.6em;
+  vertical-align: top;
+}
+.reveal table tbody tr:last-child td { border-bottom: 1px solid $euf-rule !important; }
+// Third column carries the caveat — grey, like a sub-bullet.
+.reveal table.tasks td:last-child { color: $euf-gray; }
+
+// ---- footer chrome on content slides ---------------------------------------
+.reveal .footer {
+  border-top: 1px solid $euf-rule;
+  width: 92% !important;
+  left: 4% !important;
+  bottom: 16px !important;
+  height: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 0;      // the master shows no name on content slides
+}
+
+.reveal .slide-number {
+  color: $euf-gray !important;
+  background: none !important;
+  font-size: 15px;
+  font-weight: 700;
+  top: auto !important;
+  bottom: 16px !important;
+  right: 4% !important;
+  left: auto !important;
+}
+
+.reveal .slide-logo {
+  left: 4%;
+  right: auto !important;
+  bottom: 10px !important;
+  max-height: 40px !important;
+  height: auto !important;
+}
+
+// ---- reveal menu button ----------------------------------------------------
+// The menu (Tools > Print to PDF, slide overview, …) sits bottom-left by
+// default, directly on top of the EUF logo. Moved to the top right, where the
+// left-aligned titles leave it clear. Keyboard shortcut: "m".
+.reveal .slide-menu-button {
+  left: auto !important;
+  right: 18px !important;
+  bottom: auto !important;
+  top: 14px !important;
+  z-index: 60;
+}
+.reveal .slide-menu-button a {
+  color: $euf-gray;
+  opacity: 0.45;
+  transition: opacity 0.15s ease;
+}
+.reveal .slide-menu-button a:hover { opacity: 1; }
